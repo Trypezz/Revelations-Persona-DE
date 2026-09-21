@@ -31,7 +31,7 @@ iso/PSP_GAME/SYSDIR/BOOT.BIN
 iso/PSP_GAME/USRDIR/
 ```
 
-The needed file are <br>
+The needed files are <br>
 `EBOOT.BIN` inside `PSP_GAME/SYSDIR/EBOOT.BIN` <br>
 `EX.BIN` inside `PSP_GAME/USRDIR/pack/EX.BIN` <br>
 

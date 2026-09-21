@@ -1,5 +1,7 @@
 # Revelations: Persona DE
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Trypezz.Revelations-Persona-DE&"  />
+
 Unofficial German translation of Revelations: Persona for the PSP.
 
 This repo is the translation. German `.TXT` files, notes, and the scripts that copy those files into a local tool. The game itself does not belong here.

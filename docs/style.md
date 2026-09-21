@@ -31,7 +31,7 @@ The US script is casual high-school talk mixed with occult jargon. German should
 
 - Students: `Du`, `du`
 - Most adults (Teachers, Nurses etc) to students: `Du`, `du`
-- Student adults to adults: `Sie`, unless their are quite familiar
+- Students and adults to other adults: `Sie`, unless their are quite familiar
 
 ## Names
 
@@ -39,7 +39,7 @@ Canonical forms live in `docs/glossary.md`. In dialogue, use the name the Englis
 
 ## Line length
 
-Aim to match the English line count per box. If German needs an extra `(*LINE_BREAK*)`, you are probably too long. But u can test if u can add `(*LINE_BREAK)`, the game will automatically scroll the box until now. I don't know how it will affect later moments in the game yet.
+Aim to match the English line count per box. If German needs an extra `(*LINE_BREAK*)`, you are probably too long. But u can test if u can add `(*LINE_BREAK*)`, the game will automatically scroll the box until now. I don't know how it will affect later moments in the game yet.
 
 ## Things that are easy to break
 
