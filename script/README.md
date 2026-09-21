@@ -22,6 +22,10 @@ E4/
 
 E0 has 223 scenes. E1-E4 are empty except `.gitkeep` until we extract them.
 
+## Note
+
+E0_001, E0_002 and E0_003 have the same entries for the `Agastya-Tree` (The tree where you save your game). I do not know why but I translated them anyways in case they are used somewhere in the game.
+
 ## Files
 
 One file is one event. The name looks like `E0_000.TXT`, `E0_001.TXT` and so on.

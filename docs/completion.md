@@ -8,3 +8,5 @@ Because we count scenes, not binaries
 | Binary | Completion |
 | ------ | ---------- |
 | E0     | 004/223    |
+
+Last edited scene: E0_003

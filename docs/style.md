@@ -29,7 +29,7 @@ If a character does not exist in the table, PersonaFlowReader will not encode it
 
 The US script is casual high-school talk mixed with occult jargon. German should stay spoken, not bookish.
 
-- Students: `Du`, `du`
+- Students to other studens: `Du`, `du`
 - Most adults (Teachers, Nurses etc) to students: `Du`, `du`
 - Students and adults to other adults: `Sie`, unless their are quite familiar
 
