@@ -9,4 +9,4 @@ Because we count scenes, not binaries
 | ------ | ---------- |
 | E0     | 004/223    |
 
-Last edited scene: E0_003
+Last edited scene: E0_004.TXT (Done: No)

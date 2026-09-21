@@ -1,0 +1,19 @@
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Hey, wh-what was that!? Why was I--(*LINE_BREAK*)What was that thing!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)You too, eh, Hidehiko? But why him,(*LINE_BREAK*)of all people...?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Alright, lemme explain it to you.(*LINE_BREAK*)Listen up...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Awesome! I really am a superhero!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Ever since I was a kid... I suspected(*LINE_BREAK*)something was different about me...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)I don’t think he really gets it...(*LINE_BREAK*)Oh well.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Anyways, I’m comin’ too, (*PLAYER_FIRST_NAME*).(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)I’d be nervous for you guys if you were(*LINE_BREAK*)on your own.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)We could say the same about you.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)You should leave the security card in(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)’s care, Masao.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Alright...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Here’s the security card, man. Better(*LINE_BREAK*)not lose that thing...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)We have a firearm for you, Masao.(*LINE_BREAK*)Just don’t shoot us by mistake.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Hey, hey, think I should come with(*LINE_BREAK*)you guys?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Without me, you fools don’t have any(*LINE_BREAK*)star power, y’know?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)You guys need me to whip you into(*LINE_BREAK*)shape! How about it, (*PLAYER_FIRST_NAME*)!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)...It’s your call, (*PLAYER_FIRST_NAME*).(*AWAITING_INPUT*)(*SHOW_OPTIONS,7*)"	// Shows options: |"Let them join"|"Don't let them join"|
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Are you certain that you want to bring(*LINE_BREAK*)Hidehiko along?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Are you certain that you don’t want to(*LINE_BREAK*)bring Hidehiko along?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Great! I’m down--not like I have a(*LINE_BREAK*)choice! Hahahahaha!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Then here’s a firearm for you, too,(*LINE_BREAK*)Hidehiko. Don’t be careless with it.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)...What’s that look for...?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Oh? Is that... Really? You’re sure(*LINE_BREAK*)you won’t regret it?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Alright... Guess I’ll head to the(*LINE_BREAK*)school, then. Later, chumps!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Hooray! Now that everyone’s together...(*LINE_BREAK*)Uh, where were we going?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Hold on tight to that security card.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)We need it to get into the secret freight(*LINE_BREAK*)entrance at the abandoned factory.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)I can’t believe ol’ Baldy turned into(*LINE_BREAK*)a demon... This is so messed up!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Should my battle cry be ”Let’s go!”(*LINE_BREAK*)or ”Persona!”?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)...Nah, those are both too lame. Maybe(*LINE_BREAK*)something like, ”Go get ’em!”(*AWAITING_INPUT*)"

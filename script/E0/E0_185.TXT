@@ -1,0 +1,11 @@
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Hi! I’m Trish and this is my fountain(*LINE_BREAK*)of healing!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Trish(*LINE_BREAK*)This world runs on give-and-take! Give(*LINE_BREAK*)me money and I’ll take away your pain!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)What do you say?(*AWAITING_INPUT*)(*SHOW_OPTIONS,17*)"	// Shows options: |"Heal us, please."|"Just dropping by."|
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Okay!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Umm, with the going rate for healing...(*LINE_BREAK*)And all of you put together...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)It’ll be 5,000 yen.(*LINE_BREAK*)That’s okay, right?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Great! Then here goes!(*LINE_BREAK*)Pain, pain, go away!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Phew... That should do it!(*LINE_BREAK*)You’re all good to go!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)You don’t have enough!? Boo to that!(*LINE_BREAK*)There’s nothing I hate like poor people!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Come back when your wallet’s fuller.(*LINE_BREAK*)Bye-bye!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Boo to that! You mangy, dirty bum!(*LINE_BREAK*)Don’t blame me if you wind up dead!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)Well, come again. I’ll be waiting!(*LINE_BREAK*)Bye-bye!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Trish(*LINE_BREAK*)You called me out for no reason!?(*LINE_BREAK*)Boo to that! Get outta here!(*AWAITING_INPUT*)"

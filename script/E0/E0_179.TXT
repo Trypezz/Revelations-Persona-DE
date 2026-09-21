@@ -1,0 +1,5 @@
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! This one’s still alive!(*LINE_BREAK*)Gimme a hand here!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)We haven’t time to waste here, (*PLAYER_FIRST_NAME*)!(*LINE_BREAK*)It’s too late for her, but not for us!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Yo, (*PLAYER_FIRST_NAME*)! The monsters are just(*LINE_BREAK*)around the corner!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)’s voice(*LINE_BREAK*)Remember this? You left the poor woman(*LINE_BREAK*)to die...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)’s voice(*LINE_BREAK*)”I’m looking out for number one”... Are(*LINE_BREAK*)you sure that wasn’t your reasoning?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)’s voice(*LINE_BREAK*)Remember this? You saved this woman,(*LINE_BREAK*)heedless of your own safety...(*AWAITING_INPUT*)"

@@ -1,0 +1,9 @@
+"(*CHARACTER_NAME*)Setsuko Sonomura(*LINE_BREAK*)...And that’s what happened.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)So that’s what SEBEC is up to, huh...?(*LINE_BREAK*)I can’t believe them!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)Hey, (*PLAYER_FIRST_NAME*)? Sorry to ask, but...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)Could you go by the hole and ask Yukino(*LINE_BREAK*)and the others not to fill it up?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)Masao and Kei might have to come back(*LINE_BREAK*)in through there.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Setsuko Sonomura(*LINE_BREAK*)I don’t know what to say... I’ve caused(*LINE_BREAK*)so much trouble for everyone...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)They know about the hole in the wall,(*LINE_BREAK*)right?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Ms. Saeko(*LINE_BREAK*)The gates are sealed, so that’s the(*LINE_BREAK*)only way they’ll be able to get in.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Young ones... Your presence is welcome.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Will you inscribe your story on me?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Take care on your journey, young ones...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)Maki’s mother isn’t badly hurt.(*LINE_BREAK*)You can relax.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)What about you, (*PLAYER_FIRST_NAME*)? Got any(*LINE_BREAK*)injuries? Let me look...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)There, all better. Be careful out there.(*AWAITING_INPUT*)"

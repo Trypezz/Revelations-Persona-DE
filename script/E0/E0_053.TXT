@@ -1,0 +1,7 @@
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)Is this for real!? They look WAY(*LINE_BREAK*)too strong!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Watch it, Ayase! You go hide somewhere(*LINE_BREAK*)while we take care of this!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)It’s all so amazing... like some kind of(*LINE_BREAK*)sci-fi film...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! If you see anything else(*LINE_BREAK*)suspicious, think before you touch it!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Honestly, that Masao... It makes me angry(*LINE_BREAK*)all over again to think about!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)This is nuts... If they’re building this(*LINE_BREAK*)kinda crap, they must be serious...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)Urrrgh, that was kinda gross... Is there(*LINE_BREAK*)something like that inside me, too?(*AWAITING_INPUT*)"
+"> Ride the elevator?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|

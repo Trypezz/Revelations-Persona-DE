@@ -1,0 +1,8 @@
+"(*CHARACTER_NAME*)Master(*LINE_BREAK*)Oh, my... that was fast.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Th... That bitch! She sent us all the(*LINE_BREAK*)way back here!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)I wonder if Chisato really meant what(*LINE_BREAK*)she said... Maybe she’s being controlled?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Hey, yeah! I bet that Aki girl is(*LINE_BREAK*)controlling her!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Mm... Chisato’s eyes were clear.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)To me, at least, they didn’t seem to be(*LINE_BREAK*)the eyes of one under someone’s control.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Why don’t we go see her again?(*LINE_BREAK*)We can ask her everything then.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Well, let’s go see her again.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)Let’s go see her one more time. Maybe(*LINE_BREAK*)she’s having regrets by now...?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Reiji(*LINE_BREAK*)Well, we won’t get anywhere by staying(*LINE_BREAK*)here. We’ll have to go see her again.(*AWAITING_INPUT*)"

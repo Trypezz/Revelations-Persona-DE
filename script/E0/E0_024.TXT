@@ -1,0 +1,17 @@
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! This one’s still alive!(*LINE_BREAK*)Gimme a hand here!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)We haven’t time to waste here, (*PLAYER_FIRST_NAME*)!(*LINE_BREAK*)It’s too late for her, but not for us!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Yo, (*PLAYER_FIRST_NAME*)! The monsters are just(*LINE_BREAK*)around the corner!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Severely wounded nurse(*LINE_BREAK*)I... I’m not going to make it...(*LINE_BREAK*)You kids... g-get out of here...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Don’t give up!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)I could really use a hand, (*PLAYER_FIRST_NAME*)!(*AWAITING_INPUT*)(*SHOW_OPTIONS,8*)"	// Shows options: |"Help her"|"Don't help her"|
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Okay, you take that side!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)It’s no good! They’re coming!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Oh, good day.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Oh, my! There are demons here too?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Are you serious!? But she’s still alive!(*LINE_BREAK*)You’re telling me to abandon her!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)...I don’t want to leave Yamaoka(*LINE_BREAK*)behind, either.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)But we don’t have a choice! We have(*LINE_BREAK*)to go!(*SHOW_OPTIONS,9*)"	// Shows options: |"Don't leave"|"Leave"|
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Yukino! Masao! Let’s go!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Tsk... Don’t blame me when you end up part(*LINE_BREAK*)of the problem instead of the solution.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)What’re we gonna do? Now’s the time to(*LINE_BREAK*)decide, man!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)I can’t leave her here! Help me!(*AWAITING_INPUT*)"
+"> You hear a dreadful roar from the(*LINE_BREAK*)end of the hallway.(*AWAITING_INPUT*)"

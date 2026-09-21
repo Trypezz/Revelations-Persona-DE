@@ -1,0 +1,5 @@
+"(*CHARACTER_NAME*)Drama club president(*LINE_BREAK*)This is hardly the time to be thinking(*LINE_BREAK*)about the school festival.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Drama club president(*LINE_BREAK*)I told you, I don’t know any play called(*LINE_BREAK*)”The Snow Queen”! Give it a rest!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Drama club member(*LINE_BREAK*)Our president’s the only one who knows(*LINE_BREAK*)about that play.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Drama club member(*LINE_BREAK*)Huh? What play? Oh, uh... it’s a secret.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Drama club member(*LINE_BREAK*)Man, this sucks. What’s up with this?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Drama club member(*LINE_BREAK*)If there were any records left, you might(*LINE_BREAK*)be able to find something in them...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Drama club member(*LINE_BREAK*)But our president gets all upset if(*LINE_BREAK*)anyone asks about it.(*AWAITING_INPUT*)"
