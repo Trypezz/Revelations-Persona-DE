@@ -1,0 +1,3 @@
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Young ones... Your presence is welcome.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Will you inscribe your story on me?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Take care on your journey, young ones...(*AWAITING_INPUT*)"

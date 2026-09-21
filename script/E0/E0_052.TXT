@@ -1,0 +1,7 @@
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Huh, so this is what it’s like inside.(*LINE_BREAK*)Isn’t this exciting!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)No wonder they put up the facade of a(*LINE_BREAK*)legitimate corporation.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)This is one elaborate device...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)＊whistle＊ What in the world do they(*LINE_BREAK*)need with something like this?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)That’s where I was standing!? I was in,(*LINE_BREAK*)like, big trouble!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Masao! Are you TRYING to kill me!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Hahahaha, sorry, man.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)(Tch... guess he won’t go down that(*LINE_BREAK*)easy...)(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Masao, (*PLAYER_FIRST_NAME*), hurry on down here.(*AWAITING_INPUT*)"

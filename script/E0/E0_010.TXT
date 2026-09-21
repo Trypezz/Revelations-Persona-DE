@@ -1,0 +1,6 @@
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Say, what about the hospital? Weren’t(*LINE_BREAK*)we going there for a checkup?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Hey (*PLAYER_FIRST_NAME*), you gotta hear the stupid(*LINE_BREAK*)junk this guy is spouting.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)What’s Masao’s beef with that guy?(*LINE_BREAK*)I don’t see what the fuss is about.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Serious student(*LINE_BREAK*)Don’t you think derelict buildings(*LINE_BREAK*)should be torn down?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Serious student(*LINE_BREAK*)Places like that only attract(*LINE_BREAK*)hooligans--(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Haha! ”Hooligans”? Seriously?(*LINE_BREAK*)What a poindexter!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Serious student(*LINE_BREAK*)Won’t you pipe down!? As I was saying,(*LINE_BREAK*)wouldn’t it attract hooligans?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Serious student(*LINE_BREAK*)I’d certainly hate to see that happen.(*AWAITING_INPUT*)"

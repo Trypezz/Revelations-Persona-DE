@@ -1,0 +1,22 @@
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Oh! Elly! Wow, it’s good to see you!(*LINE_BREAK*)How’ve you been?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Maki...? When did you get out of(*LINE_BREAK*)the hospital?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)But then, I suppose now isn’t the(*LINE_BREAK*)time for such questions.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)I’m glad to see you all safe.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)So this place is out too, huh?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Yes... I took a look around to be(*LINE_BREAK*)certain, but it’s all buried...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)It seems there really is no way out.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Isn’t it dangerous to stay here?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Go find somewhere safe and leave this(*LINE_BREAK*)to me! I’ll handle it lickety-split!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)Hey, it’s kinda dangerous to be here(*LINE_BREAK*)alone. Shouldn’t you go somewhere else?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)I know... But I can’t pass up an(*LINE_BREAK*)opportunity like this.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)I’m going to look around town some more.(*LINE_BREAK*)Stay safe, all of you.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Thank you, but I’ll be fine. Well, I’ll(*LINE_BREAK*)be seeing you.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)How about all of you? Have there been(*LINE_BREAK*)any new developments?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Actually, yeah. It’s a long story,(*LINE_BREAK*)but here goes...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Is... is this true? All that really(*LINE_BREAK*)happened!?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)I’m sad I wasn’t there to witness it...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)But it sounds like it’s only just begun.(*LINE_BREAK*)There should be more chances for me!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Won’t you take me with you, (*PLAYER_FIRST_NAME*)?(*LINE_BREAK*)There’s so many things I’d love to see.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Please, let me come along!(*AWAITING_INPUT*)(*SHOW_OPTIONS,7*)"	// Shows options: |"Let them join"|"Don't let them join"|
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Are you sure you want to bring Eriko(*LINE_BREAK*)with us?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Are you sure you don’t want to bring(*LINE_BREAK*)Eriko with us?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Wonderful! I’ll help, I promise!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Then I should issue you a firearm(*LINE_BREAK*)as well, Eriko...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)I don’t like making a woman carry a gun,(*LINE_BREAK*)but there’s nothing to be done about it.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Why did we come here, anyway?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Brown(*LINE_BREAK*)Why couldn’t you have gone off somewhere,(*LINE_BREAK*)Mark? I’d rather have Elly than you.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)So the subway is unusable... Then escape(*LINE_BREAK*)from this town really is impossible.(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Elly sure has guts...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)I’m so happy! How many people get to(*LINE_BREAK*)experience something like this?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Ayase(*LINE_BREAK*)＊sigh＊ Like, what’s gonna happen(*LINE_BREAK*)to us...?(*AWAITING_INPUT*)"

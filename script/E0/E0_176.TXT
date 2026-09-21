@@ -1,0 +1,1 @@
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)It’s that butterfly again!(*AWAITING_INPUT*)"

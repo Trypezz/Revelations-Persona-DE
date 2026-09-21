@@ -1,0 +1,3 @@
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)I’ve had enough! I don’t want any(*LINE_BREAK*)more deaths...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)No one wants to die, right?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)We can catch Kandori anytime. This man(*LINE_BREAK*)needs our help!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)’s voice(*LINE_BREAK*)And here, you tried to abandon an old(*LINE_BREAK*)man, though he was only a pawn...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)’s voice(*LINE_BREAK*)And here, you chose to save an old man(*LINE_BREAK*)at the risk of losing Kandori...(*AWAITING_INPUT*)"

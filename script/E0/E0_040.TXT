@@ -1,0 +1,5 @@
+"> It’s a box sealed with talismans.(*AWAITING_INPUT*)(*CONTINUE*)> Open it?(*AWAITING_INPUT*)(*SHOW_OPTIONS,10*)"	// Shows options: |"Don't open it"|"Open it"|
+"> Obtained the (*PRINT_ICON,3*)(*SET_COLOR,Y*)Snow Queen Mask(*SET_COLOR,_*).(*AWAITING_INPUT*)"
+"> There’s nothing inside...(*AWAITING_INPUT*)"
+"> There seems to be nothing here.(*AWAITING_INPUT*)"
+"> The door to the stage suddenly(*LINE_BREAK*)won’t open...(*AWAITING_INPUT*)"

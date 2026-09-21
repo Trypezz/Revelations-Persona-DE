@@ -1,0 +1,3 @@
+"(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Here we are. Maki’s mother should be(*LINE_BREAK*)here...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Elly(*LINE_BREAK*)Oh, what an exquisite butterfly!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Hey... Is it me, or is there something(*LINE_BREAK*)strange about that butterfly?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Wh... What’s up with this thing!?(*AWAITING_INPUT*)"

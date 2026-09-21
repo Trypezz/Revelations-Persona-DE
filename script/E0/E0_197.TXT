@@ -1,0 +1,7 @@
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Who’s there!? (*PLAYER_FIRST_NAME*)! Someone’s here!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)No way... Is that...(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! There’s two of you! How...!?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Why is he here? And why is he(*LINE_BREAK*)playing games!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)...Could you shut up for a second?(*LINE_BREAK*)Who gives a damn what I do...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)A-Are you... really (*PLAYER_FIRST_NAME*)?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)That’s right. I’m (*PLAYER_FIRST_NAME*) (*PLAYER_LAST_NAME*).(*LINE_BREAK*)You can call me (*PLAYER_NICKNAME*).(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)I’m a second-year at St. Hermelin High(*LINE_BREAK*)in class 4.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)Don’t believe me? Want me to tell you(*LINE_BREAK*)my height, weight, and favorite girl?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Huh?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)I’m you.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)(*PLAYER_NICKNAME*)(*LINE_BREAK*)I know everything you’ve done up to now.(*LINE_BREAK*)And the kind of person you really are...(*AWAITING_INPUT*)"

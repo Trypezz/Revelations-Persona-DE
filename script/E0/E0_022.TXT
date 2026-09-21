@@ -1,0 +1,6 @@
+"(*CHARACTER_NAME*)Vacant-eyed man(*LINE_BREAK*)F-Fresh meat... Meat is heeeeere!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Wh-What’s with these guys?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Panicked nurse(*LINE_BREAK*)Th-The dead patients suddenly got up and(*LINE_BREAK*)walked... That old man rescued me and...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Panicked nurse(*LINE_BREAK*)Nooooo!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)What!? These guys were dead?(*LINE_BREAK*)Is this for real!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Y... Yamaoka...?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Yamaoka! You bastards...(*LINE_BREAK*)How DARE you!?(*AWAITING_INPUT*)"

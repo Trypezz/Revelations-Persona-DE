@@ -1,0 +1,6 @@
+"(*CHARACTER_NAME*)Gargantuan monster(*LINE_BREAK*)Shh... Sssshhhhhhhrrrr...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)Another me!? So... this is Pandora!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Look! Is that the core of the(*LINE_BREAK*)Deva System behind it!?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Pandora(*LINE_BREAK*)It was inevitable, I suppose, that(*LINE_BREAK*)you’d make it here... Sss... Hhhrrr...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Pandora(*LINE_BREAK*)This... is the gate to paradise...(*LINE_BREAK*)And I won’t... ssshhrr... give it up...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Pandora(*LINE_BREAK*)I’ll use it to create my paradise...(*LINE_BREAK*)A place where nothing exists...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Maki(*LINE_BREAK*)No! That’s no ”gate to paradise”(*LINE_BREAK*)at all!(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Maki(*LINE_BREAK*)It’s a Pandora’s box that will bring(*LINE_BREAK*)evil to this world!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Pandora(*LINE_BREAK*)Fsshhhrrr... Everything is useless...(*LINE_BREAK*)Utterly useless. You... me... useless.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Pandora(*LINE_BREAK*)These things... I do not need...(*LINE_BREAK*)Now begone from me... Fsssshrrrraaaa!(*AWAITING_INPUT*)"

@@ -1,0 +1,8 @@
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)I think simply ”shabby” would be more(*LINE_BREAK*)fitting for this place than ”antique.”(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Hm...? Masao, is he one of your ”crew”(*LINE_BREAK*)as well?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Say what!? Huh...?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)So you’re the dude with the scar on his(*LINE_BREAK*)head... What’re you doin’ here?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Reiji(*LINE_BREAK*)You’d all better stay away from here.(*LINE_BREAK*)Unless you want to die, of course...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)What’s that supposed to mean?(*LINE_BREAK*)Hey, wait a sec!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)I wonder what he’s wandering around(*LINE_BREAK*)for...(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Mark(*LINE_BREAK*)You got business at our studio, man?(*LINE_BREAK*)Don’t think anyone’s here today...(*AWAITING_INPUT*)"
+"(*SET_COLOR,B*)> Reiji Kido (Nickname: Reiji)(*LINE_BREAK*)A quiet loner who transferred to(*LINE_BREAK*)St. Hermelin High six months ago.(*SET_COLOR,_*)(*AWAITING_INPUT*)"

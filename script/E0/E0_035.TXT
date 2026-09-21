@@ -1,0 +1,1 @@
+"(*CHARACTER_NAME*)Female student(*LINE_BREAK*)Devil-Boy says this town got all weird(*LINE_BREAK*)because of a curse on St. Hermelin.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Female student(*LINE_BREAK*)I don’t think now is the time for that...(*LINE_BREAK*)Though it’s admirable in its own way.(*AWAITING_INPUT*)"
