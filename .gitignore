@@ -1,0 +1,29 @@
+# Local paths to your dump and PersonaFlowReader
+config.env
+
+# Game data. Never commit these.
+*.iso
+*.ISO
+*.BIN
+*.bin
+*.EVS
+*.at3
+*.pmf
+*.PMF
+*.SFO
+EBOOT*
+PSP_GAME/
+UMD_DATA.BIN
+iso/
+game/
+OG/
+output/
+extracted/
+PersonaFlowReader/
+
+# Editors / junk
+.DS_Store
+*.swp
+*.swo
+*~
+*.tmp
