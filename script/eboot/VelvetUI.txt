@@ -1,0 +1,518 @@
+# Velvet Room / Igor tutorials.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# German umlauts become AE/OE/UE/SS.
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2cefa0 | BYTES 192 =====
+(*FF01*) Types and subtypes(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Personas that reach the maximum rank(*LINE_BREAK*)of 8 will not grow any further.
+
+# --- 1 ---
+===== OFF 0x2cf062 | BYTES 104 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)They are powerful in that state...(*LINE_BREAK*)However...
+
+# --- 2 ---
+===== OFF 0x2cf0cc | BYTES 108 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If you request that I discard such a(*LINE_BREAK*)Persona...
+
+# --- 3 ---
+===== OFF 0x2cf13a | BYTES 126 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The power of your constant companion(*LINE_BREAK*)will be released...
+
+# --- 4 ---
+===== OFF 0x2cf1ba | BYTES 132 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)...Leaving behind a tangible memento(*LINE_BREAK*)of your time together.
+
+# --- 5 ---
+===== OFF 0x2cf240 | BYTES 118 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)It may be a weapon, some armor, or(*LINE_BREAK*)possibly a gem...
+
+# --- 6 ---
+===== OFF 0x2cf2b8 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The process is, in fact, the only way(*LINE_BREAK*)to obtain certain extremely rare items.
+
+# --- 7 ---
+===== OFF 0x2cf362 | BYTES 138 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The nature of the items you may attain(*LINE_BREAK*)through this process...
+
+# --- 8 ---
+===== OFF 0x2cf3ee | BYTES 70 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)That is for you to discover.
+
+# --- 9 ---
+===== OFF 0x2cf436 | BYTES 114 =====
+(*FF01*)Item exchange(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)The Velvet Room is quite spacious...
+
+# --- 10 ---
+===== OFF 0x2cf4aa | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But even so, there is a limit to how(*LINE_BREAK*)many Personas we can look after here.
+
+# --- 11 ---
+===== OFF 0x2cf54e | BYTES 56 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Sixteen, and no more.
+
+# --- 12 ---
+===== OFF 0x2cf588 | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If you have reached that limit, you(*LINE_BREAK*)will be unable to create new Personas.
+
+# --- 13 ---
+===== OFF 0x2cf62c | BYTES 164 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Remember to clear out unneeded Personas(*LINE_BREAK*)in order to make room for new ones.
+
+# --- 14 ---
+===== OFF 0x2cf6d2 | BYTES 204 =====
+(*FF01*)Stocked Personas(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)It pains me to say this, but our methods(*LINE_BREAK*)are not as precise as I should like.
+
+# --- 15 ---
+===== OFF 0x2cf7a0 | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Rare though they are, there are times(*LINE_BREAK*)when an accident will occur in fusion.
+
+# --- 16 ---
+===== OFF 0x2cf848 | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Should this happen, the Persona will(*LINE_BREAK*)likely not be the one you aimed for.
+
+# --- 17 ---
+===== OFF 0x2cf8ea | BYTES 138 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)I have no way of predicting the result(*LINE_BREAK*)of a fusion accident...
+
+# --- 18 ---
+===== OFF 0x2cf976 | BYTES 94 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But then, isn't that the way of fate...?
+
+# --- 19 ---
+===== OFF 0x2cf9d6 | BYTES 208 =====
+(*FF01*)Fusion accident(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)At times, a newly created Persona will(*LINE_BREAK*)inherit skills from its fusion components.
+
+# --- 20 ---
+===== OFF 0x2cfaa8 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In this way, you may make Personas with(*LINE_BREAK*)skills they would not normally possess.
+
+# --- 21 ---
+===== OFF 0x2cfb56 | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Do not overlook this principle when you(*LINE_BREAK*)seek to create powerful Personas.
+
+# --- 22 ---
+===== OFF 0x2cfbf8 | BYTES 140 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The theory behind skill inheritance is,(*LINE_BREAK*)alas, somewhat murky...
+
+# --- 23 ---
+===== OFF 0x2cfc86 | BYTES 144 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But we know the spell cards used must(*LINE_BREAK*)not have clashing orders...
+
+# --- 24 ---
+===== OFF 0x2cfd18 | BYTES 142 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The type of demon granting the inherited(*LINE_BREAK*)skill is also a factor.
+
+# --- 25 ---
+===== OFF 0x2cfda8 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Know also that the number of skills a(*LINE_BREAK*)Persona can hold is limited...
+
+# --- 26 ---
+===== OFF 0x2cfe40 | BYTES 112 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)And certain special skills cannot be(*LINE_BREAK*)passed down.
+
+# --- 27 ---
+===== OFF 0x2cfeb2 | BYTES 96 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You should keep this in mind when fusing.
+
+# --- 28 ---
+===== OFF 0x2cff14 | BYTES 146 =====
+(*FF01*) Skill inheritance(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)All demons fall into one of several(*LINE_BREAK*)categories.
+
+# --- 29 ---
+===== OFF 0x2cffa8 | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You could classify them by main type,(*LINE_BREAK*)subtype, main order, and sub-order.
+
+# --- 30 ---
+===== OFF 0x2d004a | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Personas lack main and sub-orders, and(*LINE_BREAK*)are grouped by order, type, and subtype.
+
+# --- 31 ---
+===== OFF 0x2d00f8 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Not only do these indicate their natures,(*LINE_BREAK*)they are very important in fusions.
+
+# --- 32 ---
+===== OFF 0x2d01a2 | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)For example, fusing two of the same type(*LINE_BREAK*)tends to result in increased power.
+
+# --- 33 ---
+===== OFF 0x2d024a | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But fusing two opposed types increases(*LINE_BREAK*)the risk of fusion accidents.
+
+# --- 34 ---
+===== OFF 0x2d02e2 | BYTES 174 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The same is true for order: fusing two(*LINE_BREAK*)like orders makes for a stronger Persona.
+
+# --- 35 ---
+===== OFF 0x2d0392 | BYTES 148 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Whereas fusing incompatible orders will(*LINE_BREAK*)result in a weaker Persona.
+
+# --- 36 ---
+===== OFF 0x2d0428 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)When fusing like orders, the first card(*LINE_BREAK*)chosen dictates the inheritable skills.
+
+# --- 37 ---
+===== OFF 0x2d04d6 | BYTES 146 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Types and orders are only a few of the(*LINE_BREAK*)trickier aspects of fusion.
+
+# --- 38 ---
+===== OFF 0x2d056a | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The only sure way to learn is through(*LINE_BREAK*)the experience of trial and error...
+
+# --- 39 ---
+===== OFF 0x2d060e | BYTES 122 =====
+(*FF01*)Order and affinity(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)There are several types of fusion.
+
+# --- 40 ---
+===== OFF 0x2d068a | BYTES 104 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)To begin with, let us consider(*LINE_BREAK*)Guided Fusion.
+
+# --- 41 ---
+===== OFF 0x2d06f4 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)This will display the Personas that can(*LINE_BREAK*)be made using the spell cards you hold.
+
+# --- 42 ---
+===== OFF 0x2d07a2 | BYTES 134 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)After this, the spell cards that will be(*LINE_BREAK*)used are displayed.
+
+# --- 43 ---
+===== OFF 0x2d082a | BYTES 152 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If there are multiple recipes, choose a(*LINE_BREAK*)desired recipe from the list.
+
+# --- 44 ---
+===== OFF 0x2d08c4 | BYTES 136 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Guided Fusion makes it easy to create(*LINE_BREAK*)the Persona you seek...
+
+# --- 45 ---
+===== OFF 0x2d094e | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But it will be difficult to grasp the(*LINE_BREAK*)status fluctuations and fusion accidents.
+
+# --- 46 ---
+===== OFF 0x2d09fc | BYTES 156 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)There is also Manual Fusion, which allows(*LINE_BREAK*)you to play more of a role...
+
+# --- 47 ---
+===== OFF 0x2d0a9a | BYTES 170 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In this type, you select two spell cards(*LINE_BREAK*)that you would like to fuse together.
+
+# --- 48 ---
+===== OFF 0x2d0b46 | BYTES 164 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You may then see cross-order affinity,(*LINE_BREAK*)status changes, type fluctuations...
+
+# --- 49 ---
+===== OFF 0x2d0bec | BYTES 112 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)...and, alas, the likelihood of fusion(*LINE_BREAK*)accidents.
+
+# --- 50 ---
+===== OFF 0x2d0c5e | BYTES 170 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)It is somewhat daunting, but also more(*LINE_BREAK*)flexible once you are accustomed to it.
+
+# --- 51 ---
+===== OFF 0x2d0d0a | BYTES 174 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You may find something of a pattern to(*LINE_BREAK*)the cards' order that affects the result.
+
+# --- 52 ---
+===== OFF 0x2d0dba | BYTES 144 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Then again, there seem to be some which(*LINE_BREAK*)do not fit the pattern...
+
+# --- 53 ---
+===== OFF 0x2d0e4c | BYTES 144 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Perhaps you should experiment with(*LINE_BREAK*)different methods of your own.
+
+# --- 54 ---
+===== OFF 0x2d0ede | BYTES 164 =====
+(*FF01*)Types of fusion(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)My role is to assist you in giving birth(*LINE_BREAK*)to new Personas...
+
+# --- 55 ---
+===== OFF 0x2d0f84 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If you'll allow me to use your spell(*LINE_BREAK*)cards to summon those demons...
+
+# --- 56 ---
+===== OFF 0x2d101c | BYTES 138 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)I'll fuse them together, thereby(*LINE_BREAK*)giving life to a new Persona.
+
+# --- 57 ---
+===== OFF 0x2d10a8 | BYTES 176 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Usually, fusion results in Personas of a(*LINE_BREAK*)higher level than their component cards.
+
+# --- 58 ---
+===== OFF 0x2d115a | BYTES 146 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But you cannot create Personas over 10(*LINE_BREAK*)levels higher than yours...
+
+# --- 59 ---
+===== OFF 0x2d11ee | BYTES 136 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Such Personas would refuse to obey you(*LINE_BREAK*)and be very dangerous.
+
+# --- 60 ---
+===== OFF 0x2d1278 | BYTES 148 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You also cannot create a Persona that(*LINE_BREAK*)we are already looking after.
+
+# --- 61 ---
+===== OFF 0x2d130e | BYTES 164 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)And I regret to say that spell cards(*LINE_BREAK*)used as fusion materials will be lost.
+
+# --- 62 ---
+===== OFF 0x2d13b4 | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Using multiple cards in a fusion will(*LINE_BREAK*)leave you with fewer spell cards...
+
+# --- 63 ---
+===== OFF 0x2d1456 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)What you gain and what you sacrifice...(*LINE_BREAK*)It's best to consider this carefully.
+
+# --- 64 ---
+===== OFF 0x2d1500 | BYTES 208 =====
+(*FF01*) Basics of fusion(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Some items, known as totems, have strong(*LINE_BREAK*)associations with certain entities...
+
+# --- 65 ---
+===== OFF 0x2d15d2 | BYTES 88 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)By including a totem during fusion...
+
+# --- 66 ---
+===== OFF 0x2d162c | BYTES 100 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)It is possible to create specific(*LINE_BREAK*)Personas.
+
+# --- 67 ---
+===== OFF 0x2d1692 | BYTES 126 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Very powerful Personas that can only(*LINE_BREAK*)be attained here...
+
+# --- 68 ---
+===== OFF 0x2d1712 | BYTES 156 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In order to create the strongest(*LINE_BREAK*)Personas, totems are absolutely vital.
+
+# --- 69 ---
+===== OFF 0x2d17b0 | BYTES 200 =====
+(*FF01*) Totems in fusion(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Spell cards are not the only component(*LINE_BREAK*)one may use when creating Personas.
+
+# --- 70 ---
+===== OFF 0x2d187a | BYTES 116 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)It is also possible to use various(*LINE_BREAK*)items in fusion.
+
+# --- 71 ---
+===== OFF 0x2d18f0 | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Mind you, not all items fused with a(*LINE_BREAK*)Persona will enhance its abilities...
+
+# --- 72 ---
+===== OFF 0x2d1994 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But many things, such as weapons, guns,(*LINE_BREAK*)stones, and gems, will trigger changes.
+
+# --- 73 ---
+===== OFF 0x2d1a42 | BYTES 174 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Gems are particularly useful in fusing(*LINE_BREAK*)higher or lower Personas within an order.
+
+# --- 74 ---
+===== OFF 0x2d1af2 | BYTES 170 =====
+(*FF01*)Items in fusion(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)The moon waxes and wanes from full to(*LINE_BREAK*)half, crescent to new...
+
+# --- 75 ---
+===== OFF 0x2d1b9e | BYTES 114 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Many things are affected by the phase(*LINE_BREAK*)of the moon.
+
+# --- 76 ---
+===== OFF 0x2d1c12 | BYTES 154 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Near full moons, demons are easily(*LINE_BREAK*)excited, affecting your encounters.
+
+# --- 77 ---
+===== OFF 0x2d1cae | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In addition, the moon's phase may also(*LINE_BREAK*)have an effect on Persona creation.
+
+# --- 78 ---
+===== OFF 0x2d1d52 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Even the items sold in stores seem to(*LINE_BREAK*)change according to the moon's phase...
+
+# --- 79 ---
+===== OFF 0x2d1dfc | BYTES 154 =====
+(*FF01*) Phases of the moon(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Spell cards are necessary to create(*LINE_BREAK*)new Personas.
+
+# --- 80 ---
+===== OFF 0x2d1e98 | BYTES 130 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You will not gain strength only by(*LINE_BREAK*)defeating the demons...
+
+# --- 81 ---
+===== OFF 0x2d1f1c | BYTES 164 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)At times, you must negotiate with them(*LINE_BREAK*)and make them (*FF18*)(*0700*)eager(*FF18*)  to know you.
+
+# --- 82 ---
+===== OFF 0x2d1fc2 | BYTES 120 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If you succeed, the demons may give(*LINE_BREAK*)you a spell card.
+
+# --- 83 ---
+===== OFF 0x2d203c | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)By fusing demons summoned with the spell(*LINE_BREAK*)cards, you may create new Personas.
+
+# --- 84 ---
+===== OFF 0x2d20e4 | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Gather as many spell cards as you can(*LINE_BREAK*)to create even stronger Personas...
+
+# --- 85 ---
+===== OFF 0x2d2186 | BYTES 174 =====
+(*FF01*)Spell cards(*FF01*)(*FF1B*)Igor(*LINE_BREAK*)There are many wonderful things about(*LINE_BREAK*)the "potential" Personas hold.
+
+# --- 86 ---
+===== OFF 0x2d2236 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)They are displayed when the Persona-user(*LINE_BREAK*)is in certain situations...
+
+# --- 87 ---
+===== OFF 0x2d22ce | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)At these times, they will interrupt the(*LINE_BREAK*)user to unleash special abilities.
+
+# --- 88 ---
+===== OFF 0x2d2372 | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)However, whether this potential is(*LINE_BREAK*)displayed all depends on your affinity.
+
+# --- 89 ---
+===== OFF 0x2d2416 | BYTES 88 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Affinity is indeed quite important...
+
+# --- 90 ---
+===== OFF 0x2d2470 | BYTES 184 =====
+(*FF01*) Personas' hidden potential(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)There is a sort of affinity between(*LINE_BREAK*)humans and Personas.
+
+# --- 91 ---
+===== OFF 0x2d252a | BYTES 138 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Not only does this affect whether you(*LINE_BREAK*)may take on a Persona...
+
+# --- 92 ---
+===== OFF 0x2d25b6 | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)It also determines whether or not that(*LINE_BREAK*)Persona's potential may be invoked.
+
+# --- 93 ---
+===== OFF 0x2d265a | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)I would recommend choosing Personas(*LINE_BREAK*)you have a high affinity with...
+
+# --- 94 ---
+===== OFF 0x2d26f2 | BYTES 204 =====
+(*FF01*)Persona affinity(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)At first, you will be unable to harness(*LINE_BREAK*)your Persona's powers to the fullest.
+
+# --- 95 ---
+===== OFF 0x2d27c0 | BYTES 146 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But each time you invoke a Persona,(*LINE_BREAK*)its rank will slowly increase.
+
+# --- 96 ---
+===== OFF 0x2d2854 | BYTES 118 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In other words, you could say that they(*LINE_BREAK*)will grow...
+
+# --- 97 ---
+===== OFF 0x2d28cc | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)When that growth reaches a certain level,(*LINE_BREAK*)you will have more options in battle.
+
+# --- 98 ---
+===== OFF 0x2d297a | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Even if your Persona learns a powerful(*LINE_BREAK*)skill, the SP required remains constant.
+
+# --- 99 ---
+===== OFF 0x2d2a28 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Every Persona will grow seven times. If(*LINE_BREAK*)it starts at rank 1, it will rise to 8.
+
+# --- 100 ---
+===== OFF 0x2d2ad6 | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Personas that seem weak at first may(*LINE_BREAK*)eventually display surprising strength.
+
+# --- 101 ---
+===== OFF 0x2d2b7e | BYTES 164 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You will grow in combat, but do not(*LINE_BREAK*)forget that your Personas grow as well.
+
+# --- 102 ---
+===== OFF 0x2d2c24 | BYTES 130 =====
+(*FF01*) Persona growth(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Personas are distinguished by order, too.
+
+# --- 103 ---
+===== OFF 0x2d2ca8 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You will find that you are incompatible(*LINE_BREAK*)with some orders of Persona.
+
+# --- 104 ---
+===== OFF 0x2d2d40 | BYTES 130 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)A Persona's order will affect you,(*LINE_BREAK*)particularly in battle.
+
+# --- 105 ---
+===== OFF 0x2d2dc4 | BYTES 144 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Take care not to collect too many of(*LINE_BREAK*)the same order of Persona...
+
+# --- 106 ---
+===== OFF 0x2d2e56 | BYTES 200 =====
+(*FF01*)Persona orders(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)To take on a Persona is to prepare one(*LINE_BREAK*)in this room, to be assumed in battle.
+
+# --- 107 ---
+===== OFF 0x2d2f20 | BYTES 148 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Those Personas you have taken on can be(*LINE_BREAK*)actively assumed elsewhere.
+
+# --- 108 ---
+===== OFF 0x2d2fb6 | BYTES 162 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)However, you cannot take on Personas(*LINE_BREAK*)higher than the user's Persona Level.
+
+# --- 109 ---
+===== OFF 0x2d305a | BYTES 104 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Personas are similar to demons in that(*LINE_BREAK*)way...
+
+# --- 110 ---
+===== OFF 0x2d30c4 | BYTES 176 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Push yourself too hard with a low Persona(*LINE_BREAK*)level, and your mind can be taken over.
+
+# --- 111 ---
+===== OFF 0x2d3176 | BYTES 112 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Various assumed Personas grant various(*LINE_BREAK*)abilities.
+
+# --- 112 ---
+===== OFF 0x2d31e8 | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Without the power of Persona, you are(*LINE_BREAK*)no different than an ordinary human...
+
+# --- 113 ---
+===== OFF 0x2d3290 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You will be powerless before the arcane(*LINE_BREAK*)might of the demons' spells.
+
+# --- 114 ---
+===== OFF 0x2d3328 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)If by chance you were hit by a spell in(*LINE_BREAK*)that state, you would be struck down.
+
+# --- 115 ---
+===== OFF 0x2d33d2 | BYTES 176 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But by taking on a Persona, your defense(*LINE_BREAK*)against spells is considerably enhanced.
+
+# --- 116 ---
+===== OFF 0x2d3484 | BYTES 148 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)For some, it may also confer strength,(*LINE_BREAK*)or increase luck for others.
+
+# --- 117 ---
+===== OFF 0x2d351a | BYTES 84 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)This, too, is the power of Persona.
+
+# --- 118 ---
+===== OFF 0x2d3570 | BYTES 148 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Though they are called Personas, each(*LINE_BREAK*)is a hidden side of yourself.
+
+# --- 119 ---
+===== OFF 0x2d3606 | BYTES 140 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)I suggest you examine your status(*LINE_BREAK*)carefully after assuming one.
+
+# --- 120 ---
+===== OFF 0x2d3694 | BYTES 132 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)That way, you can see which of your(*LINE_BREAK*)qualities have changed.
+
+# --- 121 ---
+===== OFF 0x2d371a | BYTES 192 =====
+(*FF01*)Taking on Personas(*FF01*) (*FF1B*)Igor(*LINE_BREAK*)Personas are the powers taken from(*LINE_BREAK*)demons that will be your strength.
+
+# --- 122 ---
+===== OFF 0x2d37dc | BYTES 130 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Each of you can take on as many as(*LINE_BREAK*)three Personas at once.
+
+# --- 123 ---
+===== OFF 0x2d3860 | BYTES 136 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Of the three, only one can be actively(*LINE_BREAK*)invoked during battle.
+
+# --- 124 ---
+===== OFF 0x2d38ea | BYTES 106 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)To invoke a Persona is to summon it(*LINE_BREAK*)in combat.
+
+# --- 125 ---
+===== OFF 0x2d3956 | BYTES 132 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)The other two will remain sleeping(*LINE_BREAK*)within you on standby...
+
+# --- 126 ---
+===== OFF 0x2d39dc | BYTES 154 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Personas on standby are ready to be(*LINE_BREAK*)assumed at any time during battle.
+
+# --- 127 ---
+===== OFF 0x2d3a78 | BYTES 166 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You could say that understanding your(*LINE_BREAK*)Personas' powers is key to survival...
+

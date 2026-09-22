@@ -1,0 +1,994 @@
+# Skill names (Agi, Bufu, ...). Signature names can stay English.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# German umlauts become AE/OE/UE/SS.
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2675d8 | BYTES 32 | PAD FFFF =====
+kubei
+
+# --- 1 ---
+===== OFF 0x267608 | BYTES 32 | PAD FFFF =====
+Blank
+
+# --- 2 ---
+===== OFF 0x267638 | BYTES 32 | PAD FFFF =====
+Agi
+
+# --- 3 ---
+===== OFF 0x267668 | BYTES 32 | PAD FFFF =====
+Agilao
+
+# --- 4 ---
+===== OFF 0x267698 | BYTES 32 | PAD FFFF =====
+Agidyne
+
+# --- 5 ---
+===== OFF 0x2676c8 | BYTES 32 | PAD FFFF =====
+Maragi
+
+# --- 6 ---
+===== OFF 0x2676f8 | BYTES 32 | PAD FFFF =====
+Maragion
+
+# --- 7 ---
+===== OFF 0x267728 | BYTES 32 | PAD FFFF =====
+Maragidyne
+
+# --- 8 ---
+===== OFF 0x267758 | BYTES 32 | PAD FFFF =====
+Bufu
+
+# --- 9 ---
+===== OFF 0x267788 | BYTES 32 | PAD FFFF =====
+Bufula
+
+# --- 10 ---
+===== OFF 0x2677b8 | BYTES 32 | PAD FFFF =====
+Bufudyne
+
+# --- 11 ---
+===== OFF 0x2677e8 | BYTES 32 | PAD FFFF =====
+Mabufu
+
+# --- 12 ---
+===== OFF 0x267818 | BYTES 32 | PAD FFFF =====
+Mabufula
+
+# --- 13 ---
+===== OFF 0x267848 | BYTES 32 | PAD FFFF =====
+Mabufudyne
+
+# --- 14 ---
+===== OFF 0x267878 | BYTES 32 | PAD FFFF =====
+Garu
+
+# --- 15 ---
+===== OFF 0x2678a8 | BYTES 32 | PAD FFFF =====
+Garula
+
+# --- 16 ---
+===== OFF 0x2678d8 | BYTES 32 | PAD FFFF =====
+Garudyne
+
+# --- 17 ---
+===== OFF 0x267908 | BYTES 32 | PAD FFFF =====
+Magaru
+
+# --- 18 ---
+===== OFF 0x267938 | BYTES 32 | PAD FFFF =====
+Magarula
+
+# --- 19 ---
+===== OFF 0x267968 | BYTES 32 | PAD FFFF =====
+Magarudyne
+
+# --- 20 ---
+===== OFF 0x267998 | BYTES 32 | PAD FFFF =====
+Magna
+
+# --- 21 ---
+===== OFF 0x2679c8 | BYTES 32 | PAD FFFF =====
+Magnara
+
+# --- 22 ---
+===== OFF 0x2679f8 | BYTES 32 | PAD FFFF =====
+Magnadyne
+
+# --- 23 ---
+===== OFF 0x267a28 | BYTES 32 | PAD FFFF =====
+Mamagna
+
+# --- 24 ---
+===== OFF 0x267a58 | BYTES 32 | PAD FFFF =====
+Mamagnara
+
+# --- 25 ---
+===== OFF 0x267a88 | BYTES 32 | PAD FFFF =====
+Mamagnadyne
+
+# --- 26 ---
+===== OFF 0x267ab8 | BYTES 32 | PAD FFFF =====
+Frei
+
+# --- 27 ---
+===== OFF 0x267ae8 | BYTES 32 | PAD FFFF =====
+Freila
+
+# --- 28 ---
+===== OFF 0x267b18 | BYTES 32 | PAD FFFF =====
+Freidyne
+
+# --- 29 ---
+===== OFF 0x267b48 | BYTES 32 | PAD FFFF =====
+Megido
+
+# --- 30 ---
+===== OFF 0x267b78 | BYTES 32 | PAD FFFF =====
+Megidola
+
+# --- 31 ---
+===== OFF 0x267ba8 | BYTES 32 | PAD FFFF =====
+Megidolaon
+
+# --- 32 ---
+===== OFF 0x267bd8 | BYTES 32 | PAD FFFF =====
+Zan
+
+# --- 33 ---
+===== OFF 0x267c08 | BYTES 32 | PAD FFFF =====
+Zanma
+
+# --- 34 ---
+===== OFF 0x267c38 | BYTES 32 | PAD FFFF =====
+Zandyne
+
+# --- 35 ---
+===== OFF 0x267c68 | BYTES 32 | PAD FFFF =====
+Mazan
+
+# --- 36 ---
+===== OFF 0x267c98 | BYTES 32 | PAD FFFF =====
+Mazanma
+
+# --- 37 ---
+===== OFF 0x267cc8 | BYTES 32 | PAD FFFF =====
+Mazandyne
+
+# --- 38 ---
+===== OFF 0x267cf8 | BYTES 32 | PAD FFFF =====
+Gry
+
+# --- 39 ---
+===== OFF 0x267d28 | BYTES 32 | PAD FFFF =====
+Gryva
+
+# --- 40 ---
+===== OFF 0x267d58 | BYTES 32 | PAD FFFF =====
+Grydyne
+
+# --- 41 ---
+===== OFF 0x267d88 | BYTES 32 | PAD FFFF =====
+Magry
+
+# --- 42 ---
+===== OFF 0x267db8 | BYTES 32 | PAD FFFF =====
+Magryva
+
+# --- 43 ---
+===== OFF 0x267de8 | BYTES 32 | PAD FFFF =====
+Magrydyne
+
+# --- 44 ---
+===== OFF 0x267e18 | BYTES 32 | PAD FFFF =====
+Zio
+
+# --- 45 ---
+===== OFF 0x267e48 | BYTES 32 | PAD FFFF =====
+Zionga
+
+# --- 46 ---
+===== OFF 0x267e78 | BYTES 32 | PAD FFFF =====
+Ziodyne
+
+# --- 47 ---
+===== OFF 0x267ea8 | BYTES 32 | PAD FFFF =====
+Mazio
+
+# --- 48 ---
+===== OFF 0x267ed8 | BYTES 32 | PAD FFFF =====
+Mazionga
+
+# --- 49 ---
+===== OFF 0x267f08 | BYTES 32 | PAD FFFF =====
+Maziodyne
+
+# --- 50 ---
+===== OFF 0x267f38 | BYTES 32 | PAD FFFF =====
+Eiha
+
+# --- 51 ---
+===== OFF 0x267f68 | BYTES 32 | PAD FFFF =====
+Baeiha
+
+# --- 52 ---
+===== OFF 0x267f98 | BYTES 32 | PAD FFFF =====
+Maeiha
+
+# --- 53 ---
+===== OFF 0x267fc8 | BYTES 32 | PAD FFFF =====
+Mudo
+
+# --- 54 ---
+===== OFF 0x267ff8 | BYTES 32 | PAD FFFF =====
+Mudoon
+
+# --- 55 ---
+===== OFF 0x268028 | BYTES 32 | PAD FFFF =====
+Mamudo
+
+# --- 56 ---
+===== OFF 0x268058 | BYTES 32 | PAD FFFF =====
+Dormina
+
+# --- 57 ---
+===== OFF 0x268088 | BYTES 32 | PAD FFFF =====
+Shibaboo
+
+# --- 58 ---
+===== OFF 0x2680b8 | BYTES 32 | PAD FFFF =====
+Pulinpa
+
+# --- 59 ---
+===== OFF 0x2680e8 | BYTES 32 | PAD FFFF =====
+Hapirma
+
+# --- 60 ---
+===== OFF 0x268118 | BYTES 32 | PAD FFFF =====
+Marin Karin
+
+# --- 61 ---
+===== OFF 0x268148 | BYTES 32 | PAD FFFF =====
+Makajam
+
+# --- 62 ---
+===== OFF 0x268178 | BYTES 32 | PAD FFFF =====
+Delyte
+
+# --- 63 ---
+===== OFF 0x2681a8 | BYTES 32 | PAD FFFF =====
+Slumpa
+
+# --- 64 ---
+===== OFF 0x2681d8 | BYTES 32 | PAD FFFF =====
+Decover
+
+# --- 65 ---
+===== OFF 0x268208 | BYTES 32 | PAD FFFF =====
+Desanga
+
+# --- 66 ---
+===== OFF 0x268238 | BYTES 32 | PAD FFFF =====
+Doronpa
+
+# --- 67 ---
+===== OFF 0x268268 | BYTES 32 | PAD FFFF =====
+Doroid
+
+# --- 68 ---
+===== OFF 0x268298 | BYTES 32 | PAD FFFF =====
+Quikka
+
+# --- 69 ---
+===== OFF 0x2682c8 | BYTES 32 | PAD FFFF =====
+Balzac
+
+# --- 70 ---
+===== OFF 0x2682f8 | BYTES 32 | PAD FFFF =====
+Mador
+
+# --- 71 ---
+===== OFF 0x268328 | BYTES 32 | PAD FFFF =====
+Wolvaan
+
+# --- 72 ---
+===== OFF 0x268358 | BYTES 32 | PAD FFFF =====
+Deathtika
+
+# --- 73 ---
+===== OFF 0x268388 | BYTES 32 | PAD FFFF =====
+Petrama
+
+# --- 74 ---
+===== OFF 0x2683b8 | BYTES 32 | PAD FFFF =====
+Paralama
+
+# --- 75 ---
+===== OFF 0x2683e8 | BYTES 32 | PAD FFFF =====
+Poisma
+
+# --- 76 ---
+===== OFF 0x268418 | BYTES 32 | PAD FFFF =====
+Nervma
+
+# --- 77 ---
+===== OFF 0x268448 | BYTES 32 | PAD FFFF =====
+Omega Cluster
+
+# --- 78 ---
+===== OFF 0x268478 | BYTES 32 | PAD FFFF =====
+Kouha
+
+# --- 79 ---
+===== OFF 0x2684a8 | BYTES 32 | PAD FFFF =====
+Baikouha
+
+# --- 80 ---
+===== OFF 0x2684d8 | BYTES 32 | PAD FFFF =====
+Makouha
+
+# --- 81 ---
+===== OFF 0x268508 | BYTES 32 | PAD FFFF =====
+Hama
+
+# --- 82 ---
+===== OFF 0x268538 | BYTES 32 | PAD FFFF =====
+Hamaon
+
+# --- 83 ---
+===== OFF 0x268568 | BYTES 32 | PAD FFFF =====
+Mahama
+
+# --- 84 ---
+===== OFF 0x268598 | BYTES 32 | PAD FFFF =====
+Tarunda
+
+# --- 85 ---
+===== OFF 0x2685c8 | BYTES 32 | PAD FFFF =====
+Rakunda
+
+# --- 86 ---
+===== OFF 0x2685f8 | BYTES 32 | PAD FFFF =====
+Sukunda
+
+# --- 87 ---
+===== OFF 0x268628 | BYTES 32 | PAD FFFF =====
+Dekunda
+
+# --- 88 ---
+===== OFF 0x268658 | BYTES 32 | PAD FFFF =====
+Tarukaja
+
+# --- 89 ---
+===== OFF 0x268688 | BYTES 32 | PAD FFFF =====
+Rakukaja
+
+# --- 90 ---
+===== OFF 0x2686b8 | BYTES 32 | PAD FFFF =====
+Sukukaja
+
+# --- 91 ---
+===== OFF 0x2686e8 | BYTES 32 | PAD FFFF =====
+Makakaja
+
+# --- 92 ---
+===== OFF 0x268718 | BYTES 32 | PAD FFFF =====
+Dekaja
+
+# --- 93 ---
+===== OFF 0x268748 | BYTES 32 | PAD FFFF =====
+Tetraja
+
+# --- 94 ---
+===== OFF 0x268778 | BYTES 32 | PAD FFFF =====
+Makarakarn
+
+# --- 95 ---
+===== OFF 0x2687a8 | BYTES 32 | PAD FFFF =====
+Tetrakarn
+
+# --- 96 ---
+===== OFF 0x2687d8 | BYTES 32 | PAD FFFF =====
+Dia
+
+# --- 97 ---
+===== OFF 0x268808 | BYTES 32 | PAD FFFF =====
+Diarama
+
+# --- 98 ---
+===== OFF 0x268838 | BYTES 32 | PAD FFFF =====
+Diarahan
+
+# --- 99 ---
+===== OFF 0x268868 | BYTES 32 | PAD FFFF =====
+Media
+
+# --- 100 ---
+===== OFF 0x268898 | BYTES 32 | PAD FFFF =====
+Mediarama
+
+# --- 101 ---
+===== OFF 0x2688c8 | BYTES 32 | PAD FFFF =====
+Mediarahan
+
+# --- 102 ---
+===== OFF 0x2688f8 | BYTES 32 | PAD FFFF =====
+Patra
+
+# --- 103 ---
+===== OFF 0x268928 | BYTES 32 | PAD FFFF =====
+Pen Patra
+
+# --- 104 ---
+===== OFF 0x268958 | BYTES 32 | PAD FFFF =====
+Posumudi
+
+# --- 105 ---
+===== OFF 0x268988 | BYTES 32 | PAD FFFF =====
+Paraladi
+
+# --- 106 ---
+===== OFF 0x2689b8 | BYTES 32 | PAD FFFF =====
+Petradi
+
+# --- 107 ---
+===== OFF 0x2689e8 | BYTES 32 | PAD FFFF =====
+Nervundi
+
+# --- 108 ---
+===== OFF 0x268a18 | BYTES 32 | PAD FFFF =====
+Recarm
+
+# --- 109 ---
+===== OFF 0x268a48 | BYTES 32 | PAD FFFF =====
+Samarecarm
+
+# --- 110 ---
+===== OFF 0x268a78 | BYTES 32 | PAD FFFF =====
+Recarmdra
+
+# --- 111 ---
+===== OFF 0x268aa8 | BYTES 32 | PAD FFFF =====
+Alpha Blaster
+
+# --- 112 ---
+===== OFF 0x268ad8 | BYTES 32 | PAD FFFF =====
+Mappa
+
+# --- 113 ---
+===== OFF 0x268b08 | BYTES 32 | PAD FFFF =====
+Trafuri
+
+# --- 114 ---
+===== OFF 0x268b38 | BYTES 32 | PAD FFFF =====
+Traesto
+
+# --- 115 ---
+===== OFF 0x268b68 | BYTES 32 | PAD FFFF =====
+Outoma
+
+# --- 116 ---
+===== OFF 0x268b98 | BYTES 32 | PAD FFFF =====
+Liftoma
+
+# --- 117 ---
+===== OFF 0x268bc8 | BYTES 32 | PAD FFFF =====
+Alsanga
+
+# --- 118 ---
+===== OFF 0x268bf8 | BYTES 32 | PAD FFFF =====
+Paral Eyes
+
+# --- 119 ---
+===== OFF 0x268c28 | BYTES 32 | PAD FFFF =====
+Petra Eyes
+
+# --- 120 ---
+===== OFF 0x268c58 | BYTES 32 | PAD FFFF =====
+Hell Eyes
+
+# --- 121 ---
+===== OFF 0x268c88 | BYTES 32 | PAD FFFF =====
+Guilt Eyes
+
+# --- 122 ---
+===== OFF 0x268cb8 | BYTES 32 | PAD FFFF =====
+Terror Eyes
+
+# --- 123 ---
+===== OFF 0x268ce8 | BYTES 32 | PAD FFFF =====
+Sexy Dance
+
+# --- 124 ---
+===== OFF 0x268d18 | BYTES 32 | PAD FFFF =====
+Happy Dance
+
+# --- 125 ---
+===== OFF 0x268d48 | BYTES 32 | PAD FFFF =====
+Hula of Misfortu
+
+# --- 126 ---
+===== OFF 0x268d78 | BYTES 32 | PAD FFFF =====
+Tango of Dispell
+
+# --- 127 ---
+===== OFF 0x268da8 | BYTES 32 | PAD FFFF =====
+Waltz of Sadness
+
+# --- 128 ---
+===== OFF 0x268dd8 | BYTES 32 | PAD FFFF =====
+Lullaby
+
+# --- 129 ---
+===== OFF 0x268e08 | BYTES 32 | PAD FFFF =====
+Panic Voice
+
+# --- 130 ---
+===== OFF 0x268e38 | BYTES 32 | PAD FFFF =====
+Bind Voice
+
+# --- 131 ---
+===== OFF 0x268e68 | BYTES 32 | PAD FFFF =====
+Frenzy Song
+
+# --- 132 ---
+===== OFF 0x268e98 | BYTES 32 | PAD FFFF =====
+Candy Voice
+
+# --- 133 ---
+===== OFF 0x268ec8 | BYTES 32 | PAD FFFF =====
+Passionate Kiss
+
+# --- 134 ---
+===== OFF 0x268ef8 | BYTES 32 | PAD FFFF =====
+Demon's Kiss
+
+# --- 135 ---
+===== OFF 0x268f28 | BYTES 32 | PAD FFFF =====
+Evil Smile
+
+# --- 136 ---
+===== OFF 0x268f58 | BYTES 32 | PAD FFFF =====
+Deathtouch
+
+# --- 137 ---
+===== OFF 0x268f88 | BYTES 32 | PAD FFFF =====
+Fire Breath
+
+# --- 138 ---
+===== OFF 0x268fb8 | BYTES 32 | PAD FFFF =====
+Ice Breath
+
+# --- 139 ---
+===== OFF 0x268fe8 | BYTES 32 | PAD FFFF =====
+Poison Breath
+
+# --- 140 ---
+===== OFF 0x269018 | BYTES 32 | PAD FFFF =====
+Fog Breath
+
+# --- 141 ---
+===== OFF 0x269048 | BYTES 32 | PAD FFFF =====
+Water Wall
+
+# --- 142 ---
+===== OFF 0x269078 | BYTES 32 | PAD FFFF =====
+Fire Wall
+
+# --- 143 ---
+===== OFF 0x2690a8 | BYTES 32 | PAD FFFF =====
+Crystal Wall
+
+# --- 144 ---
+===== OFF 0x2690d8 | BYTES 32 | PAD FFFF =====
+Steel Wall
+
+# --- 145 ---
+===== OFF 0x269108 | BYTES 32 | PAD FFFF =====
+Crimson Sublatio
+
+# --- 146 ---
+===== OFF 0x269138 | BYTES 32 | PAD FFFF =====
+Azure Cessation
+
+# --- 147 ---
+===== OFF 0x269168 | BYTES 32 | PAD FFFF =====
+Mighty Wave
+
+# --- 148 ---
+===== OFF 0x269198 | BYTES 32 | PAD FFFF =====
+Gentle Wave
+
+# --- 149 ---
+===== OFF 0x2691c8 | BYTES 32 | PAD FFFF =====
+Heavenly Cyclone
+
+# --- 150 ---
+===== OFF 0x2691f8 | BYTES 32 | PAD FFFF =====
+Earthly Vortex
+
+# --- 151 ---
+===== OFF 0x269228 | BYTES 32 | PAD FFFF =====
+Hell Drop
+
+# --- 152 ---
+===== OFF 0x269258 | BYTES 32 | PAD FFFF =====
+Gokuraku Fall
+
+# --- 153 ---
+===== OFF 0x269288 | BYTES 32 | PAD FFFF =====
+Eastern Impact
+
+# --- 154 ---
+===== OFF 0x2692b8 | BYTES 32 | PAD FFFF =====
+Western Blow
+
+# --- 155 ---
+===== OFF 0x2692e8 | BYTES 32 | PAD FFFF =====
+Sanraigeki
+
+# --- 156 ---
+===== OFF 0x269318 | BYTES 32 | PAD FFFF =====
+Shuuraigeki
+
+# --- 157 ---
+===== OFF 0x269348 | BYTES 32 | PAD FFFF =====
+Eternal Black
+
+# --- 158 ---
+===== OFF 0x269378 | BYTES 32 | PAD FFFF =====
+Dark Verdict
+
+# --- 159 ---
+===== OFF 0x2693a8 | BYTES 32 | PAD FFFF =====
+Eternal White
+
+# --- 160 ---
+===== OFF 0x2693d8 | BYTES 32 | PAD FFFF =====
+Bright Judgement
+
+# --- 161 ---
+===== OFF 0x269408 | BYTES 32 | PAD FFFF =====
+Hieroglyphein
+
+# --- 162 ---
+===== OFF 0x269438 | BYTES 32 | PAD FFFF =====
+Summon
+
+# --- 163 ---
+===== OFF 0x269468 | BYTES 32 | PAD FFFF =====
+Luna Trap
+
+# --- 164 ---
+===== OFF 0x269498 | BYTES 32 | PAD FFFF =====
+Feral Bite
+
+# --- 165 ---
+===== OFF 0x2694c8 | BYTES 32 | PAD FFFF =====
+Venom Bite
+
+# --- 166 ---
+===== OFF 0x2694f8 | BYTES 32 | PAD FFFF =====
+Stun Bite
+
+# --- 167 ---
+===== OFF 0x269528 | BYTES 32 | PAD FFFF =====
+Virus Bite
+
+# --- 168 ---
+===== OFF 0x269558 | BYTES 32 | PAD FFFF =====
+Stone Bite
+
+# --- 169 ---
+===== OFF 0x269588 | BYTES 32 | PAD FFFF =====
+Feral Claw
+
+# --- 170 ---
+===== OFF 0x2695b8 | BYTES 32 | PAD FFFF =====
+Poison Claw
+
+# --- 171 ---
+===== OFF 0x2695e8 | BYTES 32 | PAD FFFF =====
+Stun Claw
+
+# --- 172 ---
+===== OFF 0x269618 | BYTES 32 | PAD FFFF =====
+Virus Claw
+
+# --- 173 ---
+===== OFF 0x269648 | BYTES 32 | PAD FFFF =====
+Stone Claw
+
+# --- 174 ---
+===== OFF 0x269678 | BYTES 32 | PAD FFFF =====
+Toxic Sting
+
+# --- 175 ---
+===== OFF 0x2696a8 | BYTES 32 | PAD FFFF =====
+Stun Needle
+
+# --- 176 ---
+===== OFF 0x2696d8 | BYTES 32 | PAD FFFF =====
+Needle Rush
+
+# --- 177 ---
+===== OFF 0x269708 | BYTES 32 | PAD FFFF =====
+Genocide Fan
+
+# --- 178 ---
+===== OFF 0x269738 | BYTES 32 | PAD FFFF =====
+Tackle
+
+# --- 179 ---
+===== OFF 0x269768 | BYTES 32 | PAD FFFF =====
+Bonecrusher
+
+# --- 180 ---
+===== OFF 0x269798 | BYTES 32 | PAD FFFF =====
+Squash
+
+# --- 181 ---
+===== OFF 0x2697c8 | BYTES 32 | PAD FFFF =====
+Heavenly Hit
+
+# --- 182 ---
+===== OFF 0x2697f8 | BYTES 32 | PAD FFFF =====
+Megaton Raid
+
+# --- 183 ---
+===== OFF 0x269828 | BYTES 32 | PAD FFFF =====
+Beak
+
+# --- 184 ---
+===== OFF 0x269858 | BYTES 32 | PAD FFFF =====
+Wing Flap
+
+# --- 185 ---
+===== OFF 0x269888 | BYTES 32 | PAD FFFF =====
+Dive
+
+# --- 186 ---
+===== OFF 0x2698b8 | BYTES 32 | PAD FFFF =====
+Spike Claw
+
+# --- 187 ---
+===== OFF 0x2698e8 | BYTES 32 | PAD FFFF =====
+Death Claw
+
+# --- 188 ---
+===== OFF 0x269918 | BYTES 32 | PAD FFFF =====
+Twinkle Punch
+
+# --- 189 ---
+===== OFF 0x269948 | BYTES 32 | PAD FFFF =====
+Fist of Fury
+
+# --- 190 ---
+===== OFF 0x269978 | BYTES 32 | PAD FFFF =====
+Deadly Fist
+
+# --- 191 ---
+===== OFF 0x2699a8 | BYTES 32 | PAD FFFF =====
+Spin Kick
+
+# --- 192 ---
+===== OFF 0x2699d8 | BYTES 32 | PAD FFFF =====
+Thunder Kick
+
+# --- 193 ---
+===== OFF 0x269a08 | BYTES 32 | PAD FFFF =====
+Lightning Kick
+
+# --- 194 ---
+===== OFF 0x269a38 | BYTES 32 | PAD FFFF =====
+Twin Slash
+
+# --- 195 ---
+===== OFF 0x269a68 | BYTES 32 | PAD FFFF =====
+Heat Wave
+
+# --- 196 ---
+===== OFF 0x269a98 | BYTES 32 | PAD FFFF =====
+Deathbound
+
+# --- 197 ---
+===== OFF 0x269ac8 | BYTES 32 | PAD FFFF =====
+Ichimonji Slash
+
+# --- 198 ---
+===== OFF 0x269af8 | BYTES 32 | PAD FFFF =====
+Wolf Fang
+
+# --- 199 ---
+===== OFF 0x269b28 | BYTES 32 | PAD FFFF =====
+Triple Slice
+
+# --- 200 ---
+===== OFF 0x269b58 | BYTES 32 | PAD FFFF =====
+Double Thrust
+
+# --- 201 ---
+===== OFF 0x269b88 | BYTES 32 | PAD FFFF =====
+Dragon Whirl
+
+# --- 202 ---
+===== OFF 0x269bb8 | BYTES 32 | PAD FFFF =====
+Burning Spear
+
+# --- 203 ---
+===== OFF 0x269be8 | BYTES 32 | PAD FFFF =====
+Flurry Stab
+
+# --- 204 ---
+===== OFF 0x269c18 | BYTES 32 | PAD FFFF =====
+Destruction Smas
+
+# --- 205 ---
+===== OFF 0x269c48 | BYTES 32 | PAD FFFF =====
+Earth Slicer
+
+# --- 206 ---
+===== OFF 0x269c78 | BYTES 32 | PAD FFFF =====
+Love Whip
+
+# --- 207 ---
+===== OFF 0x269ca8 | BYTES 32 | PAD FFFF =====
+Infinite Spiral
+
+# --- 208 ---
+===== OFF 0x269cd8 | BYTES 32 | PAD FFFF =====
+Moon Shatterer
+
+# --- 209 ---
+===== OFF 0x269d08 | BYTES 32 | PAD FFFF =====
+Fastball
+
+# --- 210 ---
+===== OFF 0x269d38 | BYTES 32 | PAD FFFF =====
+Darkness Nail
+
+# --- 211 ---
+===== OFF 0x269d68 | BYTES 32 | PAD FFFF =====
+Sonic Bullet
+
+# --- 212 ---
+===== OFF 0x269d98 | BYTES 32 | PAD FFFF =====
+Rapid Fire
+
+# --- 213 ---
+===== OFF 0x269dc8 | BYTES 32 | PAD FFFF =====
+Myriad Arrows
+
+# --- 214 ---
+===== OFF 0x269df8 | BYTES 32 | PAD FFFF =====
+Arrow Volley
+
+# --- 215 ---
+===== OFF 0x269e28 | BYTES 32 | PAD FFFF =====
+Single Shot
+
+# --- 216 ---
+===== OFF 0x269e58 | BYTES 32 | PAD FFFF =====
+Drive Shot
+
+# --- 217 ---
+===== OFF 0x269e88 | BYTES 32 | PAD FFFF =====
+Middle Shot
+
+# --- 218 ---
+===== OFF 0x269eb8 | BYTES 32 | PAD FFFF =====
+Powder Shot
+
+# --- 219 ---
+===== OFF 0x269ee8 | BYTES 32 | PAD FFFF =====
+Long Shot
+
+# --- 220 ---
+===== OFF 0x269f18 | BYTES 32 | PAD FFFF =====
+Sweet Trap
+
+# --- 221 ---
+===== OFF 0x269f48 | BYTES 32 | PAD FFFF =====
+Viper Smash
+
+# --- 222 ---
+===== OFF 0x269f78 | BYTES 32 | PAD FFFF =====
+Drumroll Punch
+
+# --- 223 ---
+===== OFF 0x269fa8 | BYTES 32 | PAD FFFF =====
+Rainbow Strike
+
+# --- 224 ---
+===== OFF 0x269fd8 | BYTES 32 | PAD FFFF =====
+Binal Strike
+
+# --- 225 ---
+===== OFF 0x26a008 | BYTES 32 | PAD FFFF =====
+Last Resort
+
+# --- 226 ---
+===== OFF 0x26a038 | BYTES 32 | PAD FFFF =====
+Self-Destruct
+
+# --- 227 ---
+===== OFF 0x26a068 | BYTES 32 | PAD FFFF =====
+Clone
+
+# --- 228 ---
+===== OFF 0x26a098 | BYTES 32 | PAD FFFF =====
+Dissolvent
+
+# --- 229 ---
+===== OFF 0x26a0c8 | BYTES 32 | PAD FFFF =====
+Illusion
+
+# --- 230 ---
+===== OFF 0x26a0f8 | BYTES 32 | PAD FFFF =====
+Scatter
+
+# --- 231 ---
+===== OFF 0x26a128 | BYTES 32 | PAD FFFF =====
+Paralyze Punctur
+
+# --- 232 ---
+===== OFF 0x26a158 | BYTES 32 | PAD FFFF =====
+Dark Mirror
+
+# --- 233 ---
+===== OFF 0x26a188 | BYTES 32 | PAD FFFF =====
+Fire Arrow
+
+# --- 234 ---
+===== OFF 0x26a1b8 | BYTES 32 | PAD FFFF =====
+Dark Slumber
+
+# --- 235 ---
+===== OFF 0x26a1e8 | BYTES 32 | PAD FFFF =====
+Revenge Leak
+
+# --- 236 ---
+===== OFF 0x26a218 | BYTES 32 | PAD FFFF =====
+Absolute Zero
+
+# --- 237 ---
+===== OFF 0x26a248 | BYTES 32 | PAD FFFF =====
+Devil's Wall
+
+# --- 238 ---
+===== OFF 0x26a278 | BYTES 32 | PAD FFFF =====
+Crawling Chaos
+
+# --- 239 ---
+===== OFF 0x26a2a8 | BYTES 32 | PAD FFFF =====
+Symphony of Lame
+
+# --- 240 ---
+===== OFF 0x26a2d8 | BYTES 32 | PAD FFFF =====
+All Guard
+
+# --- 241 ---
+===== OFF 0x26a308 | BYTES 32 | PAD FFFF =====
+Butterfly Storm
+
+# --- 242 ---
+===== OFF 0x26a338 | BYTES 32 | PAD FFFF =====
+Bloody Rose
+
+# --- 243 ---
+===== OFF 0x26a368 | BYTES 32 | PAD FFFF =====
+Derangement Voic
+
+# --- 244 ---
+===== OFF 0x26a398 | BYTES 32 | PAD FFFF =====
+Estoma
+
+# --- 245 ---
+===== OFF 0x26a3c8 | BYTES 32 | PAD FFFF =====
+Traesto
+
+# --- 246 ---
+===== OFF 0x26a3f8 | BYTES 32 | PAD FFFF =====
+B(*F505*)  (*FF00*)(*PAD,11*)
+

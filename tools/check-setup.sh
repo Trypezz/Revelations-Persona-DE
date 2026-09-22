@@ -101,7 +101,7 @@ fi
 if command -v python3 >/dev/null 2>&1; then
   pass "python3"
 else
-  bad "python3 missing. patch-iso.sh and get-offset.sh need it."
+  bad "python3 missing. patch-iso.sh, get-offset.sh and the eboot scripts need it."
 fi
 
 if command -v 7z >/dev/null 2>&1; then
@@ -145,7 +145,14 @@ if [[ -n "${PFR_ROOT:-}" && -d "$PFR_ROOT" ]]; then
 
   if [[ -d "$PFR_ROOT/OG" ]]; then
     if [[ -f "$PFR_ROOT/OG/EBOOT.BIN" ]]; then
-      pass "OG/EBOOT.BIN"
+      magic=$(head -c 4 "$PFR_ROOT/OG/EBOOT.BIN" 2>/dev/null || true)
+      if [[ "$magic" == $'\x7fELF' ]]; then
+        pass "OG/EBOOT.BIN (decrypted)"
+      elif [[ "$magic" == "~PSP" ]]; then
+        bad "OG/EBOOT.BIN is still encrypted. Dump a decrypted one with PPSSPP."
+      else
+        bad "OG/EBOOT.BIN is empty or unknown. Put a decrypted EBOOT.BIN in OG/."
+      fi
     else
       bad "No EBOOT.BIN in $PFR_ROOT/OG."
     fi
@@ -186,18 +193,43 @@ for n in 0 1 2 3 4; do
   fi
 done
 
-for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh patch-iso.sh get-offset.sh; do
+if [[ -d "$REPO_ROOT/script/eboot" ]]; then
+  pass "script/eboot/"
+else
+  bad "No script/eboot/. Run ./tools/extract-eboot-options.sh"
+fi
+
+warns=0
+
+for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh patch-iso.sh get-offset.sh extract-eboot-options.sh patch-eboot-options.sh eboot_options.py; do
   if [[ -f "$REPO_ROOT/tools/$s" ]]; then
     pass "tools/$s"
   else
-    bad "No tools/$s"
+    maybe "No tools/$s"
+    if [[ $s == "sync-to-pfr.sh" ]]; then
+      echo " -> You can't patch EX.BIN files"
+      warns=$((warns + 1))
+    elif [[ $s == "eboot_options.py" ]]; then
+      echo " -> You can't patch EBOOT.BIN"
+      warns=$((warns + 1))
+    elif [[ $s == "patch-iso.sh" ]]; then
+      echo " -> You can't patch your test ISO"
+      warns=$((warns + 1))
+      bad "Missing for script for testing changes in the ISO"
+    fi
   fi
 done
 
 echo
 echo "Done. $ok ok, $fail fail, $warn warn."
+
+if ((warns >= 3)); then
+  fail=$((fail + 1))
+fi
+
 if ((fail > 0)); then
-  echo "Fix the FAIL lines first."
+  echo "Too many WARN Lines or at least one FAIL Line"
+  echo "Reduce WARN lines or Fix the FAIL lines first."
   exit 1
 fi
 echo "You can work."

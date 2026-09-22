@@ -1,0 +1,26 @@
+# Stat increase messages.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# German umlauts become AE/OE/UE/SS.
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2a4be4 | BYTES 54 =====
+(*FF01*) (*0044*) (*FF18*)(*0200*)Staerke(*FF18*)  erhoeht!
+
+# --- 1 ---
+===== OFF 0x2a4c1c | BYTES 62 =====
+(*FF01*)(*PAD,5*)(*0044*) (*FF18*)(*0200*)Vitalitaet(*FF18*)  erhoeht!
+
+# --- 2 ---
+===== OFF 0x2a4c5c | BYTES 64 =====
+(*FF01*)(*PAD,5*)(*0044*) (*FF18*)(*0200*)Gewandheit(*FF18*)  erhoeht!
+
+# --- 3 ---
+===== OFF 0x2a4c9e | BYTES 58 =====
+(*FF01*)(*PAD,4*)(*0044*) (*FF18*)(*0200*)Geschick(*FF18*)  erhoeht!
+
+# --- 4 ---
+===== OFF 0x2a4cda | BYTES 56 =====
+(*FF01*)(*PAD,6*)(*0044*) (*FF18*)(*0200*)Gluek(*FF18*)  erhoeht!
+

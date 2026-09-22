@@ -1,0 +1,2174 @@
+# Room names in the corner banner, e.g. 1F Empty Classroom.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# German umlauts become AE/OE/UE/SS.
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2b8000 | BYTES 12 =====
+Baum
+
+# --- 1 ---
+===== OFF 0x2b800e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 2 ---
+===== OFF 0x2b803e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 3 ---
+===== OFF 0x2b806e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 4 ---
+===== OFF 0x2b809e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 5 ---
+===== OFF 0x2b80ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 6 ---
+===== OFF 0x2b80fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 7 ---
+===== OFF 0x2b812e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 8 ---
+===== OFF 0x2b815e | BYTES 34 =====
+(*PAD,11*)Buero
+
+# --- 9 ---
+===== OFF 0x2b8182 | BYTES 62 =====
+(*PAD,17*)Rezeption
+
+# --- 10 ---
+===== OFF 0x2b81c2 | BYTES 30 =====
+(*PAD,9*)Buero
+
+# --- 11 ---
+===== OFF 0x2b81e2 | BYTES 46 =====
+(*PAD,17*)Buero
+
+# --- 12 ---
+===== OFF 0x2b8212 | BYTES 46 =====
+(*PAD,17*)Buero
+
+# --- 13 ---
+===== OFF 0x2b8242 | BYTES 46 =====
+(*PAD,17*)Buero
+
+# --- 14 ---
+===== OFF 0x2b8272 | BYTES 58 =====
+(*PAD,17*)Comm Passage
+
+# --- 15 ---
+===== OFF 0x2b82ae | BYTES 50 =====
+(*PAD,11*)Trish's Spring
+
+# --- 16 ---
+===== OFF 0x2b82e2 | BYTES 42 =====
+(*PAD,9*)Agastya Tree
+
+# --- 17 ---
+===== OFF 0x2b830e | BYTES 62 =====
+(*PAD,11*)Underground Facility
+
+# --- 18 ---
+===== OFF 0x2b834e | BYTES 12 =====
+   Lab
+
+# --- 19 ---
+===== OFF 0x2b835c | BYTES 46 =====
+(*PAD,20*)Lab
+
+# --- 20 ---
+===== OFF 0x2b838c | BYTES 58 =====
+(*PAD,20*)Warehouse
+
+# --- 21 ---
+===== OFF 0x2b83c8 | BYTES 46 =====
+(*PAD,14*)Raum 2-4
+
+# --- 22 ---
+===== OFF 0x2b83f8 | BYTES 44 =====
+(*PAD,14*)Art Room
+
+# --- 23 ---
+===== OFF 0x2b8426 | BYTES 48 =====
+(*PAD,11*)Sani-Raum
+
+# --- 24 ---
+===== OFF 0x2b8458 | BYTES 68 =====
+(*PAD,14*)Student Council Room
+
+# --- 25 ---
+===== OFF 0x2b849e | BYTES 24 =====
+   Class 1-4
+
+# --- 26 ---
+===== OFF 0x2b84b8 | BYTES 64 =====
+(*PAD,14*)Principal's Office
+
+# --- 27 ---
+===== OFF 0x2b84fa | BYTES 42 =====
+(*PAD,5*)1F Entrance Hall
+
+# --- 28 ---
+===== OFF 0x2b8526 | BYTES 40 =====
+(*PAD,7*)1F Passageway
+
+# --- 29 ---
+===== OFF 0x2b8550 | BYTES 46 =====
+(*PAD,10*)Old Gym Stage
+
+# --- 30 ---
+===== OFF 0x2b8580 | BYTES 38 =====
+(*PAD,10*)Class 2-1
+
+# --- 31 ---
+===== OFF 0x2b85a8 | BYTES 64 =====
+(*PAD,15*)1F Klassenraum
+
+# --- 32 ---
+===== OFF 0x2b85ea | BYTES 28 =====
+(*PAD,5*)Sani-Raum
+
+# --- 33 ---
+===== OFF 0x2b8608 | BYTES 52 =====
+(*PAD,14*)Agastya Tree
+
+# --- 34 ---
+===== OFF 0x2b863e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 35 ---
+===== OFF 0x2b866e | BYTES 50 =====
+(*PAD,11*)Himeno Mansion
+
+# --- 36 ---
+===== OFF 0x2b86a2 | BYTES 50 =====
+(*PAD,9*)Kaneda Residence
+
+# --- 37 ---
+===== OFF 0x2b86d6 | BYTES 28 =====
+(*PAD,7*)Yin(*0055*)Yan
+
+# --- 38 ---
+===== OFF 0x2b86f4 | BYTES 56 =====
+(*PAD,16*)Rosa Candida
+
+# --- 39 ---
+===== OFF 0x2b872e | BYTES 48 =====
+(*PAD,11*)Judgment 1999
+
+# --- 40 ---
+===== OFF 0x2b8760 | BYTES 48 =====
+(*PAD,10*)Satomi Tadashi
+
+# --- 41 ---
+===== OFF 0x2b8792 | BYTES 40 =====
+(*PAD,9*)Velvet Room
+
+# --- 42 ---
+===== OFF 0x2b87bc | BYTES 46 =====
+(*PAD,12*)Peace Diner
+
+# --- 43 ---
+===== OFF 0x2b87ec | BYTES 56 =====
+(*PAD,12*)Sennen Mannen-Do
+
+# --- 44 ---
+===== OFF 0x2b8826 | BYTES 28 =====
+(*PAD,7*)Yin(*0055*)Yan
+
+# --- 45 ---
+===== OFF 0x2b8844 | BYTES 56 =====
+(*PAD,16*)Rosa Candida
+
+# --- 46 ---
+===== OFF 0x2b887e | BYTES 46 =====
+(*PAD,11*)Esumi Clinic
+
+# --- 47 ---
+===== OFF 0x2b88ae | BYTES 54 =====
+(*PAD,11*)Sennen Mannen-Do
+
+# --- 48 ---
+===== OFF 0x2b88e6 | BYTES 42 =====
+(*PAD,7*)Satomi Tadashi
+
+# --- 49 ---
+===== OFF 0x2b8912 | BYTES 44 =====
+(*PAD,9*)Judgment 1999
+
+# --- 50 ---
+===== OFF 0x2b8940 | BYTES 44 =====
+(*PAD,10*)Agastya Tree
+
+# --- 51 ---
+===== OFF 0x2b896e | BYTES 44 =====
+(*PAD,11*)Velvet Room
+
+# --- 52 ---
+===== OFF 0x2b899c | BYTES 46 =====
+(*PAD,12*)Art Gallery
+
+# --- 53 ---
+===== OFF 0x2b89cc | BYTES 46 =====
+(*PAD,12*)Art Gallery
+
+# --- 54 ---
+===== OFF 0x2b89fc | BYTES 44 =====
+(*PAD,12*)1F Chamber
+
+# --- 55 ---
+===== OFF 0x2b8a2a | BYTES 46 =====
+(*PAD,13*)2F Chamber
+
+# --- 56 ---
+===== OFF 0x2b8a5a | BYTES 50 =====
+(*PAD,13*)Agastya Tree
+
+# --- 57 ---
+===== OFF 0x2b8a8e | BYTES 40 =====
+(*PAD,11*)Deva Yuga
+
+# --- 58 ---
+===== OFF 0x2b8ab8 | BYTES 46 =====
+(*PAD,14*)Deva Yuga
+
+# --- 59 ---
+===== OFF 0x2b8ae8 | BYTES 46 =====
+(*PAD,14*)Deva Yuga
+
+# --- 60 ---
+===== OFF 0x2b8b18 | BYTES 54 =====
+(*PAD,14*)Judgment 1999
+
+# --- 61 ---
+===== OFF 0x2b8b50 | BYTES 34 =====
+(*PAD,10*)Yin(*0055*)Yan
+
+# --- 62 ---
+===== OFF 0x2b8b74 | BYTES 64 =====
+(*PAD,16*)Sennen Mannen-Do
+
+# --- 63 ---
+===== OFF 0x2b8bb6 | BYTES 42 =====
+(*PAD,7*)Satomi Tadashi
+
+# --- 64 ---
+===== OFF 0x2b8be2 | BYTES 42 =====
+(*PAD,9*)Rosa Candida
+
+# --- 65 ---
+===== OFF 0x2b8c0e | BYTES 44 =====
+(*PAD,11*)Peace Diner
+
+# --- 66 ---
+===== OFF 0x2b8c3c | BYTES 48 =====
+(*PAD,12*)Esumi Clinic
+
+# --- 67 ---
+===== OFF 0x2b8c6e | BYTES 44 =====
+(*PAD,11*)Velvet Room
+
+# --- 68 ---
+===== OFF 0x2b8c9c | BYTES 52 =====
+(*PAD,12*)Trish's Spring
+
+# --- 69 ---
+===== OFF 0x2b8cd2 | BYTES 42 =====
+(*PAD,9*)Esumi Clinic
+
+# --- 70 ---
+===== OFF 0x2b8cfe | BYTES 46 =====
+(*PAD,11*)Esumi Clinic
+
+# --- 71 ---
+===== OFF 0x2b8d2e | BYTES 38 =====
+(*PAD,11*)Entrance
+
+# --- 72 ---
+===== OFF 0x2b8d56 | BYTES 34 =====
+(*PAD,15*)(*FF1A*)(*8000*)
+
+# --- 73 ---
+===== OFF 0x2b8d7a | BYTES 66 =====
+(*PAD,21*)Agastya Tree
+
+# --- 74 ---
+===== OFF 0x2b8dbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 75 ---
+===== OFF 0x2b8dee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 76 ---
+===== OFF 0x2b8e1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 77 ---
+===== OFF 0x2b8e4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 78 ---
+===== OFF 0x2b8e7e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 79 ---
+===== OFF 0x2b8eae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 80 ---
+===== OFF 0x2b8ede | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 81 ---
+===== OFF 0x2b8f0e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 82 ---
+===== OFF 0x2b8f3e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 83 ---
+===== OFF 0x2b8f6e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 84 ---
+===== OFF 0x2b8f9e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 85 ---
+===== OFF 0x2b8fce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 86 ---
+===== OFF 0x2b8ffe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 87 ---
+===== OFF 0x2b902e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 88 ---
+===== OFF 0x2b905e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 89 ---
+===== OFF 0x2b908e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 90 ---
+===== OFF 0x2b90be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 91 ---
+===== OFF 0x2b90ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 92 ---
+===== OFF 0x2b911e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 93 ---
+===== OFF 0x2b914e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 94 ---
+===== OFF 0x2b917e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 95 ---
+===== OFF 0x2b91ae | BYTES 40 =====
+(*PAD,11*)Courtyard
+
+# --- 96 ---
+===== OFF 0x2b91d8 | BYTES 52 =====
+(*PAD,14*)Agastya Tree
+
+# --- 97 ---
+===== OFF 0x2b920e | BYTES 40 =====
+(*PAD,11*)Courtyard
+
+# --- 98 ---
+===== OFF 0x2b9238 | BYTES 46 =====
+(*PAD,11*)Sani-Raum
+
+# --- 99 ---
+===== OFF 0x2b9268 | BYTES 42 =====
+(*PAD,14*)Library
+
+# --- 100 ---
+===== OFF 0x2b9294 | BYTES 50 =====
+(*PAD,16*)Cafeteria
+
+# --- 101 ---
+===== OFF 0x2b92c8 | BYTES 46 =====
+(*PAD,14*)Cafeteria
+
+# --- 102 ---
+===== OFF 0x2b92f8 | BYTES 52 =====
+(*PAD,14*)Agastya Tree
+
+# --- 103 ---
+===== OFF 0x2b932e | BYTES 40 =====
+(*PAD,11*)Cafeteria
+
+# --- 104 ---
+===== OFF 0x2b9358 | BYTES 46 =====
+(*PAD,14*)Class 1-1
+
+# --- 105 ---
+===== OFF 0x2b9388 | BYTES 52 =====
+(*PAD,14*)Fencing Club
+
+# --- 106 ---
+===== OFF 0x2b93be | BYTES 36 =====
+(*PAD,11*)Library
+
+# --- 107 ---
+===== OFF 0x2b93e4 | BYTES 50 =====
+(*PAD,16*)Class 2-1
+
+# --- 108 ---
+===== OFF 0x2b9418 | BYTES 52 =====
+(*PAD,14*)Agastya Tree
+
+# --- 109 ---
+===== OFF 0x2b944e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 110 ---
+===== OFF 0x2b947e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 111 ---
+===== OFF 0x2b94ae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 112 ---
+===== OFF 0x2b94de | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 113 ---
+===== OFF 0x2b950e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 114 ---
+===== OFF 0x2b953e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 115 ---
+===== OFF 0x2b956e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 116 ---
+===== OFF 0x2b959e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 117 ---
+===== OFF 0x2b95ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 118 ---
+===== OFF 0x2b95fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 119 ---
+===== OFF 0x2b962e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 120 ---
+===== OFF 0x2b965e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 121 ---
+===== OFF 0x2b968e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 122 ---
+===== OFF 0x2b96be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 123 ---
+===== OFF 0x2b96ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 124 ---
+===== OFF 0x2b971e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 125 ---
+===== OFF 0x2b974e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 126 ---
+===== OFF 0x2b977e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 127 ---
+===== OFF 0x2b97ae | BYTES 46 =====
+(*PAD,11*)Hypnos Tower
+
+# --- 128 ---
+===== OFF 0x2b97de | BYTES 46 =====
+(*PAD,11*)Hypnos Tower
+
+# --- 129 ---
+===== OFF 0x2b980e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 130 ---
+===== OFF 0x2b983e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 131 ---
+===== OFF 0x2b986e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 132 ---
+===== OFF 0x2b989e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 133 ---
+===== OFF 0x2b98ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 134 ---
+===== OFF 0x2b98fe | BYTES 62 =====
+(*PAD,11*)Dream World Entrance
+
+# --- 135 ---
+===== OFF 0x2b993e | BYTES 30 =====
+   Agastya Tree
+
+# --- 136 ---
+===== OFF 0x2b995e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 137 ---
+===== OFF 0x2b998e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 138 ---
+===== OFF 0x2b99be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 139 ---
+===== OFF 0x2b99ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 140 ---
+===== OFF 0x2b9a1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 141 ---
+===== OFF 0x2b9a4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 142 ---
+===== OFF 0x2b9a7e | BYTES 58 =====
+(*PAD,11*)Principal's Office
+
+# --- 143 ---
+===== OFF 0x2b9aba | BYTES 34 =====
+(*PAD,5*)Agastya Tree
+
+# --- 144 ---
+===== OFF 0x2b9ade | BYTES 46 =====
+(*PAD,11*)Fencing Club
+
+# --- 145 ---
+===== OFF 0x2b9b0e | BYTES 36 =====
+(*PAD,11*)Yin(*0055*)Yan
+
+# --- 146 ---
+===== OFF 0x2b9b34 | BYTES 56 =====
+(*PAD,16*)Agastya Tree
+
+# --- 147 ---
+===== OFF 0x2b9b6e | BYTES 44 =====
+(*PAD,11*)Dream World
+
+# --- 148 ---
+===== OFF 0x2b9b9c | BYTES 44 =====
+(*PAD,12*)Drama Club
+
+# --- 149 ---
+===== OFF 0x2b9bca | BYTES 48 =====
+(*PAD,13*)Dream World
+
+# --- 150 ---
+===== OFF 0x2b9bfc | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 151 ---
+===== OFF 0x2b9c2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 152 ---
+===== OFF 0x2b9c5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 153 ---
+===== OFF 0x2b9c8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 154 ---
+===== OFF 0x2b9cbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 155 ---
+===== OFF 0x2b9cee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 156 ---
+===== OFF 0x2b9d1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 157 ---
+===== OFF 0x2b9d4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 158 ---
+===== OFF 0x2b9d7e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 159 ---
+===== OFF 0x2b9dae | BYTES 46 =====
+(*PAD,11*)Hypnos Tower
+
+# --- 160 ---
+===== OFF 0x2b9dde | BYTES 46 =====
+(*PAD,11*)Hypnos Tower
+
+# --- 161 ---
+===== OFF 0x2b9e0e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 162 ---
+===== OFF 0x2b9e3e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 163 ---
+===== OFF 0x2b9e6e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 164 ---
+===== OFF 0x2b9e9e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 165 ---
+===== OFF 0x2b9ece | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 166 ---
+===== OFF 0x2b9efe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 167 ---
+===== OFF 0x2b9f2e | BYTES 52 =====
+(*PAD,11*)Hypnos' Chamber
+
+# --- 168 ---
+===== OFF 0x2b9f64 | BYTES 46 =====
+(*PAD,8*)Hypnos' Chamber
+
+# --- 169 ---
+===== OFF 0x2b9f94 | BYTES 40 =====
+(*PAD,8*)Agastya Tree
+
+# --- 170 ---
+===== OFF 0x2b9fbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 171 ---
+===== OFF 0x2b9fee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 172 ---
+===== OFF 0x2ba01e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 173 ---
+===== OFF 0x2ba04e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 174 ---
+===== OFF 0x2ba07e | BYTES 48 =====
+(*PAD,11*)Nemesis Tower
+
+# --- 175 ---
+===== OFF 0x2ba0b0 | BYTES 50 =====
+(*PAD,10*)Torture Chamber
+
+# --- 176 ---
+===== OFF 0x2ba0e4 | BYTES 18 =====
+(*PAD,9*)
+
+# --- 177 ---
+===== OFF 0x2ba0f8 | BYTES 70 =====
+(*PAD,22*)Nemesis Tower
+
+# --- 178 ---
+===== OFF 0x2ba140 | BYTES 44 =====
+(*PAD,10*)Agastya Tree
+
+# --- 179 ---
+===== OFF 0x2ba16e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 180 ---
+===== OFF 0x2ba19e | BYTES 54 =====
+(*PAD,11*)Nemesis' Chamber
+
+# --- 181 ---
+===== OFF 0x2ba1d6 | BYTES 46 =====
+(*PAD,7*)Nemesis' Chamber
+
+# --- 182 ---
+===== OFF 0x2ba206 | BYTES 38 =====
+(*PAD,7*)Agastya Tree
+
+# --- 183 ---
+===== OFF 0x2ba22e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 184 ---
+===== OFF 0x2ba25e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 185 ---
+===== OFF 0x2ba28e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 186 ---
+===== OFF 0x2ba2be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 187 ---
+===== OFF 0x2ba2ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 188 ---
+===== OFF 0x2ba31e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 189 ---
+===== OFF 0x2ba34e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 190 ---
+===== OFF 0x2ba37e | BYTES 50 =====
+(*PAD,11*)Thanatos Tower
+
+# --- 191 ---
+===== OFF 0x2ba3b2 | BYTES 42 =====
+(*PAD,9*)Agastya Tree
+
+# --- 192 ---
+===== OFF 0x2ba3de | BYTES 50 =====
+(*PAD,11*)Thanatos Tower
+
+# --- 193 ---
+===== OFF 0x2ba412 | BYTES 52 =====
+(*PAD,9*)Tartarus Entrance
+
+# --- 194 ---
+===== OFF 0x2ba448 | BYTES 36 =====
+(*PAD,6*)Agastya Tree
+
+# --- 195 ---
+===== OFF 0x2ba46e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 196 ---
+===== OFF 0x2ba49e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 197 ---
+===== OFF 0x2ba4ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 198 ---
+===== OFF 0x2ba4fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 199 ---
+===== OFF 0x2ba52e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 200 ---
+===== OFF 0x2ba55e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 201 ---
+===== OFF 0x2ba58e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 202 ---
+===== OFF 0x2ba5be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 203 ---
+===== OFF 0x2ba5ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 204 ---
+===== OFF 0x2ba61e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 205 ---
+===== OFF 0x2ba64e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 206 ---
+===== OFF 0x2ba67e | BYTES 38 =====
+(*PAD,11*)Tartarus
+
+# --- 207 ---
+===== OFF 0x2ba6a6 | BYTES 54 =====
+(*PAD,15*)Agastya Tree
+
+# --- 208 ---
+===== OFF 0x2ba6de | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 209 ---
+===== OFF 0x2ba70e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 210 ---
+===== OFF 0x2ba73e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 211 ---
+===== OFF 0x2ba76e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 212 ---
+===== OFF 0x2ba79e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 213 ---
+===== OFF 0x2ba7ce | BYTES 38 =====
+(*PAD,11*)Tartarus
+
+# --- 214 ---
+===== OFF 0x2ba7f6 | BYTES 54 =====
+(*PAD,15*)Agastya Tree
+
+# --- 215 ---
+===== OFF 0x2ba82e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 216 ---
+===== OFF 0x2ba85e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 217 ---
+===== OFF 0x2ba88e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 218 ---
+===== OFF 0x2ba8be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 219 ---
+===== OFF 0x2ba8ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 220 ---
+===== OFF 0x2ba91e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 221 ---
+===== OFF 0x2ba94e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 222 ---
+===== OFF 0x2ba97e | BYTES 56 =====
+(*PAD,11*)Thanatos' Chamber
+
+# --- 223 ---
+===== OFF 0x2ba9b8 | BYTES 46 =====
+(*PAD,6*)Thanatos' Chamber
+
+# --- 224 ---
+===== OFF 0x2ba9e8 | BYTES 36 =====
+(*PAD,6*)Agastya Tree
+
+# --- 225 ---
+===== OFF 0x2baa0e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 226 ---
+===== OFF 0x2baa3e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 227 ---
+===== OFF 0x2baa6e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 228 ---
+===== OFF 0x2baa9e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 229 ---
+===== OFF 0x2baace | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 230 ---
+===== OFF 0x2baafe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 231 ---
+===== OFF 0x2bab2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 232 ---
+===== OFF 0x2bab5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 233 ---
+===== OFF 0x2bab8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 234 ---
+===== OFF 0x2babbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 235 ---
+===== OFF 0x2babee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 236 ---
+===== OFF 0x2bac1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 237 ---
+===== OFF 0x2bac4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 238 ---
+===== OFF 0x2bac7e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 239 ---
+===== OFF 0x2bacae | BYTES 40 =====
+(*PAD,11*)Courtyard
+
+# --- 240 ---
+===== OFF 0x2bacd8 | BYTES 30 =====
+(*PAD,15*)
+
+# --- 241 ---
+===== OFF 0x2bacf8 | BYTES 62 =====
+(*PAD,22*)Courtyard
+
+# --- 242 ---
+===== OFF 0x2bad38 | BYTES 48 =====
+(*PAD,14*)Drama Club
+
+# --- 243 ---
+===== OFF 0x2bad6a | BYTES 44 =====
+(*PAD,13*)Courtyard
+
+# --- 244 ---
+===== OFF 0x2bad98 | BYTES 46 =====
+(*PAD,14*)Courtyard
+
+# --- 245 ---
+===== OFF 0x2badc8 | BYTES 52 =====
+(*PAD,14*)Agastya Tree
+
+# --- 246 ---
+===== OFF 0x2badfe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 247 ---
+===== OFF 0x2bae2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 248 ---
+===== OFF 0x2bae5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 249 ---
+===== OFF 0x2bae8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 250 ---
+===== OFF 0x2baebe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 251 ---
+===== OFF 0x2baeee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 252 ---
+===== OFF 0x2baf1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 253 ---
+===== OFF 0x2baf4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 254 ---
+===== OFF 0x2baf7e | BYTES 62 =====
+(*PAD,11*)Ice Castle Classroom
+
+# --- 255 ---
+===== OFF 0x2bafbe | BYTES 30 =====
+   Agastya Tree
+
+# --- 256 ---
+===== OFF 0x2bafde | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 257 ---
+===== OFF 0x2bb00e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 258 ---
+===== OFF 0x2bb03e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 259 ---
+===== OFF 0x2bb06e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 260 ---
+===== OFF 0x2bb09e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 261 ---
+===== OFF 0x2bb0ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 262 ---
+===== OFF 0x2bb0fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 263 ---
+===== OFF 0x2bb12e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 264 ---
+===== OFF 0x2bb15e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 265 ---
+===== OFF 0x2bb18e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 266 ---
+===== OFF 0x2bb1be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 267 ---
+===== OFF 0x2bb1ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 268 ---
+===== OFF 0x2bb21e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 269 ---
+===== OFF 0x2bb24e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 270 ---
+===== OFF 0x2bb27e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 271 ---
+===== OFF 0x2bb2ae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 272 ---
+===== OFF 0x2bb2de | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 273 ---
+===== OFF 0x2bb30e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 274 ---
+===== OFF 0x2bb33e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 275 ---
+===== OFF 0x2bb36e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 276 ---
+===== OFF 0x2bb39e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 277 ---
+===== OFF 0x2bb3ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 278 ---
+===== OFF 0x2bb3fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 279 ---
+===== OFF 0x2bb42e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 280 ---
+===== OFF 0x2bb45e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 281 ---
+===== OFF 0x2bb48e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 282 ---
+===== OFF 0x2bb4be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 283 ---
+===== OFF 0x2bb4ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 284 ---
+===== OFF 0x2bb51e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 285 ---
+===== OFF 0x2bb54e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 286 ---
+===== OFF 0x2bb57e | BYTES 62 =====
+(*PAD,11*)Ice Castle Classroom
+
+# --- 287 ---
+===== OFF 0x2bb5be | BYTES 46 =====
+   Ice Castle Classroom
+
+# --- 288 ---
+===== OFF 0x2bb5ee | BYTES 30 =====
+   Agastya Tree
+
+# --- 289 ---
+===== OFF 0x2bb60e | BYTES 62 =====
+(*PAD,11*)Student Council Room
+
+# --- 290 ---
+===== OFF 0x2bb64e | BYTES 46 =====
+   Ice Castle Classroom
+
+# --- 291 ---
+===== OFF 0x2bb67e | BYTES 30 =====
+   Agastya Tree
+
+# --- 292 ---
+===== OFF 0x2bb69e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 293 ---
+===== OFF 0x2bb6ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 294 ---
+===== OFF 0x2bb6fe | BYTES 32 =====
+(*PAD,11*)Stage
+
+# --- 295 ---
+===== OFF 0x2bb720 | BYTES 38 =====
+(*PAD,19*)
+
+# --- 296 ---
+===== OFF 0x2bb748 | BYTES 64 =====
+(*PAD,22*)Ice Castle
+
+# --- 297 ---
+===== OFF 0x2bb78a | BYTES 46 =====
+(*PAD,13*)Ice Castle
+
+# --- 298 ---
+===== OFF 0x2bb7ba | BYTES 50 =====
+(*PAD,13*)Agastya Tree
+
+# --- 299 ---
+===== OFF 0x2bb7ee | BYTES 54 =====
+(*PAD,11*)1F Entrance Hall
+
+# --- 300 ---
+===== OFF 0x2bb826 | BYTES 38 =====
+(*PAD,7*)Agastya Tree
+
+# --- 301 ---
+===== OFF 0x2bb84e | BYTES 58 =====
+(*PAD,11*)St. Hermelin Gates
+
+# --- 302 ---
+===== OFF 0x2bb88a | BYTES 34 =====
+(*PAD,5*)Agastya Tree
+
+# --- 303 ---
+===== OFF 0x2bb8ae | BYTES 40 =====
+(*PAD,11*)Courtyard
+
+# --- 304 ---
+===== OFF 0x2bb8d8 | BYTES 54 =====
+(*PAD,14*)1F Passageway
+
+# --- 305 ---
+===== OFF 0x2bb910 | BYTES 44 =====
+(*PAD,10*)Agastya Tree
+
+# --- 306 ---
+===== OFF 0x2bb93e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 307 ---
+===== OFF 0x2bb96e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 308 ---
+===== OFF 0x2bb99e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 309 ---
+===== OFF 0x2bb9ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 310 ---
+===== OFF 0x2bb9fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 311 ---
+===== OFF 0x2bba2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 312 ---
+===== OFF 0x2bba5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 313 ---
+===== OFF 0x2bba8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 314 ---
+===== OFF 0x2bbabe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 315 ---
+===== OFF 0x2bbaee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 316 ---
+===== OFF 0x2bbb1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 317 ---
+===== OFF 0x2bbb4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 318 ---
+===== OFF 0x2bbb7e | BYTES 58 =====
+(*PAD, 11*)1F Klassenraum
+
+# --- 319 ---
+===== OFF 0x2bbbba | BYTES 34 =====
+(*PAD,5*)Agastya Tree
+
+# --- 320 ---
+===== OFF 0x2bbbde | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 321 ---
+===== OFF 0x2bbc0e | BYTES 40 =====
+(*PAD,11*)Sani-Raum
+
+# --- 322 ---
+===== OFF 0x2bbc38 | BYTES 42 =====
+(*PAD,14*)Library
+
+# --- 323 ---
+===== OFF 0x2bbc64 | BYTES 52 =====
+(*PAD,16*)Drama Club
+
+# --- 324 ---
+===== OFF 0x2bbc9a | BYTES 44 =====
+(*PAD,13*)Courtyard
+
+# --- 325 ---
+===== OFF 0x2bbcc8 | BYTES 68 =====
+(*PAD,14*)Student Council Room
+
+# --- 326 ---
+===== OFF 0x2bbd0e | BYTES 38 =====
+   Teacher's Lounge
+
+# --- 327 ---
+===== OFF 0x2bbd36 | BYTES 50 =====
+(*PAD,7*)2F Empty Classroom
+
+# --- 328 ---
+===== OFF 0x2bbd6a | BYTES 28 =====
+(*PAD,5*)Class 2-1
+
+# --- 329 ---
+===== OFF 0x2bbd88 | BYTES 64 =====
+(*PAD,14*)St. Hermelin Gates
+
+# --- 330 ---
+===== OFF 0x2bbdca | BYTES 56 =====
+(*PAD,5*)SEBEC Building Entryway
+
+# --- 331 ---
+===== OFF 0x2bbe04 | BYTES 26 =====
+Judgment 1999
+
+# --- 332 ---
+===== OFF 0x2bbe20 | BYTES 66 =====
+(*PAD,10*)SEBEC Building Entryway
+
+# --- 333 ---
+===== OFF 0x2bbe64 | BYTES 46 =====
+SEBEC Building Entryway
+
+# --- 334 ---
+===== OFF 0x2bbe94 | BYTES 26 =====
+Judgment 1999
+
+# --- 335 ---
+===== OFF 0x2bbeb0 | BYTES 54 =====
+(*PAD,10*)Abandoned Factory
+
+# --- 336 ---
+===== OFF 0x2bbee8 | BYTES 26 =====
+(*PAD,6*)Yin(*0055*)Yan
+
+# --- 337 ---
+===== OFF 0x2bbf04 | BYTES 60 =====
+(*PAD,16*)Reception Desk
+
+# --- 338 ---
+===== OFF 0x2bbf42 | BYTES 34 =====
+(*PAD,9*)Room 302
+
+# --- 339 ---
+===== OFF 0x2bbf66 | BYTES 52 =====
+(*PAD,15*)ICU Hallway
+
+# --- 340 ---
+===== OFF 0x2bbf9c | BYTES 40 =====
+(*PAD,12*)2F Lobby
+
+# --- 341 ---
+===== OFF 0x2bbfc6 | BYTES 46 =====
+(*PAD,15*)2F Lobby
+
+# --- 342 ---
+===== OFF 0x2bbff6 | BYTES 58 =====
+(*PAD,15*)Reception Desk
+
+# --- 343 ---
+===== OFF 0x2bc032 | BYTES 46 =====
+(*PAD,9*)Reception Desk
+
+# --- 344 ---
+===== OFF 0x2bc062 | BYTES 64 =====
+(*PAD,9*)SEBEC Building Entryway
+
+# --- 345 ---
+===== OFF 0x2bc0a4 | BYTES 24 =====
+Alaya Shrine
+
+# --- 346 ---
+===== OFF 0x2bc0be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 347 ---
+===== OFF 0x2bc0ee | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 348 ---
+===== OFF 0x2bc11e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 349 ---
+===== OFF 0x2bc14e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 350 ---
+===== OFF 0x2bc17e | BYTES 46 =====
+(*PAD,11*)School Gates
+
+# --- 351 ---
+===== OFF 0x2bc1ae | BYTES 54 =====
+(*PAD,11*)1F Entrance Hall
+
+# --- 352 ---
+===== OFF 0x2bc1e6 | BYTES 32 =====
+(*PAD,7*)Sani-Raum
+
+# --- 353 ---
+===== OFF 0x2bc208 | BYTES 46 =====
+(*PAD,14*)Class 2-4
+
+# --- 354 ---
+===== OFF 0x2bc238 | BYTES 42 =====
+(*PAD,14*)Library
+
+# --- 355 ---
+===== OFF 0x2bc264 | BYTES 52 =====
+(*PAD,16*)Drama Club
+
+# --- 356 ---
+===== OFF 0x2bc29a | BYTES 66 =====
+(*PAD,13*)Student Council Room
+
+# --- 357 ---
+===== OFF 0x2bc2de | BYTES 42 =====
+   Principal's Office
+
+# --- 358 ---
+===== OFF 0x2bc30a | BYTES 32 =====
+(*PAD,5*)Gym Storage
+
+# --- 359 ---
+===== OFF 0x2bc32c | BYTES 50 =====
+(*PAD,12*)1F Passageway
+
+# --- 360 ---
+===== OFF 0x2bc360 | BYTES 46 =====
+(*PAD,10*)1F Passageway
+
+# --- 361 ---
+===== OFF 0x2bc390 | BYTES 54 =====
+(*PAD,10*)St. Hermelin Area
+
+# --- 362 ---
+===== OFF 0x2bc3c8 | BYTES 46 =====
+(*PAD,6*)St. Hermelin Area
+
+# --- 363 ---
+===== OFF 0x2bc3f8 | BYTES 36 =====
+(*PAD,6*)Agastya Tree
+
+# --- 364 ---
+===== OFF 0x2bc41e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 365 ---
+===== OFF 0x2bc44e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 366 ---
+===== OFF 0x2bc47e | BYTES 64 =====
+(*PAD,11*)Mikage Police Station
+
+# --- 367 ---
+===== OFF 0x2bc4c0 | BYTES 28 =====
+  Holding Cell
+
+# --- 368 ---
+===== OFF 0x2bc4de | BYTES 46 =====
+(*PAD,11*)Holding Cell
+
+# --- 369 ---
+===== OFF 0x2bc50e | BYTES 44 =====
+(*PAD,11*)Subway Area
+
+# --- 370 ---
+===== OFF 0x2bc53c | BYTES 58 =====
+(*PAD,12*)Abandoned Factory
+
+# --- 371 ---
+===== OFF 0x2bc578 | BYTES 46 =====
+(*PAD,6*)Abandoned Factory
+
+# --- 372 ---
+===== OFF 0x2bc5a8 | BYTES 46 =====
+(*PAD,6*)Abandoned Factory
+
+# --- 373 ---
+===== OFF 0x2bc5d8 | BYTES 46 =====
+(*PAD,6*)Abandoned Factory
+
+# --- 374 ---
+===== OFF 0x2bc608 | BYTES 46 =====
+(*PAD,6*)Abandoned Factory
+
+# --- 375 ---
+===== OFF 0x2bc638 | BYTES 48 =====
+(*PAD,6*)President's Office
+
+# --- 376 ---
+===== OFF 0x2bc66a | BYTES 48 =====
+(*PAD,5*)Deva System Chamber
+
+# --- 377 ---
+===== OFF 0x2bc69c | BYTES 32 =====
+(*PAD,4*)Agastya Tree
+
+# --- 378 ---
+===== OFF 0x2bc6be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 379 ---
+===== OFF 0x2bc6ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 380 ---
+===== OFF 0x2bc71e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 381 ---
+===== OFF 0x2bc74e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 382 ---
+===== OFF 0x2bc77e | BYTES 36 =====
+(*PAD,11*)Old Gym
+
+# --- 383 ---
+===== OFF 0x2bc7a4 | BYTES 50 =====
+(*PAD,16*)Class 2-5
+
+# --- 384 ---
+===== OFF 0x2bc7d8 | BYTES 44 =====
+(*PAD,14*)Art Room
+
+# --- 385 ---
+===== OFF 0x2bc806 | BYTES 46 =====
+(*PAD,15*)Art Room
+
+# --- 386 ---
+===== OFF 0x2bc836 | BYTES 48 =====
+(*PAD,15*)Courtyard
+
+# --- 387 ---
+===== OFF 0x2bc868 | BYTES 46 =====
+(*PAD,14*)Courtyard
+
+# --- 388 ---
+===== OFF 0x2bc898 | BYTES 42 =====
+(*PAD,14*)Library
+
+# --- 389 ---
+===== OFF 0x2bc8c4 | BYTES 56 =====
+(*PAD,16*)Agastya Tree
+
+# --- 390 ---
+===== OFF 0x2bc8fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 391 ---
+===== OFF 0x2bc92e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 392 ---
+===== OFF 0x2bc95e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 393 ---
+===== OFF 0x2bc98e | BYTES 50 =====
+(*PAD,11*)Trish's Spring
+
+# --- 394 ---
+===== OFF 0x2bc9c2 | BYTES 42 =====
+(*PAD,9*)Agastya Tree
+
+# --- 395 ---
+===== OFF 0x2bc9ee | BYTES 44 =====
+(*PAD,11*)Velvet Room
+
+# --- 396 ---
+===== OFF 0x2bca1c | BYTES 46 =====
+(*PAD,12*)Velvet Room
+
+# --- 397 ---
+===== OFF 0x2bca4c | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 398 ---
+===== OFF 0x2bca7e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 399 ---
+===== OFF 0x2bcaae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 400 ---
+===== OFF 0x2bcade | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 401 ---
+===== OFF 0x2bcb0e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 402 ---
+===== OFF 0x2bcb3e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 403 ---
+===== OFF 0x2bcb6e | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 404 ---
+===== OFF 0x2bcb9e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 405 ---
+===== OFF 0x2bcbce | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 406 ---
+===== OFF 0x2bcbfe | BYTES 52 =====
+(*PAD,11*)Exhibition Room
+
+# --- 407 ---
+===== OFF 0x2bcc34 | BYTES 40 =====
+(*PAD,8*)Agastya Tree
+
+# --- 408 ---
+===== OFF 0x2bcc5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 409 ---
+===== OFF 0x2bcc8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 410 ---
+===== OFF 0x2bccbe | BYTES 44 =====
+(*PAD,11*)Subway Area
+
+# --- 411 ---
+===== OFF 0x2bccec | BYTES 46 =====
+(*PAD,12*)Subway Area
+
+# --- 412 ---
+===== OFF 0x2bcd1c | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 413 ---
+===== OFF 0x2bcd4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 414 ---
+===== OFF 0x2bcd7e | BYTES 44 =====
+(*PAD,11*)Peace Diner
+
+# --- 415 ---
+===== OFF 0x2bcdac | BYTES 46 =====
+(*PAD,12*)Art Gallery
+
+# --- 416 ---
+===== OFF 0x2bcddc | BYTES 54 =====
+(*PAD,12*)Queen's Chamber
+
+# --- 417 ---
+===== OFF 0x2bce14 | BYTES 38 =====
+(*PAD,8*)Peace Diner
+
+# --- 418 ---
+===== OFF 0x2bce3c | BYTES 54 =====
+(*PAD,12*)Queen's Chamber
+
+# --- 419 ---
+===== OFF 0x2bce74 | BYTES 46 =====
+(*PAD,8*)Queen's Chamber
+
+# --- 420 ---
+===== OFF 0x2bcea4 | BYTES 40 =====
+(*PAD,8*)Agastya Tree
+
+# --- 421 ---
+===== OFF 0x2bcece | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 422 ---
+===== OFF 0x2bcefe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 423 ---
+===== OFF 0x2bcf2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 424 ---
+===== OFF 0x2bcf5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 425 ---
+===== OFF 0x2bcf8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 426 ---
+===== OFF 0x2bcfbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 427 ---
+===== OFF 0x2bcfee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 428 ---
+===== OFF 0x2bd01e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 429 ---
+===== OFF 0x2bd04e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 430 ---
+===== OFF 0x2bd07e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 431 ---
+===== OFF 0x2bd0ae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 432 ---
+===== OFF 0x2bd0de | BYTES 26 =====
+(*PAD,11*)(*FF1A*)(*8000*)
+
+# --- 433 ---
+===== OFF 0x2bd0fa | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 434 ---
+===== OFF 0x2bd12a | BYTES 64 =====
+(*PAD,21*)Mana Castle
+
+# --- 435 ---
+===== OFF 0x2bd16c | BYTES 46 =====
+(*PAD,12*)Lost Forest
+
+# --- 436 ---
+===== OFF 0x2bd19c | BYTES 58 =====
+(*PAD,12*)Gingerbread House
+
+# --- 437 ---
+===== OFF 0x2bd1d8 | BYTES 46 =====
+(*PAD,6*)Gingerbread House
+
+# --- 438 ---
+===== OFF 0x2bd208 | BYTES 16 =====
+(*PAD,6*)(*FF1A*)(*8000*)
+
+# --- 439 ---
+===== OFF 0x2bd21a | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 440 ---
+===== OFF 0x2bd24a | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 441 ---
+===== OFF 0x2bd27a | BYTES 66 =====
+(*PAD,21*)Agastya Tree
+
+# --- 442 ---
+===== OFF 0x2bd2be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 443 ---
+===== OFF 0x2bd2ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 444 ---
+===== OFF 0x2bd31e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 445 ---
+===== OFF 0x2bd34e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 446 ---
+===== OFF 0x2bd37e | BYTES 44 =====
+(*PAD,11*)Mana Castle
+
+# --- 447 ---
+===== OFF 0x2bd3ac | BYTES 28 =====
+(*PAD,12*)(*FF1A*)(*8000*)
+
+# --- 448 ---
+===== OFF 0x2bd3ca | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 449 ---
+===== OFF 0x2bd3fa | BYTES 66 =====
+(*PAD,21*)Agastya Tree
+
+# --- 450 ---
+===== OFF 0x2bd43e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 451 ---
+===== OFF 0x2bd46e | BYTES 44 =====
+(*PAD,11*)Mana Castle
+
+# --- 452 ---
+===== OFF 0x2bd49c | BYTES 46 =====
+(*PAD,12*)Mana Castle
+
+# --- 453 ---
+===== OFF 0x2bd4cc | BYTES 46 =====
+(*PAD,12*)Mana Castle
+
+# --- 454 ---
+===== OFF 0x2bd4fc | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 455 ---
+===== OFF 0x2bd52e | BYTES 52 =====
+(*PAD,11*)Haunted Mansion
+
+# --- 456 ---
+===== OFF 0x2bd564 | BYTES 46 =====
+(*PAD,8*)Haunted Mansion
+
+# --- 457 ---
+===== OFF 0x2bd594 | BYTES 40 =====
+(*PAD,8*)Agastya Tree
+
+# --- 458 ---
+===== OFF 0x2bd5be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 459 ---
+===== OFF 0x2bd5ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 460 ---
+===== OFF 0x2bd61e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 461 ---
+===== OFF 0x2bd64e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 462 ---
+===== OFF 0x2bd67e | BYTES 60 =====
+(*PAD,11*)Deva System Chamber
+
+# --- 463 ---
+===== OFF 0x2bd6bc | BYTES 32 =====
+(*PAD,4*)Agastya Tree
+
+# --- 464 ---
+===== OFF 0x2bd6de | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 465 ---
+===== OFF 0x2bd70e | BYTES 40 =====
+(*PAD,11*)Deva Yuga
+
+# --- 466 ---
+===== OFF 0x2bd738 | BYTES 46 =====
+(*PAD,14*)Deva Yuga
+
+# --- 467 ---
+===== OFF 0x2bd768 | BYTES 68 =====
+(*PAD,14*)Maki's Hospital Room
+
+# --- 468 ---
+===== OFF 0x2bd7ae | BYTES 30 =====
+   Agastya Tree
+
+# --- 469 ---
+===== OFF 0x2bd7ce | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 470 ---
+===== OFF 0x2bd7fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 471 ---
+===== OFF 0x2bd82e | BYTES 62 =====
+(*PAD,11*)Maki's Hospital Room
+
+# --- 472 ---
+===== OFF 0x2bd86e | BYTES 30 =====
+   Agastya Tree
+
+# --- 473 ---
+===== OFF 0x2bd88e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 474 ---
+===== OFF 0x2bd8be | BYTES 50 =====
+(*PAD,11*)Trish's Spring
+
+# --- 475 ---
+===== OFF 0x2bd8f2 | BYTES 40 =====
+(*PAD,9*)Velvet Room
+
+# --- 476 ---
+===== OFF 0x2bd91c | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 477 ---
+===== OFF 0x2bd94e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 478 ---
+===== OFF 0x2bd97e | BYTES 44 =====
+(*PAD,11*)Lost Forest
+
+# --- 479 ---
+===== OFF 0x2bd9ac | BYTES 58 =====
+(*PAD,12*)Gingerbread House
+
+# --- 480 ---
+===== OFF 0x2bd9e8 | BYTES 34 =====
+(*PAD,6*)Lost Forest
+
+# --- 481 ---
+===== OFF 0x2bda0c | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 482 ---
+===== OFF 0x2bda3e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 483 ---
+===== OFF 0x2bda6e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 484 ---
+===== OFF 0x2bda9e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 485 ---
+===== OFF 0x2bdace | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 486 ---
+===== OFF 0x2bdafe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 487 ---
+===== OFF 0x2bdb2e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 488 ---
+===== OFF 0x2bdb5e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 489 ---
+===== OFF 0x2bdb8e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 490 ---
+===== OFF 0x2bdbbe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 491 ---
+===== OFF 0x2bdbee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 492 ---
+===== OFF 0x2bdc1e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 493 ---
+===== OFF 0x2bdc4e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 494 ---
+===== OFF 0x2bdc7e | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 495 ---
+===== OFF 0x2bdcae | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 496 ---
+===== OFF 0x2bdcde | BYTES 24 =====
+(*PAD,12*)
+
+# --- 497 ---
+===== OFF 0x2bdcf8 | BYTES 72 =====
+(*PAD,22*)Reception Desk
+
+# --- 498 ---
+===== OFF 0x2bdd42 | BYTES 56 =====
+(*PAD,9*)Deva System Chamber
+
+# --- 499 ---
+===== OFF 0x2bdd7c | BYTES 38 =====
+(*PAD,4*)Queen's Chamber
+
+# --- 500 ---
+===== OFF 0x2bdda4 | BYTES 46 =====
+(*PAD,8*)Haunted Mansion
+
+# --- 501 ---
+===== OFF 0x2bddd4 | BYTES 34 =====
+(*PAD,8*)Deva Yuga
+
+# --- 502 ---
+===== OFF 0x2bddf8 | BYTES 50 =====
+(*PAD,14*)Lost Forest
+
+# --- 503 ---
+===== OFF 0x2bde2c | BYTES 52 =====
+(*PAD,12*)Trish's Spring
+
+# --- 504 ---
+===== OFF 0x2bde62 | BYTES 42 =====
+(*PAD,9*)Agastya Tree
+
+# --- 505 ---
+===== OFF 0x2bde8e | BYTES 26 =====
+(*PAD,11*)(*FF1A*)(*8000*)
+
+# --- 506 ---
+===== OFF 0x2bdeaa | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 507 ---
+===== OFF 0x2bdeda | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 508 ---
+===== OFF 0x2bdf0a | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 509 ---
+===== OFF 0x2bdf3a | BYTES 66 =====
+(*PAD,21*)Agastya Tree
+
+# --- 510 ---
+===== OFF 0x2bdf7e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 511 ---
+===== OFF 0x2bdfae | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 512 ---
+===== OFF 0x2bdfde | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 513 ---
+===== OFF 0x2be00e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 514 ---
+===== OFF 0x2be03e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 515 ---
+===== OFF 0x2be06e | BYTES 46 =====
+(*PAD,11*)Alaya Cavern
+
+# --- 516 ---
+===== OFF 0x2be09e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 517 ---
+===== OFF 0x2be0ce | BYTES 46 =====
+(*PAD,11*)Alaya Cavern
+
+# --- 518 ---
+===== OFF 0x2be0fe | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 519 ---
+===== OFF 0x2be12e | BYTES 46 =====
+(*PAD,11*)Alaya Cavern
+
+# --- 520 ---
+===== OFF 0x2be15e | BYTES 46 =====
+(*PAD,11*)Alaya Shrine
+
+# --- 521 ---
+===== OFF 0x2be18e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 522 ---
+===== OFF 0x2be1be | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 523 ---
+===== OFF 0x2be1ee | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 524 ---
+===== OFF 0x2be21e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 525 ---
+===== OFF 0x2be24e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 526 ---
+===== OFF 0x2be27e | BYTES 36 =====
+(*PAD,11*)Library
+
+# --- 527 ---
+===== OFF 0x2be2a4 | BYTES 56 =====
+(*PAD,16*)Agastya Tree
+
+# --- 528 ---
+===== OFF 0x2be2de | BYTES 50 =====
+(*PAD,11*)Trish's Spring
+
+# --- 529 ---
+===== OFF 0x2be312 | BYTES 40 =====
+(*PAD,9*)Velvet Room
+
+# --- 530 ---
+===== OFF 0x2be33c | BYTES 56 =====
+(*PAD,12*)1F Entrance Hall
+
+# --- 531 ---
+===== OFF 0x2be376 | BYTES 42 =====
+(*PAD,7*)Pandora's Nest
+
+# --- 532 ---
+===== OFF 0x2be3a2 | BYTES 42 =====
+(*PAD,9*)Agastya Tree
+
+# --- 533 ---
+===== OFF 0x2be3ce | BYTES 50 =====
+(*PAD,11*)Pandora's Nest
+
+# --- 534 ---
+===== OFF 0x2be402 | BYTES 40 =====
+(*PAD,9*)Peace Diner
+
+# --- 535 ---
+===== OFF 0x2be42c | BYTES 46 =====
+(*PAD,12*)Peace Diner
+
+# --- 536 ---
+===== OFF 0x2be45c | BYTES 48 =====
+(*PAD,12*)Agastya Tree
+
+# --- 537 ---
+===== OFF 0x2be48e | BYTES 26 =====
+(*PAD,11*)(*FF1A*)(*8000*)
+
+# --- 538 ---
+===== OFF 0x2be4aa | BYTES 46 =====
+(*PAD,21*)(*FF1A*)(*8000*)
+
+# --- 539 ---
+===== OFF 0x2be4da | BYTES 66 =====
+(*PAD,21*)Agastya Tree
+
+# --- 540 ---
+===== OFF 0x2be51e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+
+# --- 541 ---
+===== OFF 0x2be54e | BYTES 46 =====
+(*PAD,11*)Agastya Tree
+

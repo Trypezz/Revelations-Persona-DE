@@ -1,0 +1,334 @@
+# Player choice menus. These are (*SHOW_OPTIONS,N*) in the event .TXT files.
+# Edit the body under each header. Do not change ===== header lines.
+# German umlauts become AE/OE/UE/SS.
+# Keep the line short. BYTES is the original size in the EBOOT (2 per letter).
+# A longer German line is refused. Shorter lines are padded.
+# Leading spaces in the English original are padding. You can leave them out.
+
+# --- SHOW_OPTIONS,0 ---
+===== ID 0 SLOT 0 | OFF 0x2c1084 | BYTES 6 =====
+Ja
+
+===== ID 0 SLOT 1 | OFF 0x2c108c | BYTES 4 =====
+Ne
+
+# --- SHOW_OPTIONS,1 ---
+===== ID 1 SLOT 0 | OFF 0x2c1066 | BYTES 12 =====
+Klar.
+
+===== ID 1 SLOT 1 | OFF 0x2c1074 | BYTES 14 =====
+Niemals
+
+# --- SHOW_OPTIONS,2 ---
+===== ID 2 SLOT 0 | OFF 0x2c1032 | BYTES 24 =====
+Ja, Ich
+
+===== ID 2 SLOT 1 | OFF 0x2c104c | BYTES 24 =====
+Nein.
+
+# --- SHOW_OPTIONS,3 ---
+===== ID 3 SLOT 0 | OFF 0x2c0fc6 | BYTES 22 =====
+Spielstart
+
+===== ID 3 SLOT 1 | OFF 0x2c0fde | BYTES 22 =====
+Pruef coins
+
+===== ID 3 SLOT 2 | OFF 0x2c0ff6 | BYTES 32 =====
+See explanations
+
+===== ID 3 SLOT 3 | OFF 0x2c1018 | BYTES 24 =====
+Stop playing
+
+# --- SHOW_OPTIONS,4 ---
+===== ID 4 SLOT 0 | OFF 0x2c0fb8 | BYTES 4 =====
+Ne
+
+===== ID 4 SLOT 1 | OFF 0x2c0fbe | BYTES 6 =====
+Ja
+
+# --- SHOW_OPTIONS,5 ---
+===== ID 5 SLOT 0 | OFF 0x2c0f62 | BYTES 22 =====
+Game rules
+
+===== ID 5 SLOT 1 | OFF 0x2c0f7a | BYTES 16 =====
+Controls
+
+===== ID 5 SLOT 2 | OFF 0x2c0f8c | BYTES 26 =====
+Winning hands
+
+===== ID 5 SLOT 3 | OFF 0x2c0fa8 | BYTES 14 =====
+Go back
+
+# --- SHOW_OPTIONS,6 ---
+===== ID 6 SLOT 0 | OFF 0x2c0f20 | BYTES 20 =====
+Game rules
+
+===== ID 6 SLOT 1 | OFF 0x2c0f36 | BYTES 16 =====
+Controls
+
+===== ID 6 SLOT 2 | OFF 0x2c0f48 | BYTES 8 =====
+Tips
+
+===== ID 6 SLOT 3 | OFF 0x2c0f52 | BYTES 14 =====
+Go back
+
+# --- SHOW_OPTIONS,7 ---
+===== ID 7 SLOT 0 | OFF 0x2c0edc | BYTES 26 =====
+Let them join
+
+===== ID 7 SLOT 1 | OFF 0x2c0ef8 | BYTES 38 =====
+Don't let them join
+
+# --- SHOW_OPTIONS,8 ---
+===== ID 8 SLOT 0 | OFF 0x2c0eac | BYTES 16 =====
+Help her
+
+===== ID 8 SLOT 1 | OFF 0x2c0ebe | BYTES 28 =====
+Don't help her
+
+# --- SHOW_OPTIONS,9 ---
+===== ID 9 SLOT 0 | OFF 0x2c0e88 | BYTES 22 =====
+Don't leave
+
+===== ID 9 SLOT 1 | OFF 0x2c0ea0 | BYTES 10 =====
+Leave
+
+# --- SHOW_OPTIONS,10 ---
+===== ID 10 SLOT 0 | OFF 0x2c0e5c | BYTES 26 =====
+Don't open it
+
+===== ID 10 SLOT 1 | OFF 0x2c0e78 | BYTES 14 =====
+Open it
+
+# --- SHOW_OPTIONS,11 ---
+===== ID 11 SLOT 0 | OFF 0x2c0e34 | BYTES 24 =====
+Don't listen
+
+===== ID 11 SLOT 1 | OFF 0x2c0e4e | BYTES 12 =====
+Listen
+
+# --- SHOW_OPTIONS,12 ---
+===== ID 12 SLOT 0 | OFF 0x2c0dde | BYTES 30 =====
+Create Persona
+
+===== ID 12 SLOT 1 | OFF 0x2c0dfe | BYTES 30 =====
+Take on Persona
+
+===== ID 12 SLOT 2 | OFF 0x2c0e1e | BYTES 8 =====
+Talk
+
+===== ID 12 SLOT 3 | OFF 0x2c0e28 | BYTES 10 =====
+Leave
+
+# --- SHOW_OPTIONS,13 ---
+===== ID 13 SLOT 0 | OFF 0x2c0d48 | BYTES 24 =====
+Stop hiding.
+
+===== ID 13 SLOT 1 | OFF 0x2c0d62 | BYTES 40 =====
+Yes, it's safe here.
+
+===== ID 13 SLOT 2 | OFF 0x2c0d8c | BYTES 38 =====
+That's true, but...
+
+===== ID 13 SLOT 3 | OFF 0x2c0db4 | BYTES 40 =====
+I don't really know.
+
+# --- SHOW_OPTIONS,14 ---
+===== ID 14 SLOT 0 | OFF 0x2c0cc4 | BYTES 22 =====
+For myself.
+
+===== ID 14 SLOT 1 | OFF 0x2c0cdc | BYTES 24 =====
+Just 'cause.
+
+===== ID 14 SLOT 2 | OFF 0x2c0cf6 | BYTES 40 =====
+For everyone's sake.
+
+===== ID 14 SLOT 3 | OFF 0x2c0d20 | BYTES 38 =====
+That's how it went.
+
+# --- SHOW_OPTIONS,15 ---
+===== ID 15 SLOT 0 | OFF 0x2c0c72 | BYTES 42 =====
+I don't really know.
+
+===== ID 15 SLOT 1 | OFF 0x2c0c9e | BYTES 36 =====
+To find my reason.
+
+# --- SHOW_OPTIONS,16 ---
+===== ID 16 SLOT 0 | OFF 0x2c0c1a | BYTES 42 =====
+Press the red button
+
+===== ID 16 SLOT 1 | OFF 0x2c0c46 | BYTES 42 =====
+Press the blue button
+
+# --- SHOW_OPTIONS,17 ---
+===== ID 17 SLOT 0 | OFF 0x2c0bd4 | BYTES 32 =====
+Heal us, please.
+
+===== ID 17 SLOT 1 | OFF 0x2c0bf6 | BYTES 34 =====
+Just dropping by.
+
+# --- SHOW_OPTIONS,18 ---
+===== ID 18 SLOT 0 | OFF 0x2c0b92 | BYTES 26 =====
+Fight Hariti
+
+===== ID 18 SLOT 1 | OFF 0x2c0bae | BYTES 36 =====
+Lower your weapons
+
+# --- SHOW_OPTIONS,19 ---
+===== ID 19 SLOT 0 | OFF 0x2c0b42 | BYTES 44 =====
+Don't hide like that!
+
+===== ID 19 SLOT 1 | OFF 0x2c0b70 | BYTES 32 =====
+Maybe you are...
+
+# --- SHOW_OPTIONS,20 ---
+===== ID 20 SLOT 0 | OFF 0x2c0af8 | BYTES 18 =====
+Stay here
+
+===== ID 20 SLOT 1 | OFF 0x2c0b0c | BYTES 16 =====
+Go to 8F
+
+===== ID 20 SLOT 2 | OFF 0x2c0b1e | BYTES 16 =====
+Go to 4F
+
+===== ID 20 SLOT 3 | OFF 0x2c0b30 | BYTES 16 =====
+Go to 1F
+
+# --- SHOW_OPTIONS,21 ---
+===== ID 21 SLOT 0 | OFF 0x2c0a9a | BYTES 28 =====
+Manual Fusion
+
+===== ID 21 SLOT 1 | OFF 0x2c0ab8 | BYTES 26 =====
+Guided Fusion
+
+===== ID 21 SLOT 2 | OFF 0x2c0ad4 | BYTES 20 =====
+View cards
+
+===== ID 21 SLOT 3 | OFF 0x2c0aea | BYTES 12 =====
+Cancel
+
+# --- SHOW_OPTIONS,22 ---
+===== ID 22 SLOT 0 | OFF 0x2c0a48 | BYTES 44 =====
+The Queen's is better.
+
+===== ID 22 SLOT 1 | OFF 0x2c0a76 | BYTES 34 =====
+Maki's is better.
+
+# --- SHOW_OPTIONS,23 ---
+===== ID 23 SLOT 0 | OFF 0x2c09d6 | BYTES 28 =====
+Beginner tips
+
+===== ID 23 SLOT 1 | OFF 0x2c09f4 | BYTES 24 =====
+Regular tips
+
+===== ID 23 SLOT 2 | OFF 0x2c0a0e | BYTES 28 =====
+About Personas
+
+===== ID 23 SLOT 3 | OFF 0x2c0a2c | BYTES 26 =====
+Advanced tips
+
+# --- SHOW_OPTIONS,24 ---
+===== ID 24 SLOT 0 | OFF 0x2c0976 | BYTES 22 =====
+Start game
+
+===== ID 24 SLOT 1 | OFF 0x2c098e | BYTES 22 =====
+Check cards
+
+===== ID 24 SLOT 2 | OFF 0x2c09a6 | BYTES 32 =====
+See explanations
+
+===== ID 24 SLOT 3 | OFF 0x2c09c8 | BYTES 12 =====
+Cancel
+
+# --- SHOW_OPTIONS,25 ---
+===== ID 25 SLOT 0 | OFF 0x2c0942 | BYTES 24 =====
+-Mark
+
+===== ID 25 SLOT 1 | OFF 0x2c095c | BYTES 24 =====
+Brown
+
+# --- SHOW_OPTIONS,26 ---
+===== ID 26 SLOT 0 | OFF 0x2c0906 | BYTES 34 =====
+That's the plan.
+
+===== ID 26 SLOT 1 | OFF 0x2c092a | BYTES 22 =====
+Not really.
+
+# --- SHOW_OPTIONS,27 ---
+===== ID 27 SLOT 0 | OFF 0x2c08d8 | BYTES 10 =====
+Yeah.
+
+===== ID 27 SLOT 1 | OFF 0x2c08e4 | BYTES 32 =====
+That's not true.
+
+# --- SHOW_OPTIONS,28 ---
+===== ID 28 SLOT 0 | OFF 0x2c08a8 | BYTES 22 =====
+Yeah, I do.
+
+===== ID 28 SLOT 1 | OFF 0x2c08c0 | BYTES 22 =====
+No, no one.
+
+# --- SHOW_OPTIONS,29 ---
+===== ID 29 SLOT 0 | OFF 0x2c0884 | BYTES 12 =====
+A few.
+
+===== ID 29 SLOT 1 | OFF 0x2c0892 | BYTES 20 =====
+Not a one.
+
+# --- SHOW_OPTIONS,30 ---
+===== ID 30 SLOT 0 | OFF 0x2c0832 | BYTES 40 =====
+I like the old way.
+
+===== ID 30 SLOT 1 | OFF 0x2c085c | BYTES 38 =====
+I like the new way.
+
+# --- SHOW_OPTIONS,31 ---
+===== ID 31 SLOT 0 | OFF 0x2c07ec | BYTES 36 =====
+Sure, put me down.
+
+===== ID 31 SLOT 1 | OFF 0x2c0812 | BYTES 30 =====
+Don't you dare.
+
+# --- SHOW_OPTIONS,32 ---
+===== ID 32 SLOT 0 | OFF 0x2c07be | BYTES 8 =====
+Buy
+
+===== ID 32 SLOT 1 | OFF 0x2c07c8 | BYTES 8 =====
+Sell
+
+===== ID 32 SLOT 2 | OFF 0x2c07d2 | BYTES 10 =====
+Equip
+
+===== ID 32 SLOT 3 | OFF 0x2c07de | BYTES 12 =====
+Cancel
+
+# --- SHOW_OPTIONS,33 ---
+===== ID 33 SLOT 0 | OFF 0x2c075e | BYTES 32 =====
+Trade for items
+
+===== ID 33 SLOT 1 | OFF 0x2c0780 | BYTES 34 =====
+Trade for incense
+
+===== ID 33 SLOT 2 | OFF 0x2c07a4 | BYTES 10 =====
+Equip
+
+===== ID 33 SLOT 3 | OFF 0x2c07b0 | BYTES 12 =====
+Cancel
+
+# --- SHOW_OPTIONS,34 ---
+===== ID 34 SLOT 0 | OFF 0x2c0730 | BYTES 12 =====
+Normal
+
+===== ID 34 SLOT 1 | OFF 0x2c073e | BYTES 16 =====
+Einfach
+
+===== ID 34 SLOT 2 | OFF 0x2c0750 | BYTES 12 =====
+Profi
+
+# --- SHOW_OPTIONS,35 ---
+===== ID 35 SLOT 0 | OFF 0x2c06ec | BYTES 24 =====
+Yes, it was.
+
+===== ID 35 SLOT 1 | OFF 0x2c0706 | BYTES 40 =====
+On second thought...
+

@@ -18,7 +18,7 @@
 "(*CHARACTER_NAME*)Nanjo(*LINE_BREAK*)Sieht aus, als haetten wir keine Wahl.(*LINE_BREAK*)Lasst es uns hinter uns bringen.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Mikage Krankenhaus, huh? Das ist echt weit(*LINE_BREAK*)von der Schule, wenn wir laufen.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Es ist Nord-Oestlich von der Schule.(*LINE_BREAK*)Wenn du die Schule verlaesst,(*LINE_BREAK*)gehe Richtung Norden...(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Dann gehe zur dritten Station,(*LINE_BREAK*)dann rechts, bei den Mikage Ruins.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Eh, wenn wir einfach rumlaufen,(*LINE_BREAK*)kommen wir frueher oder spaeter auch an.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Ich koennte nicht fuer ein Jahr im Krankenhaus(*LINE_BREAK*)eingesperrt sein.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Lass uns sie aufheitern!(*AWAITING_INPUT*)"
-"(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! Du solltest nun wirklich(*LINE_BREAK*)auf den Weg zum (*SET_COLOR,R*)Mikage Hospital(*SET_COLOR,_*)sein!(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)(*PLAYER_FIRST_NAME*)! Du solltest nun wirklich(*LINE_BREAK*)auf den Weg zum (*SET_COLOR,R*)Mikage Hospital(*SET_COLOR,_*) sein!(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Junge Seelen... Eure Anwesenheit ist willkommen.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Wollt ihr eure Geschichte in mich einritzen?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Seid vorsichtig auf eurer Reise, junge Seelen...(*AWAITING_INPUT*)"

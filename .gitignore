@@ -27,4 +27,5 @@ PersonaFlowReader/
 *.swo
 *~
 *.tmp
+eboot_options.py
 test.txt

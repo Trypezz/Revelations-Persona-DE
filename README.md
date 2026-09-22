@@ -10,7 +10,7 @@ Persona is Atlus / SEGA. This project is not affiliated with them. You need your
 
 ## IMPORTANT NOTE
 
-This repo currently works only on Linux. On Windows you need to make many things manual.
+- This Repo is designed to fail on your System. I do not ship the important Python Script that patches the EBOOT.BIN so you are not able to translate anything in there.
 
 ## First check if everything is setup correctly
 
@@ -26,7 +26,7 @@ OK means it is there. FAIL means you cannot work yet. WARN is optional stuff lik
 
 - [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader)
 - p7zip
-- python3 -> For scripts (getOffsets.sh, patch-iso.sh)
+- python3 -> For scripts (get-offset.sh, patch-iso.sh, eboot options)
 - java -> Needed for PersonaFlowReader to work
 - The Original Persona 1 ISO for the PSP
 
@@ -34,6 +34,7 @@ OK means it is there. FAIL means you cannot work yet. WARN is optional stuff lik
 
 ```
 script/          German event text, grouped the same way the game packs it
+                 script/eboot/ is EBOOT dumps (menus, difficulty, battle UI, ...)
 docs/            glossary, style, how far we are
 tools/           copy text to/from PersonaFlowReader, patch your ISO
 config.example.env
@@ -56,11 +57,14 @@ Set three paths in `config.env`:
 - `P1_TEST_ISO` — where a patched copy should be written
 - `PFR_ROOT` — the PersonaFlowReader folder that contains `extracted/`, `output/`, and `*.jar`
 
+Put a **decrypted** `EBOOT.BIN` in `$PFR_ROOT/OG/`. The ISO one is encrypted and cannot be edited. How to dump it is in `tools/README.md`.
+
 ## What is in git
 
 | In the repo       | Not in the repo                                   |
 | ----------------- | ------------------------------------------------- |
 | `script/**/*.TXT` | ISOs                                              |
+| `script/eboot/`   | decrypted `EBOOT.BIN` (keep that in `OG/`)        |
 | `docs/`           | `E0.BIN`–`E4.BIN`, `EBOOT.BIN`                    |
 | `tools/`          | `.EVS`, audio, maps, textures dumped from the UMD |
 | this README       | PersonaFlowReader itself                          |
