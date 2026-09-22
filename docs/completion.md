@@ -5,8 +5,8 @@ Because we count scenes, not binaries
 
 # Completion Table
 
-| Binary | Completion |
-| ------ | ---------- |
-| E0     | 004/223    |
+| Pack | Scenes Done |
+| ---- | ----------- |
+| E0   | 004/223     |
 
 Last edited scene: E0_004.TXT (Done: No)

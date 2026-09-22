@@ -24,7 +24,7 @@ OK means it is there. FAIL means you cannot work yet. WARN is optional stuff lik
 
 ## Requirements to work with this repo
 
-- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader) (Info: I did not need to use some EBOOT patches they talk about yet)
+- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader)
 - p7zip
 - python3 -> For scripts (getOffsets.sh, patch-iso.sh)
 - java -> Needed for PersonaFlowReader to work
