@@ -1,0 +1,24 @@
+# Persona rank-up messages.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2a1ef0 | BYTES 46 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0600*)(*FF0C*)(*FF18*)  gelernt(*LINE_BREAK*)(*FF18*)(*0700*)(*FF0A*)(*FF18*) !
+
+# --- 1 ---
+===== OFF 0x2a1f20 | BYTES 78 =====
+(*FF01*) (*0044*) (*FF15*)'s Persona, (*FF18*)(*0600*)(*FF0C*)(*FF18*),(*LINE_BREAK*)erreicht Lvl (*FFF8*)!
+
+# --- 2 ---
+===== OFF 0x2a1f70 | BYTES 46 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0600*)(*FF0C*)(*FF18*)  gelernt(*LINE_BREAK*)(*FF18*)(*0700*)(*FF0A*)(*FF18*) !
+
+# --- 3 ---
+===== OFF 0x2a1fa0 | BYTES 98 =====
+(*FF01*) (*0044*) (*FF15*)'s Persona, (*FF18*)(*0600*)(*FF0C*)(*FF18*) ,(*LINE_BREAK*)erreicht Max. Lvl!
+
+# --- 4 ---
+===== OFF 0x2a2004 | BYTES 78 =====
+(*FF01*) (*0044*) (*FF15*)'s Persona, (*FF18*)(*0600*)(*FF0C*)(*FF18*),(*LINE_BREAK*)erreicht Lvl (*FFF8*)!

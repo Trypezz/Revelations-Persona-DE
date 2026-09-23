@@ -1,0 +1,347 @@
+# Skill explanation texts (damage, heal, status).
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+# skill: Mediarahan
+===== OFF 0x277cb8 | BYTES 58 =====
+Restores full HP (all allies)
+
+# --- 1 ---
+===== OFF 0x277cf4 | BYTES 84 =====
+Expel damage/Instant Grave kill (all foes)
+
+# --- 2 ---
+===== OFF 0x277d4a | BYTES 80 =====
+ Heavy Expel damage each turn (all foes)
+
+# --- 3 ---
+===== OFF 0x277d9c | BYTES 6 =====
+???
+
+# --- 4 ---
+# skill: Poisma
+===== OFF 0x277da4 | BYTES 56 =====
+Inflicts Sick status (1 foe)
+
+# --- 5 ---
+# skill: Dormina
+===== OFF 0x277dde | BYTES 62 =====
+ Inflicts Poison status (1 foe)
+
+# --- 6 ---
+# skill: Marin Karin
+===== OFF 0x277e1e | BYTES 66 =====
+ Inflicts Paralyze status (1 foe)
+
+# --- 7 ---
+# skill: Petrama, Petradi, Petra Eyes
+===== OFF 0x277e62 | BYTES 60 =====
+ Inflicts Stone status (1 foe)
+
+# --- 8 ---
+===== OFF 0x277ea0 | BYTES 52 =====
+Instant Curse kill (1 foe)
+
+# --- 9 ---
+===== OFF 0x277ed6 | BYTES 86 =====
+ Death damage/Instant Angel kill (all foes)
+
+# --- 10 ---
+===== OFF 0x277f2e | BYTES 80 =====
+ Heavy Death damage each turn (all foes)
+
+# --- 11 ---
+# skill: Maziodyne
+===== OFF 0x277f80 | BYTES 68 =====
+Heavy Elec damage(*003B*)Shock (all foes)
+
+# --- 12 ---
+# skill: Mazionga
+===== OFF 0x277fc6 | BYTES 72 =====
+ Medium Elec damage(*003B*)Shock (all foes)
+
+# --- 13 ---
+# skill: Mazio, Mazionga, Maziodyne
+===== OFF 0x278010 | BYTES 68 =====
+Light Elec damage(*003B*)Shock (all foes)
+
+# --- 14 ---
+===== OFF 0x278056 | BYTES 62 =====
+ Heavy Elec damage(*003B*)Shock (area)
+
+# --- 15 ---
+===== OFF 0x278096 | BYTES 64 =====
+ Heavy Gravity damage (all foes)
+
+# --- 16 ---
+===== OFF 0x2780d8 | BYTES 64 =====
+Medium Gravity damage (all foes)
+
+# --- 17 ---
+===== OFF 0x27811a | BYTES 64 =====
+ Light Gravity damage (all foes)
+
+# --- 18 ---
+===== OFF 0x27815c | BYTES 54 =====
+Heavy Gravity damage (area)
+
+# --- 19 ---
+===== OFF 0x278194 | BYTES 58 =====
+Heavy Blast damage (all foes)
+
+# --- 20 ---
+===== OFF 0x2781d0 | BYTES 60 =====
+Medium Blast damage (all foes)
+
+# --- 21 ---
+===== OFF 0x27820e | BYTES 60 =====
+ Light Blast damage (all foes)
+
+# --- 22 ---
+===== OFF 0x27824c | BYTES 50 =====
+Heavy Blast damage (area)
+
+# --- 23 ---
+===== OFF 0x278280 | BYTES 62 =====
+Heavy Nuclear damage (all foes)
+
+# --- 24 ---
+===== OFF 0x2782c0 | BYTES 64 =====
+Medium Nuclear damage (all foes)
+
+# --- 25 ---
+===== OFF 0x278302 | BYTES 64 =====
+ Light Nuclear damage (all foes)
+
+# --- 26 ---
+===== OFF 0x278344 | BYTES 56 =====
+Heavy Nuclear damage (1 foe)
+
+# --- 27 ---
+===== OFF 0x27837e | BYTES 60 =====
+ Heavy Earth damage (all foes)
+
+# --- 28 ---
+===== OFF 0x2783bc | BYTES 60 =====
+Medium Earth damage (all foes)
+
+# --- 29 ---
+===== OFF 0x2783fa | BYTES 60 =====
+ Light Earth damage (all foes)
+
+# --- 30 ---
+===== OFF 0x278438 | BYTES 50 =====
+Heavy Earth damage (area)
+
+# --- 31 ---
+# skill: Magarudyne
+===== OFF 0x27846c | BYTES 56 =====
+Heavy Wind damage (all foes)
+
+# --- 32 ---
+# skill: Magarula
+===== OFF 0x2784a6 | BYTES 60 =====
+ Medium Wind damage (all foes)
+
+# --- 33 ---
+# skill: Magaru, Magarula, Magarudyne
+===== OFF 0x2784e4 | BYTES 56 =====
+Light Wind damage (all foes)
+
+# --- 34 ---
+# skill: Garudyne, Magarudyne
+===== OFF 0x27851e | BYTES 50 =====
+ Heavy Wind damage (area)
+
+# --- 35 ---
+# skill: Mabufudyne
+===== OFF 0x278552 | BYTES 70 =====
+ Heavy Ice damage(*003B*)Freeze (all foes)
+
+# --- 36 ---
+# skill: Mabufula
+===== OFF 0x27859a | BYTES 72 =====
+ Medium Ice damage(*003B*)Freeze (all foes)
+
+# --- 37 ---
+# skill: Mabufu, Mabufula, Mabufudyne
+===== OFF 0x2785e4 | BYTES 68 =====
+Light Ice damage(*003B*)Freeze (all foes)
+
+# --- 38 ---
+# skill: Bufudyne, Mabufudyne
+===== OFF 0x27862a | BYTES 62 =====
+ Heavy Ice damage(*003B*)Freeze (area)
+
+# --- 39 ---
+# skill: Maragidyne
+===== OFF 0x27866a | BYTES 58 =====
+ Heavy Fire damage (all foes)
+
+# --- 40 ---
+# skill: Maragion
+===== OFF 0x2786a6 | BYTES 60 =====
+ Medium Fire damage (all foes)
+
+# --- 41 ---
+# skill: Maragi, Maragion, Maragidyne
+===== OFF 0x2786e4 | BYTES 56 =====
+Light Fire damage (all foes)
+
+# --- 42 ---
+# skill: Agidyne, Maragidyne
+===== OFF 0x27871e | BYTES 50 =====
+ Heavy Fire damage (area)
+
+# --- 43 ---
+===== OFF 0x278752 | BYTES 56 =====
+ Play 1 game of Code Breaker
+
+# --- 44 ---
+===== OFF 0x27878c | BYTES 58 =====
+Restores a little SP (1 ally)
+
+# --- 45 ---
+===== OFF 0x2787c8 | BYTES 48 =====
+Blows all foes backwards
+
+# --- 46 ---
+===== OFF 0x2787fa | BYTES 36 =====
+ Sucks in all foes
+
+# --- 47 ---
+===== OFF 0x278820 | BYTES 50 =====
+Reduce HP to 1 (all foes)
+
+# --- 48 ---
+===== OFF 0x278854 | BYTES 86 =====
+Restores a little HP each turn (all allies)
+
+# --- 49 ---
+===== OFF 0x2788ac | BYTES 50 =====
+Cures all ailments but KO
+
+# --- 50 ---
+===== OFF 0x2788e0 | BYTES 58 =====
+Cures all but severe ailments
+
+# --- 51 ---
+===== OFF 0x27891c | BYTES 72 =====
+Restores a little HP and SP (1 ally)
+
+# --- 52 ---
+===== OFF 0x278966 | BYTES 74 =====
+ Restores HP/Increase max HP (1 ally)
+
+# --- 53 ---
+===== OFF 0x2789b2 | BYTES 50 =====
+ Increase maximum SP by 5
+
+# --- 54 ---
+===== OFF 0x2789e6 | BYTES 50 =====
+ Increase maximum HP by 5
+
+# --- 55 ---
+===== OFF 0x278a1a | BYTES 38 =====
+ Increase Luck by 1
+
+# --- 56 ---
+===== OFF 0x278a42 | BYTES 44 =====
+ Increase Agility by 1
+
+# --- 57 ---
+===== OFF 0x278a70 | BYTES 46 =====
+Increase Dexterity by 1
+
+# --- 58 ---
+===== OFF 0x278aa0 | BYTES 44 =====
+Increase Vitality by 1
+
+# --- 59 ---
+===== OFF 0x278ace | BYTES 46 =====
+ Increase Strength by 1
+
+# --- 60 ---
+===== OFF 0x278afe | BYTES 64 =====
+ Temporarily nulls damage floors
+
+# --- 61 ---
+===== OFF 0x278b40 | BYTES 54 =====
+25(*0053*) chance to escape battle
+
+# --- 62 ---
+===== OFF 0x278b78 | BYTES 46 =====
+Shows a map of the area
+
+# --- 63 ---
+===== OFF 0x278ba8 | BYTES 64 =====
+Reflects 25(*0053*) phys damage, 1 turn
+
+# --- 64 ---
+# skill: Recarmdra
+===== OFF 0x278bea | BYTES 68 =====
+ Reflects 25(*0053*) magic damage, 1 turn
+
+# --- 65 ---
+===== OFF 0x278c30 | BYTES 64 =====
+Removes LV decrease (all allies)
+
+# --- 66 ---
+# skill: Patra, Pen Patra
+===== OFF 0x278c72 | BYTES 80 =====
+ Cures 1 degree of ailments (all allies)
+
+# --- 67 ---
+===== OFF 0x278cc4 | BYTES 46 =====
+Cures ailments (1 ally)
+
+# --- 68 ---
+# skill: Petradi
+===== OFF 0x278cf4 | BYTES 52 =====
+Cures Sick status (1 ally)
+
+# --- 69 ---
+# skill: Paraladi
+===== OFF 0x278d2a | BYTES 58 =====
+ Cures Poison status (1 ally)
+
+# --- 70 ---
+# skill: Posumudi
+===== OFF 0x278d66 | BYTES 62 =====
+ Cures Paralyze status (1 ally)
+
+# --- 71 ---
+# skill: Samarecarm
+===== OFF 0x278da6 | BYTES 56 =====
+ Cures Stone status (1 ally)
+
+# --- 72 ---
+# skill: Recarm, Samarecarm, Recarmdra
+===== OFF 0x278de0 | BYTES 54 =====
+Revives 1 ally with full HP
+
+# --- 73 ---
+# skill: Diarahan, Mediarahan
+===== OFF 0x278e18 | BYTES 28 =====
+Revives 1 ally
+
+# --- 74 ---
+# skill: Diarama, Mediarama
+===== OFF 0x278e36 | BYTES 52 =====
+ Restores full HP (1 ally)
+
+# --- 75 ---
+# skill: Dia, Diarama, Diarahan, Media, Mediarama, Mediarahan
+===== OFF 0x278e6c | BYTES 58 =====
+Restores moderate HP (1 ally)
+
+# --- 76 ---
+===== OFF 0x278ea8 | BYTES 58 =====
+Restores a little HP (1 ally)
+
+# --- 77 ---
+===== OFF 0x278ee4 | BYTES 14 =====
+RESERVE
+

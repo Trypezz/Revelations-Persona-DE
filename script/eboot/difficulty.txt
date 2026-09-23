@@ -1,0 +1,53 @@
+# Difficulty screen. Prompt, help text, and confirmations. Not in E0.TXT.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2d7968 | BYTES 128 =====
+(*0044*) Bevor das Spiel startet, bitte(*LINE_BREAK*)wähle die Schwierigkeit.
+
+# --- 1 ---
+===== OFF 0x2d79ea | BYTES 128 =====
+(*SHOW_OPTIONS,34*)(*FF01*)(*0044*) "Normal" ist für Spieler,(*LINE_BREAK*)die schon RPGs gespielt haben.
+
+# --- 2 ---
+===== OFF 0x2d7a6c | BYTES 140 =====
+(*CONTINUE*)(*0044*) Mit dieser Option, ist der Kampf etwas(*LINE_BREAK*)anspruchsvoller.
+
+# --- 3 ---
+===== OFF 0x2d7afa | BYTES 154 =====
+(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+
+# --- 4 ---
+===== OFF 0x2d7b96 | BYTES 342 =====
+(*SHOW_OPTIONS,0*)(*FF01*)(*PAD,106*)(*0044*) "Einfach" ist für Spieler, die(*LINE_BREAK*)unbekannt mit RPGs sind.(*LINE_BREAK*)
+
+# --- 5 ---
+===== OFF 0x2d7cee | BYTES 132 =====
+(*CONTINUE*)(*0044*) Die Schwierigkeit ist niedriger in(*LINE_BREAK*)Kämpfen als "Normal".
+
+# --- 6 ---
+===== OFF 0x2d7d74 | BYTES 128 =====
+(*CONTINUE*)(*0044*) Der Schwierigkeitsgrad hat keinen(*LINE_BREAK*)Effekt auf die Story.
+
+# --- 7 ---
+===== OFF 0x2d7df6 | BYTES 158 =====
+(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+
+# --- 8 ---
+===== OFF 0x2d7e96 | BYTES 222 =====
+(*SHOW_OPTIONS,0*)(*FF01*)(*PAD,42*)(*0044*) "Profi" ist für Spieler, die(*LINE_BREAK*)sehr bekannt mit RPGs sind.
+
+# --- 9 ---
+===== OFF 0x2d7f76 | BYTES 134 =====
+(*CONTINUE*)(*0044*) Die Schwierigkeit ist höher in(*LINE_BREAK*)Kämpfen als "Normal".
+
+# --- 10 ---
+===== OFF 0x2d7ffe | BYTES 154 =====
+(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+
+# --- 11 ---
+===== OFF 0x2d809a | BYTES 296 =====
+(*SHOW_OPTIONS,0*)(*FF01*)(*PAD,104*)(*0044*) Dann viel Spass in Revelatios: Persona.
+

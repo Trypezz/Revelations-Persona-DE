@@ -2,6 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Trypezz.Revelations-Persona-DE&"  />
 
+_**HEAVILY WIP**_
+---
+
 Unofficial German translation of Revelations: Persona for the PSP.
 
 This repo is the translation. German `.TXT` files, notes, and the scripts that copy those files into a local tool. The game itself does not belong here.
@@ -10,7 +13,9 @@ Persona is Atlus / SEGA. This project is not affiliated with them. You need your
 
 ## IMPORTANT NOTE
 
-This repo currently works only on Linux. On Windows you need to make many things manual.
+- This Repo is designed to fail on your System. I do not ship the important Python Script that patches the EBOOT.BIN so you are not able to translate anything in there.
+- This is still heavily WIP, Only the first two scenes are fully translated and functional yet.
+- To make umlauts readable in-game you need the [`HD-UI Mod`](https://gamebanana.com/mods/309876) and paste the `2FontB.png` from the PersonaFlowReader into the `PSP/TEXTURES/ULUS10432` Directory of your preferred Emulator
 
 ## First check if everything is setup correctly
 
@@ -24,16 +29,17 @@ OK means it is there. FAIL means you cannot work yet. WARN is optional stuff lik
 
 ## Requirements to work with this repo
 
-- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader) (Info: I did not need to use some EBOOT patches they talk about yet)
+- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader)
 - p7zip
-- python3 -> For scripts (getOffsets.sh, patch-iso.sh)
+- python3 -> For scripts (get-offset.sh, patch-iso.sh, eboot options)
 - java -> Needed for PersonaFlowReader to work
-- The Original Persona 1 ISO for the PSP
+- The Original Persona 1 ISO for the PSP with an decrypted EBOOT.BIN
 
 ## Layout
 
 ```
 script/          German event text, grouped the same way the game packs it
+                 script/eboot/ is EBOOT dumps (menus, difficulty, battle UI, ...)
 docs/            glossary, style, how far we are
 tools/           copy text to/from PersonaFlowReader, patch your ISO
 config.example.env
@@ -56,11 +62,14 @@ Set three paths in `config.env`:
 - `P1_TEST_ISO` — where a patched copy should be written
 - `PFR_ROOT` — the PersonaFlowReader folder that contains `extracted/`, `output/`, and `*.jar`
 
+Put a **decrypted** `EBOOT.BIN` in `$PFR_ROOT/OG/`. The ISO one is encrypted and cannot be edited. How to dump it is in `tools/README.md`.
+
 ## What is in git
 
 | In the repo       | Not in the repo                                   |
 | ----------------- | ------------------------------------------------- |
 | `script/**/*.TXT` | ISOs                                              |
+| `script/eboot/`   | decrypted `EBOOT.BIN` (keep that in `OG/`)        |
 | `docs/`           | `E0.BIN`–`E4.BIN`, `EBOOT.BIN`                    |
 | `tools/`          | `.EVS`, audio, maps, textures dumped from the UMD |
 | this README       | PersonaFlowReader itself                          |

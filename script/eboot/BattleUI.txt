@@ -1,0 +1,329 @@
+# Battle commands and in-battle messages.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x29aed2 | BYTES 28 =====
+(*FF01*)Load commands
+
+# --- 1 ---
+===== OFF 0x29aef0 | BYTES 28 =====
+(*FF01*) Set manually
+
+# --- 2 ---
+===== OFF 0x29af0e | BYTES 48 =====
+(*FF01*)Set individual commands
+
+# --- 3 ---
+===== OFF 0x29af40 | BYTES 56 =====
+(*FF01*) Reuse last turn's commands
+
+# --- 4 ---
+===== OFF 0x29af7a | BYTES 40 =====
+(*FF01*)Weapon attack - all
+
+# --- 5 ---
+===== OFF 0x29afa4 | BYTES 16 =====
+(*FF01*) Defend
+
+# --- 6 ---
+===== OFF 0x29afb6 | BYTES 32 =====
+(*FF01*)Change Personas
+
+# --- 7 ---
+===== OFF 0x29afd8 | BYTES 20 =====
+(*FF01*) Fire gun
+
+# --- 8 ---
+===== OFF 0x29afee | BYTES 24 =====
+(*FF01*)Use an item
+
+# --- 9 ---
+===== OFF 0x29b008 | BYTES 32 =====
+(*FF01*) Invoke Persona
+
+# --- 10 ---
+===== OFF 0x29b02a | BYTES 28 =====
+(*FF01*)Weapon attack
+
+# --- 11 ---
+===== OFF 0x29b048 | BYTES 34 =====
+(*FF01*) Analyze a demon
+
+# --- 12 ---
+===== OFF 0x29b06c | BYTES 36 =====
+(*FF01*) Change formation
+
+# --- 13 ---
+===== OFF 0x29b092 | BYTES 14 =====
+(*FF01*)Escape
+
+# --- 14 ---
+===== OFF 0x29b0a2 | BYTES 36 =====
+(*FF01*)Enter auto-battle
+
+# --- 15 ---
+===== OFF 0x29b0c8 | BYTES 40 =====
+(*FF01*) Begin negotiations
+
+# --- 16 ---
+===== OFF 0x29b0f2 | BYTES 26 =====
+(*FF01*)Enter battle
+
+# --- 17 ---
+===== OFF 0x29b10e | BYTES 32 =====
+(*FF01*)Obtained a mop.
+
+# --- 18 ---
+===== OFF 0x29b130 | BYTES 42 =====
+(*FF01*) Obtained a scalpel.
+
+# --- 19 ---
+===== OFF 0x29b15c | BYTES 46 =====
+(*FF01*) Ambushed from behind!
+
+# --- 20 ---
+===== OFF 0x29b18c | BYTES 40 =====
+(*FF01*) Preemptive strike!
+
+# --- 21 ---
+===== OFF 0x29b1b6 | BYTES 68 =====
+(*FF01*)(*FF07*) and friends were annihilated...
+
+# --- 22 ---
+===== OFF 0x29b1fc | BYTES 32 =====
+(*FF01*) (*FF07*) was revived.
+
+# --- 23 ---
+===== OFF 0x29b21e | BYTES 44 =====
+(*FF01*)Distribute (*FFF8*)(*LINE_BREAK*) points.
+
+# --- 24 ---
+===== OFF 0x29b24c | BYTES 30 =====
+(*FF01*) Are you sure?
+
+# --- 25 ---
+===== OFF 0x29b26c | BYTES 154 =====
+(*FF01*) You couldn't escape!(*FF05*)(*3C00*)(*FF01*) Successfully escaped.(*FF05*)(*3C00*)(*FF01*).(*FF05*)(*1000*).(*FF05*)(*1000*).(*FF05*)(*1000*).(*FF05*)(*1000*).(*FF05*)(*1000*).(*FF05*)(*1000*)(*FF01*) Failed!
+
+# --- 26 ---
+===== OFF 0x29b308 | BYTES 40 =====
+(*FF01*) Invocation failed!
+
+# --- 27 ---
+===== OFF 0x29b332 | BYTES 30 =====
+(*FF01*)Attack failed!
+
+# --- 28 ---
+===== OFF 0x29b352 | BYTES 42 =====
+(*FF01*)Resurrection failed!
+
+# --- 29 ---
+===== OFF 0x29b37e | BYTES 52 =====
+(*FF01*)Wall effect already cast.
+
+# --- 30 ---
+===== OFF 0x29b3b4 | BYTES 66 =====
+(*FF01*) Cannot be used during New Moon.
+
+# --- 31 ---
+===== OFF 0x29b3f8 | BYTES 50 =====
+(*FF01*) Cannot change Personas.
+
+# --- 32 ---
+===== OFF 0x29b42c | BYTES 44 =====
+(*FF01*) No reserve Personas.
+
+# --- 33 ---
+===== OFF 0x29b45a | BYTES 50 =====
+(*FF01*)It's sealed in Tartarus.
+
+# --- 34 ---
+===== OFF 0x29b48e | BYTES 38 =====
+(*FF01*)No active Persona.
+
+# --- 35 ---
+===== OFF 0x29b4b6 | BYTES 34 =====
+(*FF01*)No usable items.
+
+# --- 36 ---
+===== OFF 0x29b4da | BYTES 42 =====
+(*FF01*)No bullets equipped.
+
+# --- 37 ---
+===== OFF 0x29b506 | BYTES 34 =====
+(*FF01*)No gun equipped.
+
+# --- 38 ---
+===== OFF 0x29b52a | BYTES 36 =====
+(*FF01*)Revert formation?
+
+# --- 39 ---
+===== OFF 0x29b550 | BYTES 50 =====
+(*FF01*) No characters are KO'd.
+
+# --- 40 ---
+===== OFF 0x29b584 | BYTES 38 =====
+(*FF01*) Bad status: Blind
+
+# --- 41 ---
+===== OFF 0x29b5ac | BYTES 42 =====
+(*FF01*) Good status: Puppet
+
+# --- 42 ---
+===== OFF 0x29b5d8 | BYTES 36 =====
+(*FF01*) Bad status: Mute
+
+# --- 43 ---
+===== OFF 0x29b5fe | BYTES 36 =====
+(*FF01*)Bad status: Guilt
+
+# --- 44 ---
+===== OFF 0x29b624 | BYTES 40 =====
+(*FF01*) Good status: Cloak
+
+# --- 45 ---
+===== OFF 0x29b64e | BYTES 62 =====
+(*FF01*)Bad compability. Cannot invoke
+
+# --- 46 ---
+===== OFF 0x29b68e | BYTES 48 =====
+(*FF01*)Not enough SP to invoke
+
+# --- 47 ---
+===== OFF 0x29b6c0 | BYTES 60 =====
+(*FF01*) There are no enemies nearby.
+
+# --- 48 ---
+===== OFF 0x29b6fe | BYTES 22 =====
+(*FF01*)Overwrite?
+
+# --- 49 ---
+===== OFF 0x29b716 | BYTES 12 =====
+(*FF01*)Save?
+
+# --- 50 ---
+===== OFF 0x29b724 | BYTES 50 =====
+(*FF01*) A character cannot move
+
+# --- 51 ---
+===== OFF 0x29b758 | BYTES 54 =====
+(*FF01*) No one can choose actions
+
+# --- 52 ---
+===== OFF 0x29b790 | BYTES 34 =====
+(*FF01*) Counterattack!!
+
+# --- 53 ---
+===== OFF 0x29b7b4 | BYTES 50 =====
+(*FF01*) Dormant power activates
+
+# --- 54 ---
+===== OFF 0x29b7e8 | BYTES 34 =====
+(*FF01*) Nothing happens
+
+# --- 55 ---
+===== OFF 0x29b80c | BYTES 22 =====
+(*FF01*) Doughnuts
+
+# --- 56 ---
+===== OFF 0x29b824 | BYTES 36 =====
+(*FF01*) No event battles
+
+# --- 57 ---
+===== OFF 0x29b84a | BYTES 18 =====
+(*FF01*)Meatball
+
+# --- 58 ---
+===== OFF 0x29b85e | BYTES 56 =====
+(*FF01*)Absolutely no running away!
+
+# --- 59 ---
+===== OFF 0x29b898 | BYTES 48 =====
+(*FF01*) Demons can only defend
+
+# --- 60 ---
+===== OFF 0x29b8ca | BYTES 22 =====
+(*FF01*)Won't be 1
+
+# --- 61 ---
+===== OFF 0x29b8e2 | BYTES 28 =====
+(*FF01*)No Game Overs
+
+# --- 62 ---
+===== OFF 0x29b900 | BYTES 28 =====
+(*FF01*) Cement group
+
+# --- 63 ---
+===== OFF 0x29b91e | BYTES 60 =====
+(*FF01*)Don't receive status ailments
+
+# --- 64 ---
+===== OFF 0x29b95c | BYTES 64 =====
+(*FF01*) Don't use attack/defend skills
+
+# --- 65 ---
+===== OFF 0x29b99e | BYTES 36 =====
+(*FF01*)SP won't decrease
+
+# --- 66 ---
+===== OFF 0x29b9c4 | BYTES 40 =====
+(*FF01*) Enemies won't move
+
+# --- 67 ---
+===== OFF 0x29b9ee | BYTES 32 =====
+(*FF01*)Guaranteed kill
+
+# --- 68 ---
+===== OFF 0x29ba10 | BYTES 42 =====
+(*FF01*) Guaranteed survival
+
+# --- 69 ---
+===== OFF 0x29ba3c | BYTES 38 =====
+(*FF01*) Guaranteed escape
+
+# --- 70 ---
+===== OFF 0x29ba64 | BYTES 112 =====
+(*FF01*) (*FF1B*)Ayase(*LINE_BREAK*)Urgh... she's not the only one who's(*LINE_BREAK*)had it...!
+
+# --- 71 ---
+===== OFF 0x29bad6 | BYTES 156 =====
+(*FF01*)(*FF1B*)Thanatos(*LINE_BREAK*)Excuse me!? Oh, I have HAD it!(*FF05*)(*1000*)(*LINE_BREAK*)I'm SO not forgiving you for that!
+
+# --- 72 ---
+===== OFF 0x29bb74 | BYTES 108 =====
+(*FF01*) (*FF1B*)Ayase(*LINE_BREAK*)Pbbbbt! You're uglier than death(*LINE_BREAK*)warmed over!
+
+# --- 73 ---
+===== OFF 0x29bbe2 | BYTES 112 =====
+(*FF01*)(*FF1B*)Thanatos(*LINE_BREAK*)Transformation complete!(*FF05*)(*1000*)(*LINE_BREAK*)Here comes Yuriko!
+
+# --- 74 ---
+===== OFF 0x29bc54 | BYTES 138 =====
+(*CONTINUE*)(*FF1B*)Thanatos(*LINE_BREAK*)All righty, time to beat everyone up.(*FF05*)(*1000*)(*LINE_BREAK*)Hope you're ready!
+
+# --- 75 ---
+===== OFF 0x29bce0 | BYTES 110 =====
+(*FF01*) (*FF1B*)Nemesis(*LINE_BREAK*)ScreeeeeeEEEEE! (*FF05*)(*1000*)Silence! Silence!(*LINE_BREAK*)SILENCE!
+
+# --- 76 ---
+===== OFF 0x29bd50 | BYTES 104 =====
+(*CONTINUE*)(*FF1B*)Nemesis(*LINE_BREAK*)I'll slice those insolent faces right off!
+
+# --- 77 ---
+===== OFF 0x29bdba | BYTES 166 =====
+(*FF01*)(*FF1B*)Ayase(*LINE_BREAK*)Like, have you ever even SEEN a mirror!?(*FF05*)(*1000*)(*LINE_BREAK*)You don't look like that at ALL!
+
+# --- 78 ---
+===== OFF 0x29be62 | BYTES 168 =====
+(*FF01*)(*FF1B*)Yukino(*LINE_BREAK*)...(*FF05*)(*1000*)You gotta be joking! (*FF05*)(*1000*)I've had enough(*LINE_BREAK*)with the fun and games already!
+
+# --- 79 ---
+===== OFF 0x29bf0c | BYTES 90 =====
+(*CONTINUE*)(*FF1B*)Yukino(*LINE_BREAK*)I'm so disgusted I can barely speak.
+
+# --- 80 ---
+===== OFF 0x29bf68 | BYTES 102 =====
+(*FF01*) (*FF1B*)Nemesis(*LINE_BREAK*)Aaaaaaahahahaha! (*FF05*)(*1000*)THIS is my true form!
+
