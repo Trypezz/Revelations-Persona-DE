@@ -1,7 +1,6 @@
 # Room names in the corner banner, e.g. 1F Empty Classroom.
 # Edit the body under each header. Do not change ===== header lines.
 # Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
-# German umlauts become AE/OE/UE/SS.
 # BYTES is the original size in the EBOOT. Longer German is refused.
 
 # --- 0 ---
@@ -38,7 +37,7 @@ Baum
 
 # --- 8 ---
 ===== OFF 0x2b815e | BYTES 34 =====
-(*PAD,11*)Buero
+(*PAD,11*)Büro
 
 # --- 9 ---
 ===== OFF 0x2b8182 | BYTES 62 =====
@@ -46,23 +45,23 @@ Baum
 
 # --- 10 ---
 ===== OFF 0x2b81c2 | BYTES 30 =====
-(*PAD,9*)Buero
+(*PAD,9*)Büro
 
 # --- 11 ---
 ===== OFF 0x2b81e2 | BYTES 46 =====
-(*PAD,17*)Buero
+(*PAD,17*)Büro
 
 # --- 12 ---
 ===== OFF 0x2b8212 | BYTES 46 =====
-(*PAD,17*)Buero
+(*PAD,17*)Büro
 
 # --- 13 ---
 ===== OFF 0x2b8242 | BYTES 46 =====
-(*PAD,17*)Buero
+(*PAD,17*)Büro
 
 # --- 14 ---
 ===== OFF 0x2b8272 | BYTES 58 =====
-(*PAD,17*)Comm Passage
+(*PAD,17*)Comm Weg
 
 # --- 15 ---
 ===== OFF 0x2b82ae | BYTES 50 =====
@@ -74,7 +73,7 @@ Baum
 
 # --- 17 ---
 ===== OFF 0x2b830e | BYTES 62 =====
-(*PAD,11*)Underground Facility
+(*PAD,11*)Untergrund Basis
 
 # --- 18 ---
 ===== OFF 0x2b834e | BYTES 12 =====
@@ -86,7 +85,7 @@ Baum
 
 # --- 20 ---
 ===== OFF 0x2b838c | BYTES 58 =====
-(*PAD,20*)Warehouse
+(*PAD,20*)Lagerhaus
 
 # --- 21 ---
 ===== OFF 0x2b83c8 | BYTES 46 =====
@@ -94,7 +93,7 @@ Baum
 
 # --- 22 ---
 ===== OFF 0x2b83f8 | BYTES 44 =====
-(*PAD,14*)Art Room
+(*PAD,14*)Kunst
 
 # --- 23 ---
 ===== OFF 0x2b8426 | BYTES 48 =====
@@ -102,7 +101,7 @@ Baum
 
 # --- 24 ---
 ===== OFF 0x2b8458 | BYTES 68 =====
-(*PAD,14*)Student Council Room
+(*PAD,14*)Raum des Schülerrats
 
 # --- 25 ---
 ===== OFF 0x2b849e | BYTES 24 =====
@@ -110,15 +109,15 @@ Baum
 
 # --- 26 ---
 ===== OFF 0x2b84b8 | BYTES 64 =====
-(*PAD,14*)Principal's Office
+(*PAD,14*)Büro der Rektorin
 
 # --- 27 ---
 ===== OFF 0x2b84fa | BYTES 42 =====
-(*PAD,5*)1F Entrance Hall
+(*PAD,5*)1F Eingangshalle
 
 # --- 28 ---
 ===== OFF 0x2b8526 | BYTES 40 =====
-(*PAD,7*)1F Passageway
+(*PAD,7*)1F Schulgang
 
 # --- 29 ---
 ===== OFF 0x2b8550 | BYTES 46 =====
@@ -150,7 +149,7 @@ Baum
 
 # --- 36 ---
 ===== OFF 0x2b86a2 | BYTES 50 =====
-(*PAD,9*)Kaneda Residence
+(*PAD,9*)Kaneda Anwesen
 
 # --- 37 ---
 ===== OFF 0x2b86d6 | BYTES 28 =====
@@ -190,7 +189,7 @@ Baum
 
 # --- 46 ---
 ===== OFF 0x2b887e | BYTES 46 =====
-(*PAD,11*)Esumi Clinic
+(*PAD,11*)Esumi Klinik
 
 # --- 47 ---
 ===== OFF 0x2b88ae | BYTES 54 =====
@@ -222,11 +221,11 @@ Baum
 
 # --- 54 ---
 ===== OFF 0x2b89fc | BYTES 44 =====
-(*PAD,12*)1F Chamber
+(*PAD,12*)1F Kammer
 
 # --- 55 ---
 ===== OFF 0x2b8a2a | BYTES 46 =====
-(*PAD,13*)2F Chamber
+(*PAD,13*)2F Kammer
 
 # --- 56 ---
 ===== OFF 0x2b8a5a | BYTES 50 =====
@@ -270,7 +269,7 @@ Baum
 
 # --- 66 ---
 ===== OFF 0x2b8c3c | BYTES 48 =====
-(*PAD,12*)Esumi Clinic
+(*PAD,12*)Esumi Klinik
 
 # --- 67 ---
 ===== OFF 0x2b8c6e | BYTES 44 =====
@@ -282,15 +281,15 @@ Baum
 
 # --- 69 ---
 ===== OFF 0x2b8cd2 | BYTES 42 =====
-(*PAD,9*)Esumi Clinic
+(*PAD,9*)Esumi Klinik
 
 # --- 70 ---
 ===== OFF 0x2b8cfe | BYTES 46 =====
-(*PAD,11*)Esumi Clinic
+(*PAD,11*)Esumi Klinik
 
 # --- 71 ---
 ===== OFF 0x2b8d2e | BYTES 38 =====
-(*PAD,11*)Entrance
+(*PAD,11*)Eingang
 
 # --- 72 ---
 ===== OFF 0x2b8d56 | BYTES 34 =====
@@ -386,7 +385,7 @@ Baum
 
 # --- 95 ---
 ===== OFF 0x2b91ae | BYTES 40 =====
-(*PAD,11*)Courtyard
+(*PAD,11*)Hinterhof
 
 # --- 96 ---
 ===== OFF 0x2b91d8 | BYTES 52 =====
@@ -394,7 +393,7 @@ Baum
 
 # --- 97 ---
 ===== OFF 0x2b920e | BYTES 40 =====
-(*PAD,11*)Courtyard
+(*PAD,11*)Hinterhof
 
 # --- 98 ---
 ===== OFF 0x2b9238 | BYTES 46 =====
@@ -402,7 +401,7 @@ Baum
 
 # --- 99 ---
 ===== OFF 0x2b9268 | BYTES 42 =====
-(*PAD,14*)Library
+(*PAD,14*)Bücher
 
 # --- 100 ---
 ===== OFF 0x2b9294 | BYTES 50 =====
@@ -1202,7 +1201,7 @@ Baum
 
 # --- 299 ---
 ===== OFF 0x2bb7ee | BYTES 54 =====
-(*PAD,11*)1F Entrance Hall
+(*PAD,11*)1F Eingangshalle
 
 # --- 300 ---
 ===== OFF 0x2bb826 | BYTES 38 =====
@@ -1210,7 +1209,7 @@ Baum
 
 # --- 301 ---
 ===== OFF 0x2bb84e | BYTES 58 =====
-(*PAD,11*)St. Hermelin Gates
+(*PAD,11*)St. Hermelin Tore
 
 # --- 302 ---
 ===== OFF 0x2bb88a | BYTES 34 =====
@@ -1222,7 +1221,7 @@ Baum
 
 # --- 304 ---
 ===== OFF 0x2bb8d8 | BYTES 54 =====
-(*PAD,14*)1F Passageway
+(*PAD,14*)1F Schulgang
 
 # --- 305 ---
 ===== OFF 0x2bb910 | BYTES 44 =====
@@ -1278,7 +1277,7 @@ Baum
 
 # --- 318 ---
 ===== OFF 0x2bbb7e | BYTES 58 =====
-(*PAD, 11*)1F Klassenraum
+(*PAD, 10*)1F Klassenraum
 
 # --- 319 ---
 ===== OFF 0x2bbbba | BYTES 34 =====
@@ -1310,7 +1309,7 @@ Baum
 
 # --- 326 ---
 ===== OFF 0x2bbd0e | BYTES 38 =====
-   Teacher's Lounge
+Teacher's Lounge
 
 # --- 327 ---
 ===== OFF 0x2bbd36 | BYTES 50 =====
@@ -1322,7 +1321,7 @@ Baum
 
 # --- 329 ---
 ===== OFF 0x2bbd88 | BYTES 64 =====
-(*PAD,14*)St. Hermelin Gates
+(*PAD,14*)St. Hermelin Tore
 
 # --- 330 ---
 ===== OFF 0x2bbdca | BYTES 56 =====
@@ -1410,7 +1409,7 @@ Alaya Shrine
 
 # --- 351 ---
 ===== OFF 0x2bc1ae | BYTES 54 =====
-(*PAD,11*)1F Entrance Hall
+(*PAD,11*)1F Eingangshalle
 
 # --- 352 ---
 ===== OFF 0x2bc1e6 | BYTES 32 =====
@@ -1442,19 +1441,19 @@ Alaya Shrine
 
 # --- 359 ---
 ===== OFF 0x2bc32c | BYTES 50 =====
-(*PAD,12*)1F Passageway
+(*PAD,12*)1F Schulgang
 
 # --- 360 ---
 ===== OFF 0x2bc360 | BYTES 46 =====
-(*PAD,10*)1F Passageway
+(*PAD,10*)1F Schulgang
 
 # --- 361 ---
 ===== OFF 0x2bc390 | BYTES 54 =====
-(*PAD,10*)St. Hermelin Area
+(*PAD,10*)St. Hermelin Hof
 
 # --- 362 ---
 ===== OFF 0x2bc3c8 | BYTES 46 =====
-(*PAD,6*)St. Hermelin Area
+(*PAD,6*)St. Hermelin Hof
 
 # --- 363 ---
 ===== OFF 0x2bc3f8 | BYTES 36 =====
@@ -2126,7 +2125,7 @@ Alaya Shrine
 
 # --- 530 ---
 ===== OFF 0x2be33c | BYTES 56 =====
-(*PAD,12*)1F Entrance Hall
+(*PAD,12*)1F Schulgang
 
 # --- 531 ---
 ===== OFF 0x2be376 | BYTES 42 =====

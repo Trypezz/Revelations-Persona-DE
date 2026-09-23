@@ -1,6 +1,5 @@
 # Player choice menus. These are (*SHOW_OPTIONS,N*) in the event .TXT files.
 # Edit the body under each header. Do not change ===== header lines.
-# German umlauts become AE/OE/UE/SS.
 # Keep the line short. BYTES is the original size in the EBOOT (2 per letter).
 # A longer German line is refused. Shorter lines are padded.
 # Leading spaces in the English original are padding. You can leave them out.

@@ -2,6 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Trypezz.Revelations-Persona-DE&"  />
 
+_**HEAVILY WIP**_
+---
+
 Unofficial German translation of Revelations: Persona for the PSP.
 
 This repo is the translation. German `.TXT` files, notes, and the scripts that copy those files into a local tool. The game itself does not belong here.
@@ -11,6 +14,8 @@ Persona is Atlus / SEGA. This project is not affiliated with them. You need your
 ## IMPORTANT NOTE
 
 - This Repo is designed to fail on your System. I do not ship the important Python Script that patches the EBOOT.BIN so you are not able to translate anything in there.
+- This is still heavily WIP, Only the first two scenes are fully translated and functional yet.
+- To make umlauts readable in-game you need the [`HD-UI Mod`](https://gamebanana.com/mods/309876) and paste the `2FontB.png` from the PersonaFlowReader into the `PSP/TEXTURES/ULUS10432` Directory of your preferred Emulator
 
 ## First check if everything is setup correctly
 
@@ -28,7 +33,7 @@ OK means it is there. FAIL means you cannot work yet. WARN is optional stuff lik
 - p7zip
 - python3 -> For scripts (get-offset.sh, patch-iso.sh, eboot options)
 - java -> Needed for PersonaFlowReader to work
-- The Original Persona 1 ISO for the PSP
+- The Original Persona 1 ISO for the PSP with an decrypted EBOOT.BIN
 
 ## Layout
 

@@ -35,7 +35,7 @@ The needed files are <br>
 `EBOOT.BIN` inside `PSP_GAME/SYSDIR/EBOOT.BIN` <br>
 `EX.BIN` inside `PSP_GAME/USRDIR/pack/EX.BIN`
 
-The ISO `EBOOT.BIN` is encrypted (`~PSP`). PersonaFlowReader and the choice-menu scripts need a **decrypted** one (starts with `ELF`). Dump it in PPSSPP: Settings → Tools → Developer tools → Dump decrypted EBOOT.BIN. Launch the game once. Copy that file to `PersonaFlowReader/PersonaFlowReader/OG/EBOOT.BIN`. Size should stay 3836464 bytes so it still fits in the ISO. <br>
+The default ISO `EBOOT.BIN` is encrypted (`~PSP`). PersonaFlowReader and the choice-menu scripts need a **decrypted** one (starts with `ELF`). Dump it in PPSSPP: Settings → Tools → Developer tools → Dump decrypted EBOOT.BIN. Launch the game once. Copy that file to `PersonaFlowReader/PersonaFlowReader/OG/EBOOT.BIN`. Size should stay 3836464 bytes so it still fits in the ISO. <br>
 
 ## PersonaFlowReader
 
@@ -173,4 +173,5 @@ PersonaFlowReader does not own these. They sit in the decrypted EBOOT. Each dump
    ./tools/patch-iso.sh eboot
    ```
 
-A line longer than `BYTES` is refused. `Yes` is 3 letters. `Ja` fits. `Nein` may not. Use `Ae/Oe/Ue/ss`.
+A line longer than `BYTES` is refused. `Yes` is 3 letters. `Ja` fits. `No` are 2 letters `Nein` does not work, thats why we use `Ne`.
+Same goes for Locations and other UI-Elements

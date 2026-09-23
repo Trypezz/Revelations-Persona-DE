@@ -1,7 +1,6 @@
 # Skill explanation texts (damage, heal, status).
 # Edit the body under each header. Do not change ===== header lines.
 # Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
-# German umlauts become AE/OE/UE/SS.
 # BYTES is the original size in the EBOOT. Longer German is refused.
 
 # --- 0 ---
