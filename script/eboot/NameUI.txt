@@ -1,0 +1,9 @@
+# Name entry confirm: Is this all right?
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2d8282 | BYTES 36 | PAD 0000 =====
+So richtig?
+

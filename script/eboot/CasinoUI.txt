@@ -1,0 +1,1069 @@
+# Casino minigame help.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2c7360 | BYTES 166 =====
+(*CONTINUE*)Thus, the safe bet is on rolls close(*LINE_BREAK*)to 7, with rolls like 2 and 12 being(*LINE_BREAK*)riskier.
+
+# --- 1 ---
+===== OFF 0x2c7408 | BYTES 216 =====
+(*CONTINUE*)In the Extra Game, if a roll of 7(*LINE_BREAK*)comes up, you lose all your winnings.(*LINE_BREAK*)The trick is not to get too greedy.
+
+# --- 2 ---
+===== OFF 0x2c74e2 | BYTES 86 =====
+(*FF01*)Tips for playing(*FF01*) (*FF18*)(*0700*)(*0039*)R button functions(*003A*)(*FF18*) 
+
+# --- 3 ---
+===== OFF 0x2c753a | BYTES 128 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Starts the game if a bet has been placed.
+
+# --- 4 ---
+===== OFF 0x2c75bc | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 5 ---
+===== OFF 0x2c7604 | BYTES 60 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 6 ---
+===== OFF 0x2c7642 | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 7 ---
+===== OFF 0x2c769e | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)L button functions(*003A*)(*FF18*) 
+
+# --- 8 ---
+===== OFF 0x2c76d2 | BYTES 126 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Ends the game if no bet has been placed.
+
+# --- 9 ---
+===== OFF 0x2c7752 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 10 ---
+===== OFF 0x2c779a | BYTES 60 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 11 ---
+===== OFF 0x2c77d8 | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 12 ---
+===== OFF 0x2c7834 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Directional button functions(*003A*)(*FF18*) 
+
+# --- 13 ---
+===== OFF 0x2c787c | BYTES 100 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Select the rolls to bet on.
+
+# --- 14 ---
+===== OFF 0x2c78e2 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 15 ---
+===== OFF 0x2c792a | BYTES 60 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 16 ---
+===== OFF 0x2c7968 | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 17 ---
+===== OFF 0x2c79c4 | BYTES 100 =====
+(*FF01*) R/L/Directional buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*0062*) button functions(*003A*)(*FF18*) 
+
+# --- 18 ---
+===== OFF 0x2c7a2a | BYTES 108 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Bet the maximum total possible.
+
+# --- 19 ---
+===== OFF 0x2c7a98 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 20 ---
+===== OFF 0x2c7ae0 | BYTES 60 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 21 ---
+===== OFF 0x2c7b1e | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 22 ---
+===== OFF 0x2c7b7a | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0060*) button functions(*003A*)(*FF18*) 
+
+# --- 23 ---
+===== OFF 0x2c7bae | BYTES 102 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Reset bet amount to 0 coins.
+
+# --- 24 ---
+===== OFF 0x2c7c16 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 25 ---
+===== OFF 0x2c7c5e | BYTES 60 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 26 ---
+===== OFF 0x2c7c9c | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 27 ---
+===== OFF 0x2c7cf8 | BYTES 76 =====
+(*FF01*) (*0062*)/(*0060*) buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*003E*) button functions(*003A*)(*FF18*) 
+
+# --- 28 ---
+===== OFF 0x2c7d46 | BYTES 94 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Add 10 coins to the bet.
+
+# --- 29 ---
+===== OFF 0x2c7da6 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 30 ---
+===== OFF 0x2c7dee | BYTES 80 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Try the Extra Game.
+
+# --- 31 ---
+===== OFF 0x2c7e40 | BYTES 122 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Try the Extra Game again.
+
+# --- 32 ---
+===== OFF 0x2c7ebc | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*005B*) button functions(*003A*)(*FF18*) 
+
+# --- 33 ---
+===== OFF 0x2c7ef0 | BYTES 104 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Remove 10 coins from the bet.
+
+# --- 34 ---
+===== OFF 0x2c7f5a | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 35 ---
+===== OFF 0x2c7fa2 | BYTES 140 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning(*003A*)(*FF18*) (*LINE_BREAK*)Decline the Extra Game and collect(*LINE_BREAK*)your winnings.
+
+# --- 36 ---
+===== OFF 0x2c8030 | BYTES 162 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning the Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)End the Extra Game and collect your(*LINE_BREAK*)winnings.
+
+# --- 37 ---
+===== OFF 0x2c80d4 | BYTES 226 =====
+(*FF01*) (*003E*)/(*005B*) buttons(*FF01*)In the Extra Game, you do not predict(*LINE_BREAK*)the outcome of the roll. Instead, any(*LINE_BREAK*)roll other than 7 wins.
+
+# --- 38 ---
+===== OFF 0x2c81b8 | BYTES 226 =====
+(*CONTINUE*)The amount you win differs depending on(*LINE_BREAK*)the roll. But if it's 7, the Extra Game(*LINE_BREAK*)ends and your winnings are lost.
+
+# --- 39 ---
+===== OFF 0x2c829c | BYTES 194 =====
+(*FF01*) About the Extra Game(*FF01*) In this game, two dice are rolled on(*LINE_BREAK*)screen, and you predict the outcome.
+
+# --- 40 ---
+===== OFF 0x2c8360 | BYTES 104 =====
+(*CONTINUE*)You bet coins on the possible outcomes(*LINE_BREAK*)of the roll.
+
+# --- 41 ---
+===== OFF 0x2c83ca | BYTES 220 =====
+(*CONTINUE*)You can bet up to 100 coins on eleven(*LINE_BREAK*)rolls, from 2 to 12. You may bet on as(*LINE_BREAK*)many rolls per game as you wish.
+
+# --- 42 ---
+===== OFF 0x2c84a8 | BYTES 142 =====
+(*CONTINUE*)If you bet on the correct roll, a(*LINE_BREAK*)multiplier determines your winnings.
+
+# --- 43 ---
+===== OFF 0x2c8538 | BYTES 102 =====
+(*CONTINUE*)You can also stake your winnings on(*LINE_BREAK*)an Extra Game.
+
+# --- 44 ---
+===== OFF 0x2c85a0 | BYTES 194 =====
+(*FF01*) About the dice game(*FF01*)(*705F*)(*0600*)(*EC5A*)(*0600*)(*CC5A*)(*0600*)(*5C56*)(*0600*)(*2C56*)(*0600*)(*7853*)(*0600*)(*5453*)(*0600*)(*7450*)(*0600*)(*PAD,4*)H indicates how many exact matches(*LINE_BREAK*)are in a row/column.
+
+# --- 45 ---
+===== OFF 0x2c8664 | BYTES 174 =====
+(*CONTINUE*)B shows how many numbers belong in(*LINE_BREAK*)that row/column, but not in their(*LINE_BREAK*)present position.
+
+# --- 46 ---
+===== OFF 0x2c8714 | BYTES 174 =====
+(*CONTINUE*)The key to the game is to determine(*LINE_BREAK*)where a hit (H) is on both the row(*LINE_BREAK*)and the column.
+
+# --- 47 ---
+===== OFF 0x2c87c4 | BYTES 138 =====
+(*CONTINUE*)It's best to mark places where both(*LINE_BREAK*)the row and the column are hits.
+
+# --- 48 ---
+===== OFF 0x2c8850 | BYTES 126 =====
+(*CONTINUE*)The Results of your previous guesses(*LINE_BREAK*)can also be useful hints.
+
+# --- 49 ---
+===== OFF 0x2c88d0 | BYTES 88 =====
+(*FF01*) Tips for playing(*FF01*) (*FF18*)(*0700*)(*0039*)R button functions(*003A*)(*FF18*) 
+
+# --- 50 ---
+===== OFF 0x2c892a | BYTES 124 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Inserts 1 Metal Card to start the game.
+
+# --- 51 ---
+===== OFF 0x2c89a8 | BYTES 114 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Check to see if your guess is correct.
+
+# --- 52 ---
+===== OFF 0x2c8a1c | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)L button functions(*003A*)(*FF18*) 
+
+# --- 53 ---
+===== OFF 0x2c8a50 | BYTES 74 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Quit the game.
+
+# --- 54 ---
+===== OFF 0x2c8a9c | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 55 ---
+===== OFF 0x2c8ad6 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Directional button functions(*003A*)(*FF18*) 
+
+# --- 56 ---
+===== OFF 0x2c8b1e | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 57 ---
+===== OFF 0x2c8b60 | BYTES 72 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Moves the cursor.
+
+# --- 58 ---
+===== OFF 0x2c8baa | BYTES 98 =====
+(*FF01*)R/L/Directional buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*003E*) button functions(*003A*)(*FF18*) 
+
+# --- 59 ---
+===== OFF 0x2c8c0e | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 60 ---
+===== OFF 0x2c8c50 | BYTES 98 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Decreases the selected number.
+
+# --- 61 ---
+===== OFF 0x2c8cb4 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*005B*) button functions(*003A*)(*FF18*) 
+
+# --- 62 ---
+===== OFF 0x2c8ce8 | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 63 ---
+===== OFF 0x2c8d2a | BYTES 134 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Marks the selected number by changing(*LINE_BREAK*)its color.
+
+# --- 64 ---
+===== OFF 0x2c8db2 | BYTES 94 =====
+(*CONTINUE*)Use this to mark numbers you know are(*LINE_BREAK*)correct.
+
+# --- 65 ---
+===== OFF 0x2c8e12 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0062*) button functions(*003A*)(*FF18*) 
+
+# --- 66 ---
+===== OFF 0x2c8e46 | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 67 ---
+===== OFF 0x2c8e88 | BYTES 98 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Increases the selected number.
+
+# --- 68 ---
+===== OFF 0x2c8eec | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0060*) button functions(*003A*)(*FF18*) 
+
+# --- 69 ---
+===== OFF 0x2c8f20 | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 70 ---
+===== OFF 0x2c8f62 | BYTES 134 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Marks the selected number by changing(*LINE_BREAK*)its color.
+
+# --- 71 ---
+===== OFF 0x2c8fea | BYTES 94 =====
+(*CONTINUE*)Use this to mark numbers you know are(*LINE_BREAK*)correct.
+
+# --- 72 ---
+===== OFF 0x2c904a | BYTES 242 =====
+(*FF01*)(*003E*)/(*005B*)/(*0062*)/(*0060*) buttons(*FF01*)Your goal in this game is to arrange(*LINE_BREAK*)the numbers 1 through 9 on a 3x3 grid(*LINE_BREAK*)to guess the correct pattern.
+
+# --- 73 ---
+===== OFF 0x2c913e | BYTES 218 =====
+(*CONTINUE*)If you cannot crack it in the given(*LINE_BREAK*)amount of tries, the game ends. Use(*LINE_BREAK*)fewer tries to earn the best prizes.
+
+# --- 74 ---
+===== OFF 0x2c921a | BYTES 134 =====
+(*CONTINUE*)The Result to the left of the screen(*LINE_BREAK*)shows your previous attempts.
+
+# --- 75 ---
+===== OFF 0x2c92a2 | BYTES 112 =====
+(*CONTINUE*)Use it as a reference when formulating(*LINE_BREAK*)your next guess.
+
+# --- 76 ---
+===== OFF 0x2c9314 | BYTES 216 =====
+(*CONTINUE*)The Chosen display at the top shows(*LINE_BREAK*)the numbers in use. All numbers, 1(*LINE_BREAK*)through 9, must be used in the code.
+
+# --- 77 ---
+===== OFF 0x2c93ee | BYTES 146 =====
+(*CONTINUE*)Use the Chosen display to see which(*LINE_BREAK*)numbers are missing from your guess.
+
+# --- 78 ---
+===== OFF 0x2c9482 | BYTES 104 =====
+(*CONTINUE*)This game accepts (*FF18*)(*0700*)Metal Cards(*FF18*)  instead(*LINE_BREAK*)of coins.
+
+# --- 79 ---
+===== OFF 0x2c94ec | BYTES 214 =====
+(*FF01*) About Code Breaker(*FF01*) (*9C72*)(*0600*)(*1070*)(*0600*)(*F86F*)(*0600*)(*686C*)(*0600*)(*446C*)(*0600*)(*6C6A*)(*0600*)(*4C6A*)(*0600*)(*3C66*)(*0600*)(*0C66*)(*0600*)(*5463*)(*0600*)(*3063*)(*0600*)(*D05F*)(*0600*)(*PAD,4*)Different slot machines have different(*LINE_BREAK*)patterns and odds.
+
+# --- 80 ---
+===== OFF 0x2c95c4 | BYTES 148 =====
+(*CONTINUE*)It's best to try out different machines(*LINE_BREAK*)rather than concentrating on one.
+
+# --- 81 ---
+===== OFF 0x2c965a | BYTES 136 =====
+(*CONTINUE*)Be careful not to forget to rotate the(*LINE_BREAK*)small reels during the game.
+
+# --- 82 ---
+===== OFF 0x2c96e4 | BYTES 144 =====
+(*CONTINUE*)Careful adjustment of the small reels(*LINE_BREAK*)is key to maximizing your payout.
+
+# --- 83 ---
+===== OFF 0x2c9776 | BYTES 178 =====
+(*CONTINUE*)If you begin the game with fewer bets,(*LINE_BREAK*)you may face greater losses when it(*LINE_BREAK*)matters most.
+
+# --- 84 ---
+===== OFF 0x2c982a | BYTES 130 =====
+(*CONTINUE*)For best results, always play the game(*LINE_BREAK*)with the full eight bets.
+
+# --- 85 ---
+===== OFF 0x2c98ae | BYTES 86 =====
+(*FF01*)Tips for playing(*FF01*) (*FF18*)(*0700*)(*0039*)R button functions(*003A*)(*FF18*) 
+
+# --- 86 ---
+===== OFF 0x2c9906 | BYTES 128 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Starts the game if a bet has been placed.
+
+# --- 87 ---
+===== OFF 0x2c9988 | BYTES 76 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Stop the big reels.
+
+# --- 88 ---
+===== OFF 0x2c99d6 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)L button functions(*003A*)(*FF18*) 
+
+# --- 89 ---
+===== OFF 0x2c9a0a | BYTES 126 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Ends the game if no bet has been placed.
+
+# --- 90 ---
+===== OFF 0x2c9a8a | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 91 ---
+===== OFF 0x2c9ac4 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Directional button functions(*003A*)(*FF18*) 
+
+# --- 92 ---
+===== OFF 0x2c9b0c | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 93 ---
+===== OFF 0x2c9b4e | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 94 ---
+===== OFF 0x2c9b88 | BYTES 100 =====
+(*FF01*) R/L/Directional buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*003E*) button functions(*003A*)(*FF18*) 
+
+# --- 95 ---
+===== OFF 0x2c9bee | BYTES 68 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Add a coin.
+
+# --- 96 ---
+===== OFF 0x2c9c34 | BYTES 122 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Rotate the four small reels to the(*LINE_BREAK*)bottom.
+
+# --- 97 ---
+===== OFF 0x2c9cb0 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*005B*) button functions(*003A*)(*FF18*) 
+
+# --- 98 ---
+===== OFF 0x2c9ce4 | BYTES 74 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Remove a coin.
+
+# --- 99 ---
+===== OFF 0x2c9d30 | BYTES 120 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Rotate the four small reels to the(*LINE_BREAK*)right.
+
+# --- 100 ---
+===== OFF 0x2c9daa | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0062*) button functions(*003A*)(*FF18*) 
+
+# --- 101 ---
+===== OFF 0x2c9dde | BYTES 108 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Bet the maximum total possible.
+
+# --- 102 ---
+===== OFF 0x2c9e4c | BYTES 116 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Rotate the four small reels to the top.
+
+# --- 103 ---
+===== OFF 0x2c9ec2 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0060*) button functions(*003A*)(*FF18*) 
+
+# --- 104 ---
+===== OFF 0x2c9ef6 | BYTES 88 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Reset bet to 0 coins.
+
+# --- 105 ---
+===== OFF 0x2c9f50 | BYTES 118 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Rotate the four small reels to the left.
+
+# --- 106 ---
+===== OFF 0x2c9fc8 | BYTES 214 =====
+(*FF01*) (*005B*)/(*003E*)/(*0062*)/(*0060*) buttons(*FF01*)Up to five symbols can cross bets 1(*LINE_BREAK*)through 4, and up to four can cross(*LINE_BREAK*)bets 5 through 8.
+
+# --- 107 ---
+===== OFF 0x2ca0a0 | BYTES 192 =====
+(*CONTINUE*)When the symbols on the big reels match(*LINE_BREAK*)diagonally, in all four corners, or all(*LINE_BREAK*)five at once...
+
+# --- 108 ---
+===== OFF 0x2ca162 | BYTES 92 =====
+(*CONTINUE*)You win regardless of which lines you(*LINE_BREAK*)bet on.
+
+# --- 109 ---
+===== OFF 0x2ca1c0 | BYTES 178 =====
+(*FF01*) Matching symbols(*FF01*) When the game begins, the big and small(*LINE_BREAK*)reels will all start to spin.
+
+# --- 110 ---
+===== OFF 0x2ca274 | BYTES 198 =====
+(*CONTINUE*)Once the reels have spun enough,(*LINE_BREAK*)the small reels will stop. (The big(*LINE_BREAK*)reels will continue to spin.)
+
+# --- 111 ---
+===== OFF 0x2ca33c | BYTES 136 =====
+(*CONTINUE*)Press the (*005B*), (*003E*), (*0062*), and (*0060*) buttons to(*LINE_BREAK*)rotate the corresponding reels.
+
+# --- 112 ---
+===== OFF 0x2ca3c6 | BYTES 142 =====
+(*CONTINUE*)Adjust the small reels so that it will(*LINE_BREAK*)be easier to line up a pattern.
+
+# --- 113 ---
+===== OFF 0x2ca456 | BYTES 132 =====
+(*CONTINUE*)When you have finished, press the(*LINE_BREAK*)R button to stop the big reels.
+
+# --- 114 ---
+===== OFF 0x2ca4dc | BYTES 150 =====
+(*CONTINUE*)If three or more of a symbol are lined(*LINE_BREAK*)up along one of your bets, you win.
+
+# --- 115 ---
+===== OFF 0x2ca574 | BYTES 150 =====
+(*FF01*) How to play(*FF01*)This slot machine consists of 5(*LINE_BREAK*)big reels and 16 small reels.
+
+# --- 116 ---
+===== OFF 0x2ca60c | BYTES 146 =====
+(*CONTINUE*)The number of ways to line up a win(*LINE_BREAK*)increases with the size of your bet.
+
+# --- 117 ---
+===== OFF 0x2ca6a0 | BYTES 54 =====
+(*CONTINUE*)You can bet up to 8 coins.
+
+# --- 118 ---
+===== OFF 0x2ca6d8 | BYTES 196 =====
+(*CONTINUE*)Bets 1, 2, 5, and 6 are for the(*LINE_BREAK*)horizontal lines,while 3, 4, 7,(*LINE_BREAK*)and 8 are for the vertical lines.
+
+# --- 119 ---
+===== OFF 0x2ca79e | BYTES 122 =====
+(*CONTINUE*)Bets 5 through 8 also add two ways(*LINE_BREAK*)to line up a win per bet.
+
+# --- 120 ---
+===== OFF 0x2ca81a | BYTES 332 =====
+(*FF01*)About the slot machine(*FF01*) (*3892*)(*0600*)(*3490*)(*0600*)(*1C90*)(*0600*)(*088B*)(*0600*)(*EC8A*)(*0600*)(*A888*)(*0600*)(*9C88*)(*0600*)(*8C85*)(*0600*)(*6C85*)(*0600*)(*9C83*)(*0600*)(*8883*)(*0600*)(*487F*)(*0600*)(*287F*)(*0600*)(*647B*)(*0600*)(*347B*)(*0600*)(*9078*)(*0600*)(*6878*)(*0600*)(*1C73*)(*0600*)(*PAD,4*)(*FF18*)(*0700*)-Winning the game(*FF18*) (*LINE_BREAK*)If your hand surpasses the dealer's and(*LINE_BREAK*)is not over 21, or if the dealer busts.
+
+# --- 121 ---
+===== OFF 0x2ca968 | BYTES 178 =====
+(*CONTINUE*)(*FF18*)(*0700*)-Blackjack(*FF18*) (*LINE_BREAK*)An A combined with a second card of(*LINE_BREAK*)10 through K. (Automatically Stands.)
+
+# --- 122 ---
+===== OFF 0x2caa1c | BYTES 144 =====
+(*CONTINUE*)If you chose to Split, this will not(*LINE_BREAK*)be counted as blackjack but is 21.
+
+# --- 123 ---
+===== OFF 0x2caaae | BYTES 168 =====
+(*CONTINUE*)(*FF18*)(*0700*)-6 Cards(*FF18*) (*LINE_BREAK*)If you choose Stand when you've drawn(*LINE_BREAK*)six cards without surpassing 21.
+
+# --- 124 ---
+===== OFF 0x2cab58 | BYTES 176 =====
+(*CONTINUE*)(*FF18*)(*0700*)-7 Cards(*FF18*) (*LINE_BREAK*)If you've drawn seven cards without(*LINE_BREAK*)surpassing 21. (Automatically Stands.)
+
+# --- 125 ---
+===== OFF 0x2cac0a | BYTES 170 =====
+(*CONTINUE*)(*FF18*)(*0700*)-(*0204*)/(*0207*)/(*0205*) A (*0055*) J(*FF18*) (*LINE_BREAK*)If you have blackjack of A and J(*LINE_BREAK*)and the cards' suit is (*0204*), (*0207*), or (*0205*).
+
+# --- 126 ---
+===== OFF 0x2cacb6 | BYTES 144 =====
+(*CONTINUE*)(*FF18*)(*0700*)-(*0206*) A (*0055*) J(*FF18*) (*LINE_BREAK*)If you have blackjack of A and J(*LINE_BREAK*)and the cards' suit is (*0206*).
+
+# --- 127 ---
+===== OFF 0x2cad48 | BYTES 156 =====
+(*CONTINUE*)(*FF18*)(*0700*)-777(*FF18*) (*LINE_BREAK*)When both initial cards are 7s and you(*LINE_BREAK*)draw a third 7 after Hitting.
+
+# --- 128 ---
+===== OFF 0x2cade6 | BYTES 90 =====
+(*FF01*)Miscellaneous rules(*FF01*)(*FF18*)(*0700*)(*0039*)R button functions(*003A*)(*FF18*) 
+
+# --- 129 ---
+===== OFF 0x2cae42 | BYTES 128 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Starts the game if a bet has been placed.
+
+# --- 130 ---
+===== OFF 0x2caec4 | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 131 ---
+===== OFF 0x2caefe | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)L button functions(*003A*)(*FF18*) 
+
+# --- 132 ---
+===== OFF 0x2caf32 | BYTES 126 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Ends the game if no bet has been placed.
+
+# --- 133 ---
+===== OFF 0x2cafb2 | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 134 ---
+===== OFF 0x2cafec | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Directional button functions(*003A*)(*FF18*) 
+
+# --- 135 ---
+===== OFF 0x2cb034 | BYTES 64 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 136 ---
+===== OFF 0x2cb076 | BYTES 56 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 137 ---
+===== OFF 0x2cb0b0 | BYTES 100 =====
+(*FF01*) R/L/Directional buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*003E*) button functions(*003A*)(*FF18*) 
+
+# --- 138 ---
+===== OFF 0x2cb116 | BYTES 90 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Add a coin to the bet.
+
+# --- 139 ---
+===== OFF 0x2cb172 | BYTES 86 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Call Hit to draw a card.
+
+# --- 140 ---
+===== OFF 0x2cb1ca | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*005B*) button functions(*003A*)(*FF18*) 
+
+# --- 141 ---
+===== OFF 0x2cb1fe | BYTES 100 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Remove a coin from the bet.
+
+# --- 142 ---
+===== OFF 0x2cb264 | BYTES 94 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Call Stand to end your turn.
+
+# --- 143 ---
+===== OFF 0x2cb2c4 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0062*) button functions(*003A*)(*FF18*) 
+
+# --- 144 ---
+===== OFF 0x2cb2f8 | BYTES 108 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Bet the maximum total possible.
+
+# --- 145 ---
+===== OFF 0x2cb366 | BYTES 72 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Call Double Down.
+
+# --- 146 ---
+===== OFF 0x2cb3b0 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0060*) button functions(*003A*)(*FF18*) 
+
+# --- 147 ---
+===== OFF 0x2cb3e4 | BYTES 102 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before starting(*003A*)(*FF18*) (*LINE_BREAK*)Reset bet amount to 0 coins.
+
+# --- 148 ---
+===== OFF 0x2cb44c | BYTES 88 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During play(*003A*)(*FF18*) (*LINE_BREAK*)Call Split when possible.
+
+# --- 149 ---
+===== OFF 0x2cb4a6 | BYTES 230 =====
+(*FF01*)(*005B*)/(*003E*)/(*0062*)/(*0060*) buttons(*FF01*)An insurance bet is much as it sounds.(*LINE_BREAK*)It can only be placed if the dealer's(*LINE_BREAK*)first card is an ace.
+
+# --- 150 ---
+===== OFF 0x2cb58e | BYTES 114 =====
+(*CONTINUE*)Select Yes to place an insurance bet,(*LINE_BREAK*)and No to decline.
+
+# --- 151 ---
+===== OFF 0x2cb602 | BYTES 96 =====
+(*CONTINUE*)If you select No, the game progresses(*LINE_BREAK*)normally.
+
+# --- 152 ---
+===== OFF 0x2cb664 | BYTES 132 =====
+(*CONTINUE*)If you select Yes, you must first(*LINE_BREAK*)pay half your bet as insurance.
+
+# --- 153 ---
+===== OFF 0x2cb6ea | BYTES 188 =====
+(*CONTINUE*)If the dealer's second card is 10(*LINE_BREAK*)through K, forming blackjack, the(*LINE_BREAK*)initial bet is forfeited.
+
+# --- 154 ---
+===== OFF 0x2cb7a8 | BYTES 148 =====
+(*CONTINUE*)However, the insurance bet will pay out(*LINE_BREAK*)at 3 to 1, and the game will end.
+
+# --- 155 ---
+===== OFF 0x2cb83e | BYTES 196 =====
+(*CONTINUE*)If the dealer's card is A through 9,(*LINE_BREAK*)the insurance is forfeited and the game(*LINE_BREAK*)progresses normally.
+
+# --- 156 ---
+===== OFF 0x2cb904 | BYTES 148 =====
+(*FF01*) Insurance(*FF01*)The following circumstances will result(*LINE_BREAK*)in an automatic Stand:
+
+# --- 157 ---
+===== OFF 0x2cb99a | BYTES 168 =====
+(*CONTINUE*)-Your initial draw is blackjack.(*LINE_BREAK*)-The total of the cards drawn after(*LINE_BREAK*)Hitting is 21.
+
+# --- 158 ---
+===== OFF 0x2cba44 | BYTES 164 =====
+(*CONTINUE*)-You draw seven cards.(*LINE_BREAK*)-The cards' total value surpasses 21,(*LINE_BREAK*)resulting in a bust.
+
+# --- 159 ---
+===== OFF 0x2cbaea | BYTES 160 =====
+(*FF01*)Automatic Stand(*FF01*)You may Split if both of your initial(*LINE_BREAK*)cards are the same value.
+
+# --- 160 ---
+===== OFF 0x2cbb8c | BYTES 136 =====
+(*CONTINUE*)Your hand will be split, with a second(*LINE_BREAK*)bet covering the other hand.
+
+# --- 161 ---
+===== OFF 0x2cbc16 | BYTES 158 =====
+(*CONTINUE*)This option will be unavailable if you(*LINE_BREAK*)have fewer coins than the bet would be.
+
+# --- 162 ---
+===== OFF 0x2cbcb6 | BYTES 130 =====
+(*CONTINUE*)Even after a Split, you may Double Down(*LINE_BREAK*)on either or both hands.
+
+# --- 163 ---
+===== OFF 0x2cbd3a | BYTES 222 =====
+(*CONTINUE*)However, if you Split, a hand of A with(*LINE_BREAK*)10 through K will be counted as 21(*LINE_BREAK*)without being considered blackjack.
+
+# --- 164 ---
+===== OFF 0x2cbe1a | BYTES 148 =====
+(*FF01*)Split(*FF01*)This is only an option while you still(*LINE_BREAK*)have two cards in your hand.
+
+# --- 165 ---
+===== OFF 0x2cbeb0 | BYTES 136 =====
+(*CONTINUE*)You may double your bet under the(*LINE_BREAK*)condition that you only Hit once.
+
+# --- 166 ---
+===== OFF 0x2cbf3a | BYTES 158 =====
+(*CONTINUE*)This option will be unavailable if you(*LINE_BREAK*)have fewer coins than the bet would be.
+
+# --- 167 ---
+===== OFF 0x2cbfda | BYTES 142 =====
+(*CONTINUE*)If you Double Down and beat the dealer,(*LINE_BREAK*)your winnings will be doubled.
+
+# --- 168 ---
+===== OFF 0x2cc06a | BYTES 192 =====
+(*FF01*)Doubling Down(*FF01*)First, compare your cards to the dealer's(*LINE_BREAK*)to decide whether to draw another card.
+
+# --- 169 ---
+===== OFF 0x2cc12c | BYTES 114 =====
+(*CONTINUE*)If you decide to draw, select Hit.(*LINE_BREAK*)If not, select Stand.
+
+# --- 170 ---
+===== OFF 0x2cc1a0 | BYTES 154 =====
+(*CONTINUE*)You may draw up to 7 cards as long as(*LINE_BREAK*)their total value remains 21 or lower.
+
+# --- 171 ---
+===== OFF 0x2cc23c | BYTES 172 =====
+(*CONTINUE*)2 through 10 are face value. J through(*LINE_BREAK*)K are worth 10, and A is worth either(*LINE_BREAK*)1 or 11.
+
+# --- 172 ---
+===== OFF 0x2cc2ea | BYTES 106 =====
+(*CONTINUE*)After the player Stands, the dealer(*LINE_BREAK*)will draw cards.
+
+# --- 173 ---
+===== OFF 0x2cc356 | BYTES 196 =====
+(*CONTINUE*)If your total is larger than the(*LINE_BREAK*)dealer's without surpassing 21, or if(*LINE_BREAK*)the-dealer busts, you win.
+
+# --- 174 ---
+===== OFF 0x2cc41c | BYTES 226 =====
+(*CONTINUE*)If you and the dealer tie, or if both(*LINE_BREAK*)of you have blackjack, it is a draw,(*LINE_BREAK*)and your bet will be returned to you.
+
+# --- 175 ---
+===== OFF 0x2cc500 | BYTES 150 =====
+(*CONTINUE*)Besides Hit and Stand, the player can(*LINE_BREAK*)also choose to Double Down or Split.
+
+# --- 176 ---
+===== OFF 0x2cc598 | BYTES 158 =====
+(*FF01*) How to play(*FF01*)This is a one-on-one-game of blackjack(*LINE_BREAK*)against a computer dealer.
+
+# --- 177 ---
+===== OFF 0x2cc638 | BYTES 128 =====
+(*CONTINUE*)Two cards are dealt to the player and(*LINE_BREAK*)the dealer at the outset.
+
+# --- 178 ---
+===== OFF 0x2cc6ba | BYTES 108 =====
+(*CONTINUE*)One of the dealer's two cards will be(*LINE_BREAK*)kept face-down.
+
+# --- 179 ---
+===== OFF 0x2cc728 | BYTES 140 =====
+(*CONTINUE*)If the dealer's shown card is an ace,(*LINE_BREAK*)you may place an insurance bet.
+
+# --- 180 ---
+===== OFF 0x2cc7b6 | BYTES 234 =====
+(*FF01*)About blackjack(*FF01*)(*F0B2*)(*0600*)(*A4AF*)(*0600*)(*78AF*)(*0600*)(*F8AC*)(*0600*)(*E0AC*)(*0600*)(*14AB*)(*0600*)(*FCAA*)(*0600*)(*90A9*)(*0600*)(*78A9*)(*0600*)(*28A8*)(*0600*)(*10A8*)(*0600*)(*18A3*)(*0600*)(*00A3*)(*0600*)(*B49E*)(*0600*)(*849E*)(*0600*)(*7498*)(*0600*)(*5898*)(*0600*)(*3094*)(*0600*)(*1494*)(*0600*)(*B092*)(*0600*)(*PAD,4*)-In this version of poker, a pair is(*LINE_BREAK*)not a winning hand.
+
+# --- 181 ---
+===== OFF 0x2cc8a2 | BYTES 92 =====
+(*CONTINUE*)-In a straight, an ace is not lower(*LINE_BREAK*)than a 2.
+
+# --- 182 ---
+===== OFF 0x2cc900 | BYTES 144 =====
+(*CONTINUE*)-The Joker is a wild card that can be(*LINE_BREAK*)used as part of any winning hand.
+
+# --- 183 ---
+===== OFF 0x2cc992 | BYTES 142 =====
+(*FF01*)Special cases(*FF01*)(*0044*) (*FF18*)(*0700*)Two pair(*FF18*) (*LINE_BREAK*)Two sets of two cards of the same(*LINE_BREAK*)number.
+
+# --- 184 ---
+===== OFF 0x2cca22 | BYTES 126 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Three of a kind(*FF18*) (*LINE_BREAK*)A set of three cards of the same(*LINE_BREAK*)number.
+
+# --- 185 ---
+===== OFF 0x2ccaa2 | BYTES 108 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Straight(*FF18*) (*LINE_BREAK*)Five numbers in sequence, of any suit.
+
+# --- 186 ---
+===== OFF 0x2ccb10 | BYTES 82 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Flush(*FF18*) (*LINE_BREAK*)Five cards of the same suit.
+
+# --- 187 ---
+===== OFF 0x2ccb64 | BYTES 110 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Full house(*FF18*) (*LINE_BREAK*)Three of a kind together with a pair.
+
+# --- 188 ---
+===== OFF 0x2ccbd4 | BYTES 122 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Four of a kind(*FF18*) (*LINE_BREAK*)A set of four cards of the same(*LINE_BREAK*)number.
+
+# --- 189 ---
+===== OFF 0x2ccc50 | BYTES 140 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Straight flush(*FF18*) (*LINE_BREAK*)A Straight with all five cards in(*LINE_BREAK*)the same suit.
+
+# --- 190 ---
+===== OFF 0x2cccde | BYTES 138 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Five of a kind(*FF18*) (*LINE_BREAK*)Four of a kind with a Joker for the(*LINE_BREAK*)fifth card.
+
+# --- 191 ---
+===== OFF 0x2ccd6a | BYTES 104 =====
+(*CONTINUE*)(*0044*) (*FF18*)(*0700*)Royal flush(*FF18*) (*LINE_BREAK*)A straight flush with 10-J-Q-K-A.
+
+# --- 192 ---
+===== OFF 0x2ccdd4 | BYTES 80 =====
+(*FF01*) Winning hands(*FF01*)(*FF18*)(*0700*)(*0039*)R button functions(*003A*)(*FF18*) 
+
+# --- 193 ---
+===== OFF 0x2cce26 | BYTES 134 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Starts the game if a bet has been placed.
+
+# --- 194 ---
+===== OFF 0x2cceae | BYTES 128 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Re-draw cards that are not being held.
+
+# --- 195 ---
+===== OFF 0x2ccf30 | BYTES 106 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Erase the selection window.
+
+# --- 196 ---
+===== OFF 0x2ccf9c | BYTES 68 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 197 ---
+===== OFF 0x2ccfe2 | BYTES 82 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 198 ---
+===== OFF 0x2cd036 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)L button functions(*003A*)(*FF18*) 
+
+# --- 199 ---
+===== OFF 0x2cd06a | BYTES 88 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Leave the machine.
+
+# --- 200 ---
+===== OFF 0x2cd0c4 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 201 ---
+===== OFF 0x2cd10c | BYTES 106 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Erase the selection window.
+
+# --- 202 ---
+===== OFF 0x2cd178 | BYTES 68 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 203 ---
+===== OFF 0x2cd1be | BYTES 82 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 204 ---
+===== OFF 0x2cd212 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Directional button functions(*003A*)(*FF18*) 
+
+# --- 205 ---
+===== OFF 0x2cd25a | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 206 ---
+===== OFF 0x2cd2a2 | BYTES 78 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Select cards.
+
+# --- 207 ---
+===== OFF 0x2cd2f2 | BYTES 106 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Erase the selection window.
+
+# --- 208 ---
+===== OFF 0x2cd35e | BYTES 78 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Select a card.
+
+# --- 209 ---
+===== OFF 0x2cd3ae | BYTES 82 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 210 ---
+===== OFF 0x2cd402 | BYTES 98 =====
+(*FF01*)R/L/directional buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*0062*) button functions(*003A*)(*FF18*) 
+
+# --- 211 ---
+===== OFF 0x2cd466 | BYTES 114 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Bet the maximum total possible.
+
+# --- 212 ---
+===== OFF 0x2cd4da | BYTES 98 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Un-hold all held cards.
+
+# --- 213 ---
+===== OFF 0x2cd53e | BYTES 114 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Try the Extra Game Big (*0055*) Small.
+
+# --- 214 ---
+===== OFF 0x2cd5b2 | BYTES 104 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Select a card to turn over.
+
+# --- 215 ---
+===== OFF 0x2cd61c | BYTES 82 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 216 ---
+===== OFF 0x2cd670 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*0060*) button functions(*003A*)(*FF18*) 
+
+# --- 217 ---
+===== OFF 0x2cd6a4 | BYTES 70 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 218 ---
+===== OFF 0x2cd6ec | BYTES 92 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Un-hold a held card.
+
+# --- 219 ---
+===== OFF 0x2cd74a | BYTES 114 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Try the Extra Game Red (*0055*) Black.
+
+# --- 220 ---
+===== OFF 0x2cd7be | BYTES 104 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Select a card to turn over.
+
+# --- 221 ---
+===== OFF 0x2cd828 | BYTES 82 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Not used.
+
+# --- 222 ---
+===== OFF 0x2cd87c | BYTES 76 =====
+(*FF01*) (*0062*)/(*0060*) buttons(*FF01*)(*FF18*)(*0700*)(*0039*)(*003E*) button functions(*003A*)(*FF18*) 
+
+# --- 223 ---
+===== OFF 0x2cd8ca | BYTES 96 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Add a coin to the bet.
+
+# --- 224 ---
+===== OFF 0x2cd92c | BYTES 98 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Hold or un-hold a card.
+
+# --- 225 ---
+===== OFF 0x2cd990 | BYTES 112 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Try the Extra Game High (*0055*) Low.
+
+# --- 226 ---
+===== OFF 0x2cda02 | BYTES 104 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Select a card to turn over.
+
+# --- 227 ---
+===== OFF 0x2cda6c | BYTES 130 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Bet your winnings on another try.
+
+# --- 228 ---
+===== OFF 0x2cdaf0 | BYTES 50 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)(*005B*) button functions(*003A*)(*FF18*) 
+
+# --- 229 ---
+===== OFF 0x2cdb24 | BYTES 106 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)Before normal play(*003A*)(*FF18*) (*LINE_BREAK*)Remove a coin from the bet.
+
+# --- 230 ---
+===== OFF 0x2cdb90 | BYTES 92 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During normal play(*003A*)(*FF18*) (*LINE_BREAK*)Un-hold a held card.
+
+# --- 231 ---
+===== OFF 0x2cdbee | BYTES 150 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning hand(*003A*)(*FF18*) (*LINE_BREAK*)Decline the Extra Game and collect(*LINE_BREAK*)your winnings.
+
+# --- 232 ---
+===== OFF 0x2cdc86 | BYTES 104 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)During Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)Select a card to turn over.
+
+# --- 233 ---
+===== OFF 0x2cdcf0 | BYTES 154 =====
+(*CONTINUE*)(*FF18*)(*0700*)(*0039*)After winning Extra Game(*003A*)(*FF18*) (*LINE_BREAK*)End the Extra game and collect your(*LINE_BREAK*)winnings.
+
+# --- 234 ---
+===== OFF 0x2cdd8c | BYTES 84 =====
+(*FF01*) (*003E*)/(*005B*) buttons(*FF01*)One face-down card is dealt.
+
+# --- 235 ---
+===== OFF 0x2cdde2 | BYTES 156 =====
+(*CONTINUE*)If you think it's (*0204*) or (*0205*), choose Red.(*LINE_BREAK*)If you think it's (*0206*) or (*0207*), choose Black.
+
+# --- 236 ---
+===== OFF 0x2cde80 | BYTES 116 =====
+(*CONTINUE*)If the color you chose matches the(*LINE_BREAK*)card's color, you win.
+
+# --- 237 ---
+===== OFF 0x2cdef6 | BYTES 114 =====
+(*FF01*)Red (*0055*) Black(*FF01*)One card is shown and one card is(*LINE_BREAK*)face-down.
+
+# --- 238 ---
+===== OFF 0x2cdf6a | BYTES 168 =====
+(*CONTINUE*)You must guess whether the face-down(*LINE_BREAK*)card is bigger or smaller than the(*LINE_BREAK*)shown card.
+
+# --- 239 ---
+===== OFF 0x2ce014 | BYTES 100 =====
+(*CONTINUE*)If both cards are equal, you lose,(*LINE_BREAK*)so be careful.
+
+# --- 240 ---
+===== OFF 0x2ce07a | BYTES 138 =====
+(*FF01*)Big (*0055*) Small(*FF01*)One card is shown, with four other(*LINE_BREAK*)cards left face-down.
+
+# --- 241 ---
+===== OFF 0x2ce106 | BYTES 134 =====
+(*CONTINUE*)You must guess which face-down card is(*LINE_BREAK*)higher than the shown card.
+
+# --- 242 ---
+===== OFF 0x2ce18e | BYTES 204 =====
+(*CONTINUE*)If the card you draw has the same(*LINE_BREAK*)number as the shown card, the game is(*LINE_BREAK*)a draw and you may try again.
+
+# --- 243 ---
+===== OFF 0x2ce25c | BYTES 158 =====
+(*FF01*) High (*0055*) Low(*FF01*) If you win, you can bet the amount(*LINE_BREAK*)you just won on an Extra Game.
+
+# --- 244 ---
+===== OFF 0x2ce2fc | BYTES 106 =====
+(*CONTINUE*)If you'd rather not risk it, choose(*LINE_BREAK*)"Take Winnings."
+
+# --- 245 ---
+===== OFF 0x2ce368 | BYTES 74 =====
+(*CONTINUE*)There are three types of Extra Game.
+
+# --- 246 ---
+===== OFF 0x2ce3b4 | BYTES 84 =====
+(*CONTINUE*)Each round you win doubles your(*LINE_BREAK*)earnings.
+
+# --- 247 ---
+===== OFF 0x2ce40a | BYTES 128 =====
+(*CONTINUE*)By winning the Extra Game, you can(*LINE_BREAK*)wager up to 1,000,000 coins.
+
+# --- 248 ---
+===== OFF 0x2ce48c | BYTES 104 =====
+(*CONTINUE*)But be careful; one mistake and you'll(*LINE_BREAK*)lose it all.
+
+# --- 249 ---
+===== OFF 0x2ce4f6 | BYTES 246 =====
+(*FF01*)About the Extra Games(*FF01*)In this version of poker, you can(*LINE_BREAK*)change your hand once. You will be(*LINE_BREAK*)dealt five cards at the outset.
+
+# --- 250 ---
+===== OFF 0x2ce5ee | BYTES 192 =====
+(*CONTINUE*)Use the directional buttons to move to(*LINE_BREAK*)a card, and press the (*005B*)/(*003E*)/(*0062*)/(*0060*) buttons(*LINE_BREAK*)to hold that card.
+
+# --- 251 ---
+===== OFF 0x2ce6b0 | BYTES 186 =====
+(*CONTINUE*)Once you have chosen which cards to(*LINE_BREAK*)hold, press the R button to re-draw(*LINE_BREAK*)the remaining cards.
+
+# --- 252 ---
+===== OFF 0x2ce76c | BYTES 114 =====
+(*CONTINUE*)If you have a valid hand after the(*LINE_BREAK*)second draw, you win.
+
+# --- 253 ---
+===== OFF 0x2ce7e0 | BYTES 140 =====
+(*CONTINUE*)The higher the bet, the larger the(*LINE_BREAK*)payout for a winning hand will be.
+
+# --- 254 ---
+===== OFF 0x2ce86e | BYTES 280 =====
+(*FF01*)About poker(*FF01*)(*A405*)(*0700*)(*C401*)(*0700*)(*9C01*)(*0700*)(*F8F8*)(*0600*)(*D8F8*)(*0600*)(*C8F6*)(*0600*)(*A8F6*)(*0600*)(*98F1*)(*0600*)(*74F1*)(*0600*)(*2CEF*)(*0600*)(*F4EE*)(*0600*)(*20EC*)(*0600*)(*08EC*)(*0600*)(*A8E8*)(*0600*)(*80E8*)(*0600*)(*94E5*)(*0600*)(*74E5*)(*0600*)(*58E2*)(*0600*)(*34E2*)(*0600*)(*A8DF*)(*0600*)(*84DF*)(*0600*)(*80D9*)(*0600*)(*60D9*)(*0600*)(*B8D0*)(*0600*)(*90D0*)(*0600*)(*BCC9*)(*0600*)(*98C9*)(*0600*)(*78C4*)(*0600*)(*58C4*)(*0600*)(*78C1*)(*0600*)(*54C1*)(*0600*)(*D4BE*)(*0600*)(*B8BE*)(*0600*)(*4CBA*)(*0600*)(*24BA*)(*0600*)(*A0B3*)(*0600*)(*PAD,4*)(*FF1B*)Igor(*LINE_BREAK*)Each demon and Persona is classified(*LINE_BREAK*)by type.
+
+# --- 255 ---
+===== OFF 0x2ce988 | BYTES 124 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)There are four main types, such as(*LINE_BREAK*)Element and Force...
+
+# --- 256 ---
+===== OFF 0x2cea06 | BYTES 124 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)...As well as sixteen subtypes, such(*LINE_BREAK*)as Fire and Death.
+
+# --- 257 ---
+===== OFF 0x2cea84 | BYTES 172 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)These indicate both the demon's nature(*LINE_BREAK*)as well as its strengths and weaknesses.
+
+# --- 258 ---
+===== OFF 0x2ceb32 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)For example, Element demons tend to be(*LINE_BREAK*)weak to attacks and strong vs. spells.
+
+# --- 259 ---
+===== OFF 0x2cebdc | BYTES 158 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Contrariwise, Force demons resist(*LINE_BREAK*)attacks but tend to be weak to spells.
+
+# --- 260 ---
+===== OFF 0x2cec7c | BYTES 160 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)In terms of subtypes, Fire demons are(*LINE_BREAK*)weak to ice, and resistant to fire.
+
+# --- 261 ---
+===== OFF 0x2ced1e | BYTES 94 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Taken together, an Element Fire(*LINE_BREAK*)demon...
+
+# --- 262 ---
+===== OFF 0x2ced7e | BYTES 130 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)...Would resist fire spells, possibly(*LINE_BREAK*)even absorbing them.
+
+# --- 263 ---
+===== OFF 0x2cee02 | BYTES 150 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)But those same fire spells would wreak(*LINE_BREAK*)havoc on a Force Water demon.
+
+# --- 264 ---
+===== OFF 0x2cee9a | BYTES 90 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)Do you understand a little better now?
+
+# --- 265 ---
+===== OFF 0x2ceef6 | BYTES 168 =====
+(*CONTINUE*)(*FF1B*)Igor(*LINE_BREAK*)You must grasp your Persona's strengths(*LINE_BREAK*)and weaknesses before doing battle...
+

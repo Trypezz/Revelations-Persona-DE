@@ -1,0 +1,85 @@
+# Treasure chests and obtain messages.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x2bfbce | BYTES 68 =====
+(*FF01*)(*0044*) The treasure box's trap sprung!
+
+# --- 1 ---
+===== OFF 0x2bfc14 | BYTES 42 =====
+(*CONTINUE*)(*0044*) (*FF15*) receives damage!
+
+# --- 2 ---
+===== OFF 0x2bfc40 | BYTES 70 =====
+(*FF01*) (*0044*) The treasure box's trap sprung!
+
+# --- 3 ---
+===== OFF 0x2bfc88 | BYTES 42 =====
+(*CONTINUE*)(*0044*) (*FF15*) receives damage!
+
+# --- 4 ---
+===== OFF 0x2bfcb4 | BYTES 4 =====
+(*FF01*) 
+
+# --- 5 ---
+===== OFF 0x2bfcba | BYTES 68 =====
+(*FF01*)(*0044*) The treasure box's trap sprung!
+
+# --- 6 ---
+===== OFF 0x2bfd00 | BYTES 52 =====
+(*CONTINUE*)(*0044*) (*FF15*)'s HP is lowered to 1!
+
+# --- 7 ---
+===== OFF 0x2bfd36 | BYTES 68 =====
+(*FF01*)(*0044*) The treasure box's trap sprung!
+
+# --- 8 ---
+===== OFF 0x2bfd7c | BYTES 42 =====
+(*CONTINUE*)(*0044*) (*FF15*) receives damage!
+
+# --- 9 ---
+===== OFF 0x2bfda8 | BYTES 70 =====
+(*FF01*) (*0044*) The treasure box's trap sprung!
+
+# --- 10 ---
+===== OFF 0x2bfdf0 | BYTES 34 =====
+(*CONTINUE*)(*0044*) (*FF15*) is poisoned!
+
+# --- 11 ---
+===== OFF 0x2bfe14 | BYTES 70 =====
+(*FF01*) (*0044*) The treasure box's trap sprung!
+
+# --- 12 ---
+===== OFF 0x2bfe5c | BYTES 70 =====
+(*CONTINUE*)(*0044*) (*FF15*) and the others receive(*LINE_BREAK*)damage!
+
+# --- 13 ---
+===== OFF 0x2bfea4 | BYTES 70 =====
+(*FF01*) (*0044*) The treasure box's trap sprung!
+
+# --- 14 ---
+===== OFF 0x2bfeec | BYTES 54 =====
+(*CONTINUE*)(*0044*) (*FF15*) receives heavy damage!
+
+# --- 15 ---
+===== OFF 0x2bff24 | BYTES 70 =====
+(*FF01*) (*0044*) The treasure box's trap sprung!
+
+# --- 16 ---
+===== OFF 0x2bff6c | BYTES 42 =====
+(*CONTINUE*)(*0044*) (*FF15*) receives damage!
+
+# --- 17 ---
+===== OFF 0x2bff98 | BYTES 58 =====
+(*FF01*) (*0044*) Da ist nichts drin...
+
+# --- 18 ---
+===== OFF 0x2bffd4 | BYTES 36 =====
+(*FF01*) (*0044*)Erhalten: (*FFF8*)yen.
+
+# --- 19 ---
+===== OFF 0x2bfffa | BYTES 32 =====
+(*FF01*)(*0044*)Erhalten: (*FF09*) x(*FFF8*)
+

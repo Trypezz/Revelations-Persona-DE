@@ -1,16 +1,47 @@
 #!/usr/bin/env bash
-# Find where EX.BIN sits inside your ISO. Needs 7z.
+# Find where EX.BIN or EBOOT.BIN sits inside your ISO. Needs 7z.
 set -euo pipefail
 # shellcheck source=lib.sh
 source "$(dirname "$0")/lib.sh"
 
-pack_arg "${1:-}"
+if [[ "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
+  echo "USE: $0 0     (or 1 2 3 4)"
+  echo "     $0 eboot"
+  exit 0
+fi
+
 need_file P1_ISO
 
 if ! command -v 7z >/dev/null 2>&1; then
   echo "7z missing."
   exit 1
 fi
+
+if [[ "${1:-}" == "eboot" ]]; then
+  INNER="PSP_GAME/SYSDIR/EBOOT.BIN"
+  TMP=$(mktemp -d)
+  trap 'rm -rf "$TMP"' EXIT
+  7z e -y "$P1_ISO" "$INNER" -o"$TMP" >/dev/null
+  python3 - "$P1_ISO" "$TMP/EBOOT.BIN" <<'PY'
+import sys
+from pathlib import Path
+
+iso_path, bin_path = sys.argv[1], sys.argv[2]
+iso = Path(iso_path).read_bytes()
+blob = Path(bin_path).read_bytes()
+off = iso.find(blob)
+if off < 0:
+    print("EBOOT.BIN not found in ISO.")
+    sys.exit(1)
+print("FILE=EBOOT.BIN")
+print(f"OFFSET={off}")
+print(f"EXPECT={len(blob)}")
+print(f"patch-iso.sh values: OFFSET={off} EXPECT={len(blob)}")
+PY
+  exit 0
+fi
+
+pack_arg "${1:-}"
 
 INNER="PSP_GAME/USRDIR/pack/E${PACK}.BIN"
 TMP=$(mktemp -d)

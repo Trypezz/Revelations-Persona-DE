@@ -1,6 +1,6 @@
 # tools/
 
-Copy text to/from PersonaFlowReader and patch your ISO.
+Copy text to/from PersonaFlowReader, patch player choice menus, and patch your ISO.
 
 `lib.sh` is used by the other scripts. Do not run it. It just loads `config.env`.
 
@@ -33,7 +33,9 @@ iso/PSP_GAME/USRDIR/
 
 The needed files are <br>
 `EBOOT.BIN` inside `PSP_GAME/SYSDIR/EBOOT.BIN` <br>
-`EX.BIN` inside `PSP_GAME/USRDIR/pack/EX.BIN` <br>
+`EX.BIN` inside `PSP_GAME/USRDIR/pack/EX.BIN`
+
+The default ISO `EBOOT.BIN` is encrypted (`~PSP`). PersonaFlowReader and the choice-menu scripts need a **decrypted** one (starts with `ELF`). Dump it in PPSSPP: Settings → Tools → Developer tools → Dump decrypted EBOOT.BIN. Launch the game once. Copy that file to `PersonaFlowReader/PersonaFlowReader/OG/EBOOT.BIN`. Size should stay 3836464 bytes so it still fits in the ISO. <br>
 
 ## PersonaFlowReader
 
@@ -51,7 +53,7 @@ java -jar pfr.jar
 ```
 
 inside of the directory where you built it. It needs to be in the same directory as the `table`-Directory and the `OG`-Directory which you need to add yourself.
-In the `OG`-Directory goes the `EBOOT.BIN` and the `EX.BIN` you want to translate.
+In the `OG`-Directory goes the decrypted `EBOOT.BIN` and the `EX.BIN` you want to translate.
 
 ## The scripts
 
@@ -93,6 +95,42 @@ If your dump is a different revision and the game ignores the patch, offsets may
 
 Paste the printed `OFFSET` / `EXPECT` values into `tools/patch-iso.sh`.
 
+### extract-eboot-options.sh
+
+Reads the decrypted `OG/EBOOT.BIN` and writes dumps into `script/eboot/`. One `.txt` per dump (`options.txt`, `difficulty.txt`, `BattleUI.txt`, ...). Existing files are skipped.
+
+```bash
+./tools/extract-eboot-options.sh
+```
+
+`--force` overwrites every dump. That wipes German if you already translated.
+
+### patch-eboot-options.sh
+
+Writes every `script/eboot/*.txt` back into `OG/EBOOT.BIN`. Does not touch the ISO.
+
+```bash
+./tools/patch-eboot-options.sh
+```
+
+### patch-iso.sh eboot
+
+Packs every `script/eboot/*.txt` into the decrypted EBOOT and writes that EBOOT into the test ISO.
+
+```bash
+./tools/patch-iso.sh eboot
+```
+
+`--fresh` still copies from the original ISO first: `./tools/patch-iso.sh --fresh eboot`.
+
+If your dump is a different revision:
+
+```bash
+./tools/get-offset.sh eboot
+```
+
+Paste `OFFSET` / `EXPECT` into the eboot branch in `tools/patch-iso.sh`.
+
 ## Work
 
 1. Translate a file in `script/EX/` (or E1 -> any event).
@@ -116,3 +154,24 @@ To pull newly decoded English files _into_ the repo after you extract them in Pe
 ```bash
 ./tools/sync-from-pfr.sh 0
 ```
+
+### EBOOT dumps (menus, difficulty, ...)
+
+PersonaFlowReader does not own these. They sit in the decrypted EBOOT. Each dump is its own `.txt` in `script/eboot/`. Packing reads all of them.
+
+1. Decrypt the EBOOT once and put it in `OG/` (see above).
+2. If a dump is missing:
+
+   ```bash
+   ./tools/extract-eboot-options.sh
+   ```
+
+3. Translate the bodies in `script/eboot/*.txt`. Leave the `=====` headers and every `(*TAG*)` alone.
+4. Patch the test ISO:
+
+   ```bash
+   ./tools/patch-iso.sh eboot
+   ```
+
+A line longer than `BYTES` is refused. `Yes` is 3 letters. `Ja` fits. `No` are 2 letters `Nein` does not work, thats why we use `Ne`.
+Same goes for Locations and other UI-Elements
