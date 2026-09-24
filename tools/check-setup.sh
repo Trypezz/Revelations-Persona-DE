@@ -181,7 +181,7 @@ if [[ -n "${PFR_ROOT:-}" && -d "$PFR_ROOT" ]]; then
   if [[ -d "$PFR_ROOT/output" ]]; then
     pass "output/"
   else
-    maybe "No output/ yet. Encode and archive in PersonaFlowReader when you want to patch."
+    maybe "No output/ yet. ./tools/build-pack.sh will create it."
   fi
 fi
 
@@ -201,7 +201,7 @@ fi
 
 warns=0
 
-for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh patch-iso.sh get-offset.sh extract-eboot-options.sh patch-eboot-options.sh eboot_options.py; do
+for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh build-pack.sh pack_evs.py patch-iso.sh get-offset.sh extract-eboot-options.sh patch-eboot-options.sh eboot_options.py; do
   if [[ -f "$REPO_ROOT/tools/$s" ]]; then
     pass "tools/$s"
   else

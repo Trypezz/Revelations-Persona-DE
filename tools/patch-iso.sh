@@ -121,7 +121,7 @@ esac
 
 if [[ ! -f "$NEW_EBIN" ]]; then
   echo "No file: $NEW_EBIN"
-  echo "In PersonaFlowReader first 2 (encode), then 3 (archive)."
+  echo "Run ./tools/build-pack.sh ${PACK} first."
   exit 1
 fi
 
