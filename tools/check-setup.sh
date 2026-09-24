@@ -199,9 +199,22 @@ else
   bad "No script/eboot/. Run ./tools/extract-eboot-options.sh"
 fi
 
+if [[ -d "$REPO_ROOT/script/dng" ]]; then
+  shopt -s nullglob
+  dng_txt=("$REPO_ROOT/script/dng"/*.txt)
+  shopt -u nullglob
+  if ((${#dng_txt[@]} > 0)); then
+    pass "script/dng/ (${#dng_txt[@]} dumps)"
+  else
+    maybe "script/dng/ is empty. Run ./tools/extract-dng-text.sh"
+  fi
+else
+  maybe "No script/dng/. Run ./tools/extract-dng-text.sh"
+fi
+
 warns=0
 
-for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh build-pack.sh pack_evs.py patch-iso.sh get-offset.sh extract-eboot-options.sh patch-eboot-options.sh eboot_options.py; do
+for s in lib.sh sync-from-pfr.sh sync-to-pfr.sh build-pack.sh pack_evs.py patch-iso.sh get-offset.sh extract-eboot-options.sh patch-eboot-options.sh eboot_options.py extract-dng-text.sh dng_text.py; do
   if [[ -f "$REPO_ROOT/tools/$s" ]]; then
     pass "tools/$s"
   else

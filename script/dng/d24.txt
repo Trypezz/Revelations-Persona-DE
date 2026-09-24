@@ -1,0 +1,29 @@
+# Dungeon map overlays from pack/dng/d24/d24.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x238e4 | BYTES 48 =====
+(*0043*) It seems to be locked.
+
+# --- 1 ---
+===== OFF 0x23964 | BYTES 110 =====
+(*0043*) It's locked. It doesn't seem as though(*LINE_BREAK*)you can go in.
+
+# --- 2 ---
+===== OFF 0x23a24 | BYTES 126 =====
+(*0043*) The door is locked. Could that girl(*LINE_BREAK*)have been an illusion...?
+
+# --- 3 ---
+===== OFF 0x23af4 | BYTES 68 =====
+(*0043*) This classroom isn't in use now.
+
+# --- 4 ---
+===== OFF 0x23b84 | BYTES 124 =====
+(*0043*) It seems that this room hasn't been(*LINE_BREAK*)used in quite a while...
+
+# --- 5 ---
+===== OFF 0x23c44 | BYTES 48 =====
+(*0043*) The gym is closed off.
+

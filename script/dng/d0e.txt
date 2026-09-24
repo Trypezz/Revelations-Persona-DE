@@ -1,0 +1,33 @@
+# Dungeon map overlays from pack/dng/d0e/d0e.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x1e1fc | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+
+# --- 1 ---
+===== OFF 0x1e2bc | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+
+# --- 2 ---
+===== OFF 0x1e37c | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+
+# --- 3 ---
+===== OFF 0x1e43c | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+
+# --- 4 ---
+===== OFF 0x1e520 | BYTES 78 =====
+(*004F*)NMan's voice(*LINE_BREAK*)The Queen is resting now.
+
+# --- 5 ---
+===== OFF 0x1e6fc | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+
+# --- 6 ---
+===== OFF 0x1e7bc | BYTES 112 =====
+(*0043*) An invisible wall blocks your way,(*LINE_BREAK*)forcing you back...
+

@@ -7,6 +7,17 @@ _**HEAVILY WIP**_
 
 Unofficial German translation of Revelations: Persona for the PSP.
 
+<table>
+  <tr>
+    <td><img src="docs/screenshots/Prolog.png" width="100%"></td>
+    <td><img src="docs/screenshots/dialogue-text.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/dungeon-text.png" width="100%"></td>
+    <td><img src="docs/screenshots/difficulty-screen.png" width="100%"></td>
+  </tr>
+</table>
+
 This repo is the translation. German `.TXT` files, notes, and the scripts that copy those files into a local tool. The game itself does not belong here.
 
 Persona is Atlus / SEGA. This project is not affiliated with them. You need your own dump. Do not open a pull request that adds an ISO, `EBOOT.BIN`, or extracted UMD files.
@@ -57,6 +68,19 @@ These are `script/eboot/*.txt`. They live in the decrypted EBOOT, not in E0.BIN.
 3. Boot the test ISO. Commit the `.txt` if it looks right.
 
 Room names (`LocationUI.txt`) use `(*PAD,N*)` for leading spaces. If the banner shows only the end of the name (`nraum` instead of `Klassenraum`), lower `N`.
+
+### Dungeon maps (locked doors, levers, riddles)
+
+These are `script/dng/*.txt`. They live in `pack/dng/dXX/dXX.bin` on the ISO, not in the EBOOT.
+
+1. Edit the file in `script/dng/`. Same header/`(*TAG*)`/`BYTES` rules as eboot.
+2. Patch:
+
+   ```bash
+   ./tools/patch-iso.sh dng
+   ```
+
+`d00.txt` is St. Hermelin. `extract-dng-text.sh` writes the dumps the first time.
 
 How a dialogue line should look is in `docs/style.md`. Names in `docs/glossary.md`. What the packs are is in `script/README.md`.
 

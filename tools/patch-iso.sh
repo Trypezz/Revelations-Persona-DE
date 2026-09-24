@@ -14,11 +14,35 @@ fi
 if [[ "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
   echo "USE: $0 [--fresh] 0     (or 1 2 3 4)"
   echo "     $0 [--fresh] eboot"
+  echo "     $0 [--fresh] dng"
   exit 0
 fi
 
 need_file P1_ISO
 need_var P1_TEST_ISO
+
+if [[ "${1:-}" == "dng" ]]; then
+  SRC_DIR="$REPO_ROOT/script/dng"
+  shopt -s nullglob
+  dng_txt=("$SRC_DIR"/*.txt)
+  shopt -u nullglob
+  if ((${#dng_txt[@]} == 0)); then
+    echo "No .txt in $SRC_DIR"
+    echo "Run ./tools/extract-dng-text.sh first."
+    exit 1
+  fi
+  if ! command -v 7z >/dev/null 2>&1; then
+    echo "7z missing."
+    exit 1
+  fi
+  args=(patch-iso "$SRC_DIR" "$P1_ISO" "$P1_TEST_ISO")
+  if ((FRESH)); then
+    args+=(--fresh)
+  fi
+  python3 "$REPO_ROOT/tools/dng_text.py" "${args[@]}"
+  exit 0
+fi
+
 need_dir PFR_ROOT
 
 if [[ "${1:-}" == "eboot" ]]; then

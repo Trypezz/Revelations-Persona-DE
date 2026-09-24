@@ -47,30 +47,42 @@ One file is one event. The name looks like `E0_000.TXT`, `E0_001.TXT` and so on.
 
 PersonaFlowReader does not extract these. They live in a decrypted `EBOOT.BIN`. Each `.txt` is one dump. `patch-iso.sh eboot` packs every file in this folder back into the EBOOT.
 
-| File                         | What it is                                                                                            |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `options.txt`                | Yes/No boxes, shops, Velvet Room (`*SHOW_OPTIONS*`)                                                   |
-| `difficulty.txt`             | Difficulty screen prompt and help text                                                                |
-| `SystemUI.txt`               | Memory Stick / system data loaded                                                                     |
-| `BattleUI.txt`               | Battle commands and battle messages                                                                   |
-| (_PAD,14_)Principal's Office |
-| `LevelUpUI.txt`              | Persona rank-up messages                                                                              |
-| `StatsUI.txt`                | Strength / Vitality / ... increased                                                                   |
-| `DungeonUI.txt`              | Treasure chests and obtain messages                                                                   |
-| `CasinoUI.txt`               | Casino minigame help                                                                                  |
-| `VelvetUI.txt`               | Igor / Velvet Room tutorials                                                                          |
-| `LocationUI.txt`             | Room names in the corner, e.g. 1F Empty Classroom. Door-zone "Go to the hallway" is not in this file. |
-| `NameUI.txt`                 | Name entry: Is this all right?                                                                        |
-| `ItemNames.txt`              | Item names                                                                                            |
-| `ItemHelp.txt`               | Item descriptions                                                                                     |
-| `SkillNames.txt`             | Skill names (Agi, Bufu, ... can stay English)                                                         |
-| `SkillHelp.txt`              | Skill descriptions                                                                                    |
+| File             | What it is                                                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| `options.txt`    | Yes/No boxes, shops, Velvet Room (`*SHOW_OPTIONS*`)                                                                   |
+| `difficulty.txt` | Difficulty screen prompt and help text                                                                                |
+| `SystemUI.txt`   | Memory Stick / system data loaded                                                                                     |
+| `BattleUI.txt`   | Battle commands and battle messages                                                                                   |
+| `LevelUpUI.txt`  | Persona rank-up messages                                                                                              |
+| `StatsUI.txt`    | Strength / Vitality / ... increased                                                                                   |
+| `DungeonUI.txt`  | Treasure chests and obtain messages                                                                                   |
+| `DungeonMsg.txt` | Wrong-side chest, empty chest, empty tile, Liftoma/Core Shield worn off                                               |
+| `CasinoUI.txt`   | Casino minigame help                                                                                                  |
+| `VelvetUI.txt`   | Igor / Velvet Room tutorials                                                                                          |
+| `LocationUI.txt` | Room names in the corner, Door-zone "Go to the hallway" is not in this file. Can't find it. Probably build on runtime |
+| `NameUI.txt`     | Name entry: Is this all right?                                                                                        |
+| `ItemNames.txt`  | Item names                                                                                                            |
+| `ItemHelp.txt`   | Item descriptions                                                                                                     |
+| `SkillNames.txt` | Skill names (Agi, Bufu, ... can stay English)                                                                         |
+| `SkillHelp.txt`  | Skill descriptions                                                                                                    |
 
 ```bash
 ./tools/extract-eboot-options.sh   # writes missing dumps only
 # edit script/eboot/*.txt
 ./tools/patch-iso.sh eboot
 ```
+
+## dng/
+
+Locked doors, levers, sealed rooms, and dungeon riddles. PersonaFlowReader does not extract these. They live in `pack/dng/dXX/dXX.bin` on the ISO.
+
+```bash
+./tools/extract-dng-text.sh   # writes missing dumps only
+# edit script/dng/*.txt
+./tools/patch-iso.sh dng
+```
+
+`d00.txt` is St. Hermelin (the classroom "It's locked" line). Same `=====` / `(*TAG*)` / `BYTES` rules as eboot.
 
 Do not change the `=====` header lines. Leave every `(*TAG*)` in place, including `(*PAD,N*)` and `(*0044*)`. A German line that is longer than `BYTES` is refused. Details in `tools/README.md`.
 

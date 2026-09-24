@@ -1,0 +1,21 @@
+# Dungeon map overlays from pack/dng/d02/d02.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x10744 | BYTES 42 =====
+(*0043*) The door is locked.
+
+# --- 1 ---
+===== OFF 0x107b4 | BYTES 42 =====
+(*0043*) The door is locked.
+
+# --- 2 ---
+===== OFF 0x10824 | BYTES 76 =====
+(*0043*) This room doesn't seem to be in use.
+
+# --- 3 ---
+===== OFF 0x108b4 | BYTES 106 =====
+(*0043*) It's the ICU. You need special(*LINE_BREAK*)permission to enter.
+

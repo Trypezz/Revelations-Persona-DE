@@ -2252,7 +2252,7 @@ Agastya Tree
 
 # --- 561 ---
 ===== OFF 0x2b85a8 | BYTES 64 =====
-(*PAD,15*)1F Klassenraum
+(*PAD,16*)1F Klassenraum
 
 # --- 562 ---
 ===== OFF 0x2b85ea | BYTES 28 =====
@@ -3400,7 +3400,7 @@ Agastya Tree
 
 # --- 848 ---
 ===== OFF 0x2bbb7e | BYTES 58 =====
-(*PAD, 10*)1F Klassenraum
+(*PAD, 11*)1F Klassenraum
 
 # --- 849 ---
 ===== OFF 0x2bbbba | BYTES 34 =====

@@ -1,0 +1,33 @@
+# Dungeon map overlays from pack/dng/d00/d00.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x23894 | BYTES 52 =====
+(*0043*) Scheint abgeschlossen...
+
+# --- 1 ---
+===== OFF 0x23914 | BYTES 110 =====
+(*0043*) Abgeschlossen. Da kommst du (*LINE_BREAK*)wohl nicht rein.
+
+# --- 2 ---
+===== OFF 0x239d4 | BYTES 126 =====
+(*0043*) Abgeschlossen.(*LINE_BREAK*)War das Mädchen nur eine Illusion...?
+
+# --- 3 ---
+===== OFF 0x23ba4 | BYTES 128 =====
+(*0043*) Dieser Raum wurde eine ganze Weile(*LINE_BREAK*) nicht genutzt.
+
+# --- 4 ---
+===== OFF 0x23c74 | BYTES 76 =====
+Mein Nachname: (*FF0F*).(*LINE_BREAK*)Mein Vorname: (*FF07*).
+
+# --- 5 ---
+===== OFF 0x23cc4 | BYTES 36 =====
+Mein Name: (*LINE_BREAK*)(*FF10*).
+
+# --- 6 ---
+===== OFF 0x23cec | BYTES 34 =====
+Mein Spitzname:(*FF08*).
+
