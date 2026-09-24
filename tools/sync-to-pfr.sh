@@ -36,4 +36,4 @@ for n in "${packs[@]}"; do
 done
 
 echo "Done. $copied file(s) to $PFR_ROOT/extracted/"
-echo "Next use PersonaFlowReader and use: 2 (encode), than 3 (archive)."
+echo "Next: ./tools/build-pack.sh $1  (or 0 if you synced everything)"

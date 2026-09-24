@@ -11,19 +11,11 @@ The PSP dialog box is short. The English lines already wrap with `(*LINE_BREAK*)
 
 ## Character set
 
-The encoding table does not have `ä ö ü Ä Ö Ü ß`. Don't use them or it will look messed up
-Use these instead:
+The encoding table **does** have `ä ö ü Ä Ö Ü`. `ß` is still missing, use `ss`.
 
-| Symbols | Solution |
-| ------- | -------- |
-| Ä, ä    | Ae, ae   |
-| Ö, ö    | Oe, oe   |
-| Ü, ü    | Ue, ue   |
-| ß       | ss       |
+Without the HD-UI font they look wrong in-game. That is why the root README tells you to paste `2FontB.png` into the emulator texture folder if you have the HD-UI Mod. If you do not have the Mod please still use umlauts, they appear like a dot, a simple placeholder.
 
-If you know how to make a font that can use them, provide the info about it.
-
-If a character does not exist in the table, PersonaFlowReader will not encode it cleanly. Stick to letters in that table, ASCII punctuation, and the existing tags.
+If a character does not exist in the table, PersonaFlowReader will not encode it. Stick to letters in that table, ASCII punctuation, and the existing tags.
 
 ## Tone
 

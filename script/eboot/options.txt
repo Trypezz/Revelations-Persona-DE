@@ -13,7 +13,7 @@ Ne
 
 # --- SHOW_OPTIONS,1 ---
 ===== ID 1 SLOT 0 | OFF 0x2c1066 | BYTES 12 =====
-Klar.
+Klar
 
 ===== ID 1 SLOT 1 | OFF 0x2c1074 | BYTES 14 =====
 Niemals
