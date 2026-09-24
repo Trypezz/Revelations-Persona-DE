@@ -1,0 +1,13 @@
+# Dungeon map overlays from pack/dng/d1d/d1d.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0xd9c4 | BYTES 122 =====
+(*004F*)NSnow Queen's voice(*LINE_BREAK*)Ahahaha... Too bad, but your time is up.
+
+# --- 1 ---
+===== OFF 0xdd74 | BYTES 138 =====
+(*0043*) The door is tightly closed. It seems(*LINE_BREAK*)that you cannot get outside...
+

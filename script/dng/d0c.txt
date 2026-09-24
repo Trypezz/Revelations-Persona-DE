@@ -1,0 +1,305 @@
+# Dungeon map overlays from pack/dng/d0c/d0c.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0xd2e4 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+
+# --- 1 ---
+===== OFF 0xd4a4 | BYTES 130 =====
+(*0043*) The door is tightly sealed.(*LINE_BREAK*)It seems it cannot be opened yet...
+
+# --- 2 ---
+===== OFF 0xd574 | BYTES 76 =====
+(*0043*) Old writing is engraved on the wall.
+
+# --- 3 ---
+===== OFF 0xd5c4 | BYTES 190 =====
+(*0043*) "Henceforth, go the way you believe(*LINE_BREAK*)answers the given question, and the path(*LINE_BREAK*)shall be opened.
+
+# --- 4 ---
+===== OFF 0xd686 | BYTES 206 =====
+"The Three Wise Monkeys are famous in(*LINE_BREAK*)Buddhism, but where is the Buddhist god(*LINE_BREAK*)Seimen Kongou worshipped?
+
+# --- 5 ---
+===== OFF 0xd758 | BYTES 102 =====
+"Head right if it's Japan, and left if(*LINE_BREAK*)it's China."
+
+# --- 6 ---
+===== OFF 0xd804 | BYTES 76 =====
+(*0043*) Old writing is engraved on the wall.
+
+# --- 7 ---
+===== OFF 0xd854 | BYTES 190 =====
+(*0043*) "Henceforth, go the way you believe(*LINE_BREAK*)answers the given question, and the path(*LINE_BREAK*)shall be opened.
+
+# --- 8 ---
+===== OFF 0xd916 | BYTES 206 =====
+"Seiryuu is one of the legendary beasts(*LINE_BREAK*)of China. Which of the four directions(*LINE_BREAK*)does this god represent?
+
+# --- 9 ---
+===== OFF 0xd9e8 | BYTES 96 =====
+"Head right if it's east and left if(*LINE_BREAK*)it's west."
+
+# --- 10 ---
+===== OFF 0xda94 | BYTES 76 =====
+(*0043*) Old writing is engraved on the wall.
+
+# --- 11 ---
+===== OFF 0xdae4 | BYTES 190 =====
+(*0043*) "Henceforth, go the way you believe(*LINE_BREAK*)answers the given question, and the path(*LINE_BREAK*)shall be opened.
+
+# --- 12 ---
+===== OFF 0xdba6 | BYTES 238 =====
+"The official name of the Taoist goddess(*LINE_BREAK*)Tian-xian Niang-niang is Tianxian Yu' nu(*LINE_BREAK*)Bixia Yuanjun. Whose daughter is she?
+
+# --- 13 ---
+===== OFF 0xdc98 | BYTES 126 =====
+"Head left if it's Xiyue Dadi, and right(*LINE_BREAK*)if it's Dongyue Dadi."
+
+# --- 14 ---
+===== OFF 0xdd64 | BYTES 224 =====
+"In Hinduism, the Ganges River is thought(*LINE_BREAK*)to be made from tears that Shiva shed.(*LINE_BREAK*)Which eye wrere they shed from?
+
+# --- 15 ---
+===== OFF 0xde48 | BYTES 132 =====
+"Head left if it's the left eye, and(*LINE_BREAK*)right if it's the right eye."
+
+# --- 16 ---
+===== OFF 0xdf14 | BYTES 228 =====
+"Some think Hanuman in Indian myth is the(*LINE_BREAK*)model for Sun Wukong. What is the famous(*LINE_BREAK*)story where Sun Wukong appears?
+
+# --- 17 ---
+===== OFF 0xdffc | BYTES 158 =====
+"Head left if it's Journey to the West,(*LINE_BREAK*)and right if it's Journey to the East."
+
+# --- 18 ---
+===== OFF 0xe0e4 | BYTES 220 =====
+"Varuna of Indian myth is said to be(*LINE_BREAK*)the god of law and the celestial ocean.(*LINE_BREAK*)What direction does he represent?
+
+# --- 19 ---
+===== OFF 0xe1c4 | BYTES 98 =====
+"Head right if it's east, and left if(*LINE_BREAK*)it's west."
+
+# --- 20 ---
+===== OFF 0xe274 | BYTES 168 =====
+"Before the archangel Lucifer of(*LINE_BREAK*)Christianity fell, which side of God(*LINE_BREAK*)did he sit at?
+
+# --- 21 ---
+===== OFF 0xe320 | BYTES 144 =====
+"Head right if it was the right side,(*LINE_BREAK*)and left if it was the left side."
+
+# --- 22 ---
+===== OFF 0xe3f4 | BYTES 156 =====
+"In the Bible, the cherubim is said to(*LINE_BREAK*)guard Eden. Where is this angel posted?
+
+# --- 23 ---
+===== OFF 0xe494 | BYTES 134 =====
+"Head right if it's the east gate,(*LINE_BREAK*)and left if it's the west gate."
+
+# --- 24 ---
+===== OFF 0xe564 | BYTES 218 =====
+"In Christianity, the angel Lucifer's(*LINE_BREAK*)name means "Morning Star." Which(*LINE_BREAK*)direction in the sky can this be seen?
+
+# --- 25 ---
+===== OFF 0xe642 | BYTES 126 =====
+"Head right if it's in the east, and left(*LINE_BREAK*)if it's in the west."
+
+# --- 26 ---
+===== OFF 0xe704 | BYTES 188 =====
+"The war god Tyr in Norse myth had a hand(*LINE_BREAK*)bitten off by Fenrir. Which of his hands(*LINE_BREAK*)was spared?
+
+# --- 27 ---
+===== OFF 0xe7c4 | BYTES 144 =====
+"Head right if it was the right hand,(*LINE_BREAK*)and left if it was the left hand."
+
+# --- 28 ---
+===== OFF 0xe8a4 | BYTES 160 =====
+"The god Airgetlam of Celtic myth is said(*LINE_BREAK*)to have a silver arm. Which arm is it?
+
+# --- 29 ---
+===== OFF 0xe948 | BYTES 132 =====
+"Head right if it's the right arm,(*LINE_BREAK*)and left if it's the left arm."
+
+# --- 30 ---
+===== OFF 0xea14 | BYTES 204 =====
+"One of the days of the week was named(*LINE_BREAK*)in honor of Odin, the chief god of Norse(*LINE_BREAK*)myth. Which day is it?
+
+# --- 31 ---
+===== OFF 0xeae4 | BYTES 116 =====
+"Head left if it's Wednesday, and right(*LINE_BREAK*)if it's Thursday."
+
+# --- 32 ---
+===== OFF 0xeba4 | BYTES 174 =====
+"Janus is said to be the Roman god of(*LINE_BREAK*)gates and doorways. What month does he(*LINE_BREAK*)represent?
+
+# --- 33 ---
+===== OFF 0xec56 | BYTES 160 =====
+"Head left if it's November, straight if(*LINE_BREAK*)it's January, and right if it's March."
+
+# --- 34 ---
+===== OFF 0xed44 | BYTES 202 =====
+"Verdandi is the second sister of the(*LINE_BREAK*)three Norse goddesses of fate. Which(*LINE_BREAK*)period does she represent?
+
+# --- 35 ---
+===== OFF 0xee12 | BYTES 178 =====
+"Head left if it's the past, straight if(*LINE_BREAK*)it's the present, and right if it's(*LINE_BREAK*)the future."
+
+# --- 36 ---
+===== OFF 0xef14 | BYTES 158 =====
+"Which body part did Izanagi purify to(*LINE_BREAK*)give birth to the Japanese god Susano-o?
+
+# --- 37 ---
+===== OFF 0xefb6 | BYTES 198 =====
+"Head left if it was the left eye,(*LINE_BREAK*)straight if it was the nose, and right(*LINE_BREAK*)if it was the right eye."
+
+# --- 38 ---
+===== OFF 0xf0c4 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 39 ---
+===== OFF 0xf114 | BYTES 74 =====
+(*0043*) "East 3, South 2, West 1, South 1."
+
+# --- 40 ---
+===== OFF 0xf1a4 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 41 ---
+===== OFF 0xf1f4 | BYTES 74 =====
+(*0043*) "South 1, West 1, South 2, East 3."
+
+# --- 42 ---
+===== OFF 0xf284 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 43 ---
+===== OFF 0xf2d4 | BYTES 126 =====
+(*0043*) "North 1, East 2, North 2, West 1,(*LINE_BREAK*)North 1, West 1, North 1."
+
+# --- 44 ---
+===== OFF 0xf3a4 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 45 ---
+===== OFF 0xf3f4 | BYTES 142 =====
+(*0043*) "North 1, West 1, North 2, East 1,(*LINE_BREAK*)North 1, East 2, South 1, East 1."
+
+# --- 46 ---
+===== OFF 0xf4d4 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 47 ---
+===== OFF 0xf524 | BYTES 176 =====
+(*0043*) "East 1, North 1, East 2, North 1,(*LINE_BREAK*)East 2, South 2, West 1, South 2,(*LINE_BREAK*)West 2, South 1."
+
+# --- 48 ---
+===== OFF 0xf624 | BYTES 76 =====
+(*0043*) Old writing is engraved in the door.
+
+# --- 49 ---
+===== OFF 0xf674 | BYTES 126 =====
+(*0043*) "South 1, West 2, South 2, East 3,(*LINE_BREAK*)South 2, West 1, South 2."
+
+# --- 50 ---
+===== OFF 0xf744 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 51 ---
+===== OFF 0xf79c | BYTES 92 =====
+(*0043*) "Man's deadly sin of Lust is(*LINE_BREAK*)interred here."
+
+# --- 52 ---
+===== OFF 0xf7fc | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 53 ---
+===== OFF 0xf874 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 54 ---
+===== OFF 0xf8cc | BYTES 92 =====
+(*0043*) "Man's deadly sin of Envy is(*LINE_BREAK*)interred here."
+
+# --- 55 ---
+===== OFF 0xf92c | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 56 ---
+===== OFF 0xf9a4 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 57 ---
+===== OFF 0xf9fc | BYTES 100 =====
+(*0043*) "Man's deadly sin of Gluttony is(*LINE_BREAK*)interred here."
+
+# --- 58 ---
+===== OFF 0xfa64 | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 59 ---
+===== OFF 0xfae4 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 60 ---
+===== OFF 0xfb3c | BYTES 94 =====
+(*0043*) "Man's deadly sin of Sloth is(*LINE_BREAK*)interred here."
+
+# --- 61 ---
+===== OFF 0xfb9e | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 62 ---
+===== OFF 0xfc14 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 63 ---
+===== OFF 0xfc6c | BYTES 94 =====
+(*0043*) "Man's deadly sin of Wrath is(*LINE_BREAK*)interred here."
+
+# --- 64 ---
+===== OFF 0xfcce | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 65 ---
+===== OFF 0xfd44 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 66 ---
+===== OFF 0xfd9c | BYTES 94 =====
+(*0043*) "Man's deadly sin of Pride is(*LINE_BREAK*)interred here."
+
+# --- 67 ---
+===== OFF 0xfdfe | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 68 ---
+===== OFF 0xfe74 | BYTES 84 =====
+(*0043*) Old writing is engraved on the(*LINE_BREAK*)monument.
+
+# --- 69 ---
+===== OFF 0xfecc | BYTES 112 =====
+(*0043*) "White and black... Two nightmares(*LINE_BREAK*)are interred here."
+
+# --- 70 ---
+===== OFF 0xff40 | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 71 ---
+===== OFF 0xffc4 | BYTES 116 =====
+(*0043*) Light pours from the monument and(*LINE_BREAK*)coalesces into matter.
+
+# --- 72 ---
+===== OFF 0x1003c | BYTES 62 =====
+(*0043*) Obtained (*004F*)C05Ruins Medal(*004F*)C00.
+
+# --- 73 ---
+===== OFF 0x1007e | BYTES 92 =====
+(*0043*) (*004F*)C07You have conquered the Mikage Ruins!(*004F*)C00
+
+# --- 74 ---
+===== OFF 0x10130 | BYTES 92 =====
+(*0043*) There's a lever on the wall.(*LINE_BREAK*)Pull the lever?
+

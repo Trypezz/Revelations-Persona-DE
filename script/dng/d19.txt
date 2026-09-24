@@ -1,0 +1,105 @@
+# Dungeon map overlays from pack/dng/d19/d19.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0xcd64 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+
+# --- 1 ---
+===== OFF 0xcf24 | BYTES 130 =====
+(*0043*) The door is tightly sealed.(*LINE_BREAK*)It seems it cannot be opened yet...
+
+# --- 2 ---
+===== OFF 0xcff4 | BYTES 136 =====
+(*0043*) A mysterious message is written on the(*LINE_BREAK*)door in old-looking script.
+
+# --- 3 ---
+===== OFF 0xd080 | BYTES 120 =====
+(*0043*) "Henceforth, a strict rule will be(*LINE_BREAK*)imposed upon intruders.
+
+# --- 4 ---
+===== OFF 0xd0fc | BYTES 138 =====
+(*0043*) "Those who stray from the path shall(*LINE_BREAK*)not be allowed further travel.
+
+# --- 5 ---
+===== OFF 0xd18a | BYTES 172 =====
+(*0043*) "Look not from the path and continue(*LINE_BREAK*)forward. Should you come to a wall,(*LINE_BREAK*)head right.
+
+# --- 6 ---
+===== OFF 0xd23a | BYTES 154 =====
+(*0043*) "Whatever hardship you may encounter,(*LINE_BREAK*)lose not sight of the original path."
+
+# --- 7 ---
+===== OFF 0xd324 | BYTES 102 =====
+(*0043*) Malicious power is emanating from(*LINE_BREAK*)the monument...
+
+# --- 8 ---
+===== OFF 0xd38e | BYTES 46 =====
+(*0043*) Examine the monument?
+
+# --- 9 ---
+===== OFF 0xd404 | BYTES 224 =====
+(*0043*) The demonic presence emanating from(*LINE_BREAK*)the monument has subsided. You hear a(*LINE_BREAK*)door open somewhere on this floor...
+
+# --- 10 ---
+===== OFF 0xd534 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+
+# --- 11 ---
+===== OFF 0xd572 | BYTES 124 =====
+(*0043*) It seems a demonic power on this floor(*LINE_BREAK*)is holding it shut...
+
+# --- 12 ---
+===== OFF 0xd634 | BYTES 136 =====
+(*0043*) A mysterious message is written on the(*LINE_BREAK*)door in old-looking script.
+
+# --- 13 ---
+===== OFF 0xd6c0 | BYTES 190 =====
+(*0043*) "Danger lurks in the center of the(*LINE_BREAK*)room. Go forth while staying near the(*LINE_BREAK*)walls at all times."
+
+# --- 14 ---
+===== OFF 0xd7c4 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+
+# --- 15 ---
+===== OFF 0xd802 | BYTES 152 =====
+(*0043*) It seems to be connected to the lamps(*LINE_BREAK*)in the four corners of this floor...
+
+# --- 16 ---
+===== OFF 0xd8e4 | BYTES 136 =====
+(*0043*) A mysterious message is written on the(*LINE_BREAK*)door in old-looking script.
+
+# --- 17 ---
+===== OFF 0xd970 | BYTES 210 =====
+(*0043*) "Danger lurks at the edges of the(*LINE_BREAK*)room. Go forth through the room's(*LINE_BREAK*)center without touching the walls."
+
+# --- 18 ---
+===== OFF 0xda94 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+
+# --- 19 ---
+===== OFF 0xdad2 | BYTES 130 =====
+(*0043*) It seems to be connected to the(*LINE_BREAK*)numerous lamps on this floor...
+
+# --- 20 ---
+===== OFF 0xdba4 | BYTES 102 =====
+(*0043*) Malicious power is emanating from(*LINE_BREAK*)the monument...
+
+# --- 21 ---
+===== OFF 0xdc0e | BYTES 98 =====
+(*0043*) It seems to be the last monument...(*LINE_BREAK*)Examine it?
+
+# --- 22 ---
+===== OFF 0xdcb4 | BYTES 116 =====
+(*0043*) Light pours from the monument and(*LINE_BREAK*)coalesces into matter.
+
+# --- 23 ---
+===== OFF 0xdd2c | BYTES 60 =====
+(*0043*) Obtained (*004F*)C05Snow Medal(*004F*)C00.
+
+# --- 24 ---
+===== OFF 0xdd6c | BYTES 84 =====
+(*0043*) (*004F*)C07You have conquered Devil's Peak!(*004F*)C00
+

@@ -175,6 +175,22 @@ Reads `OG/EBOOT.BIN` and writes dumps into `script/eboot/`. Existing files are s
 
 `--force` overwrites every dump. That wipes German if you already translated.
 
+### extract-dng-text.sh
+
+Reads `pack/dng/dXX/dXX.bin` from `P1_ISO` and writes dumps into `script/dng/`. Existing files are skipped.
+
+```bash
+./tools/extract-dng-text.sh
+```
+
+`--force` overwrites every dump. That wipes German if you already translated.
+
+Then:
+
+```bash
+./tools/patch-iso.sh dng
+```
+
 ### patch-eboot-options.sh
 
 Writes every `script/eboot/*.txt` back into `OG/EBOOT.BIN`. Does not touch the ISO. `patch-iso.sh eboot` already packs and writes the ISO.

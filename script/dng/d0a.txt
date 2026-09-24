@@ -1,0 +1,21 @@
+# Dungeon map overlays from pack/dng/d0a/d0a.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x252e4 | BYTES 68 =====
+(*0043*) There seems to be no one here...
+
+# --- 1 ---
+===== OFF 0x25374 | BYTES 74 =====
+(*0043*) You don't think anyone is around...
+
+# --- 2 ---
+===== OFF 0x25404 | BYTES 68 =====
+(*0043*) There seems to be no one here...
+
+# --- 3 ---
+===== OFF 0x25494 | BYTES 52 =====
+(*0043*) It seems to be locked...
+

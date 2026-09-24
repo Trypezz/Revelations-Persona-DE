@@ -1,0 +1,30 @@
+# Dungeon overlays: wrong-side chest, empty chest, empty tile, Liftoma/Core Shield worn off.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*PAD,N*), (*SHOW_OPTIONS,N*), (*0044*).
+# BYTES is the original size in the EBOOT. Longer German is refused.
+
+# --- 0 ---
+# chest opened from the wrong side
+===== OFF 0x1ee690 | BYTES 64 =====
+Du kannst es nicht erreichen.
+
+# --- 1 ---
+# empty chest
+===== OFF 0x1ee890 | BYTES 46 =====
+Da ist nichts drin.
+
+# --- 2 ---
+# searched an empty tile
+===== OFF 0x1eea90 | BYTES 66 =====
+(*0044*) Scheint nichts hier zu sein.
+
+# --- 3 ---
+# Liftoma worn off
+===== OFF 0x292ddc | BYTES 74 =====
+(*0043*) The effect of Liftoma has worn off.
+
+# --- 4 ---
+# Core Shield worn off
+===== OFF 0x292e3c | BYTES 80 =====
+(*0043*) The Core Shield's effect has worn off.
+

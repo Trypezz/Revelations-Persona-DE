@@ -1,0 +1,17 @@
+# Dungeon map overlays from pack/dng/d18/d18.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0x21168 | BYTES 42 =====
+(*004F*)NAyase(*LINE_BREAK*)Gah! Owwwwww!
+
+# --- 1 ---
+===== OFF 0x21424 | BYTES 52 =====
+(*0043*) The door is frozen shut.
+
+# --- 2 ---
+===== OFF 0x214a4 | BYTES 58 =====
+(*0043*) The door is tightly sealed.
+

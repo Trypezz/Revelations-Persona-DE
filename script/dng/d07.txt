@@ -1,0 +1,13 @@
+# Dungeon map overlays from pack/dng/d07/d07.bin.
+# Edit the body under each header. Do not change ===== header lines.
+# Leave every (*TAG*) intact, including (*0043*), (*004F*), (*LINE_BREAK*).
+# BYTES is the original size in the map file. Longer German is refused.
+
+# --- 0 ---
+===== OFF 0xae10 | BYTES 92 =====
+(*0043*) There's a lever on the wall.(*LINE_BREAK*)Pull the lever?
+
+# --- 1 ---
+===== OFF 0xaec0 | BYTES 92 =====
+(*0043*) There's a lever on the wall.(*LINE_BREAK*)Pull the lever?
+
