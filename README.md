@@ -9,8 +9,12 @@ Unofficial German translation of Revelations: Persona for the PSP.
 
 <table>
   <tr>
+    <td><img src="docs/screenshots/mainmenu.png" width="100%"></td>
     <td><img src="docs/screenshots/Prolog.png" width="100%"></td>
+  </tr>
+  <tr>
     <td><img src="docs/screenshots/dialogue-text.png" width="100%"></td>
+    <td><img src="docs/screenshots/dialogue-text2.png" width="100%"></td>
   </tr>
   <tr>
     <td><img src="docs/screenshots/dungeon-text.png" width="100%"></td>
@@ -20,15 +24,33 @@ Unofficial German translation of Revelations: Persona for the PSP.
 
 This repo is the translation. German `.TXT` files, notes, and the scripts that copy those files into a local tool. The game itself does not belong here.
 
-Persona is Atlus / SEGA. This project is not affiliated with them. You need your own dump. Do not open a pull request that adds an ISO, `EBOOT.BIN`, or extracted UMD files.
+Persona is Atlus / SEGA. This project is not affiliated with them. You need your own dump. Do not open a pull request that adds an ISO, `EBOOT.BIN`, or anything that was not modified.
 
 ## Important
 
-- This repo is designed to fail on your system. I do not ship the important Python script that patches the EBOOT.BIN, so you are not able to translate anything in there.
 - Still heavily WIP. Only the first school scenes are translated yet.
-- To make umlauts readable in-game you need the [`HD-UI Mod`](https://gamebanana.com/mods/309876) and paste the `2FontB.png` from PersonaFlowReader into `PSP/TEXTURES/ULUS10432` of your emulator.
+- I made the [`HD-UI Mod`](https://gamebanana.com/mods/309876) now as a requirement to make umlauts and texture translation possible
+- Just paste the contents of `TEXTURES/` into `PSP/TEXTURES/` of your emulator. I made changes to the font atlas and some textures like menu stuff already.
+
+## Future
+
+- This translation is planned to be complete in the future. I still need to figure out where some text live, extract it, translate it and put it pack into the iso
+- The plan is to make it easy as possible to use. Plan is to provide a patched ISO (somehow) and the translated Textures
+
+## Requirements
+
+- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader)
+- [`HD-UI Mod`](https://gamebanana.com/mods/309876)
+- p7zip
+- python3
+- java
+- An original Persona 1 PSP ISO and a decrypted `EBOOT.BIN`
 
 ## How you work
+
+### Info
+
+I now added the important `eboot_options.py` so now you can patch your own dump by yourself with my toolchain.
 
 PersonaFlowReader is still needed. The jar does the encode/archive. You just don't sit in its menu every day. `build-pack.sh` starts it for you. First time you still extract and decode in the menu (see `tools/README.md`). After that, leave it alone.
 
@@ -52,7 +74,7 @@ These are `script/E0/*.TXT` (later E1-E4). One file is one room/event.
 
 That is the whole event pipeline. `build-pack.sh` copies the German text, puts untouched rooms back to vanilla, encodes only the German scenes (via the PFR jar), keeps every room at its original size, packs `E0.BIN`, and writes it into the test ISO.
 
-Do **not** encode the whole `extracted/E0/` folder in the PersonaFlowReader menu. That rewrites rooms you never translated, later rooms slide, and the game loading-loops.
+Do **not** encode the whole `extracted/E0/` folder in the PersonaFlowReader menu. That rewrites rooms you never translated, later rooms slide, and the game loading-loops.<https://gamebanana.com/mods/309876>
 
 ### Menus / UI (Yes/No, room names, battle text, items)
 
@@ -101,14 +123,6 @@ Set three paths in `config.env`:
 
 You also need a decrypted `EBOOT.BIN` in `$PFR_ROOT/OG/`, the `EX.BIN` packs in the same folder, and PersonaFlowReader built once. The jar has to stay there. `build-pack.sh` will not work without it. How to dump and build is in `tools/README.md`.
 
-## Requirements
-
-- [`PersonaFlowReader`](https://github.com/TopCape/PersonaFlowReader)
-- p7zip
-- python3
-- java
-- An original Persona 1 PSP ISO and a decrypted `EBOOT.BIN`
-
 ## Layout
 
 ```
@@ -123,12 +137,12 @@ PersonaFlowReader and the ISO should live next to this repo, not inside it. `con
 
 ## What is in git
 
-| In the repo       | Not in the repo                                   |
-| ----------------- | ------------------------------------------------- |
-| `script/**/*.TXT` | ISOs                                              |
-| `script/eboot/`   | decrypted `EBOOT.BIN` (keep that in `OG/`)        |
-| `docs/`           | `E0.BIN`–`E4.BIN`, `EBOOT.BIN`                    |
-| `tools/`          | `.EVS`, audio, maps, textures dumped from the UMD |
-| this README       | PersonaFlowReader itself                          |
+| In the repo       | Not in the repo                            |
+| ----------------- | ------------------------------------------ |
+| `script/**/*.TXT` | ISOs                                       |
+| `script/eboot/`   | decrypted `EBOOT.BIN` (keep that in `OG/`) |
+| `docs/`           | `E0.BIN`–`E4.BIN`, `EBOOT.BIN`             |
+| `tools/`          | `.EVS`, audio                              |
+| this README       | PersonaFlowReader itself                   |
 
 `git status` should never show an `.iso` or a `.BIN`. If it does, stop and check `.gitignore`.

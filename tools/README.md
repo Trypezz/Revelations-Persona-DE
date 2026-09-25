@@ -10,9 +10,13 @@ The number you pass is the pack. `0` = E0, `1` = E1, `2` = E2, `3` = E3, `4` = E
 
 PersonaFlowReader is still required. `build-pack.sh` calls `java -jar` for encode and archive. You need the jar, `table/`, `OG/` and `extracted/`. You just don't have to click the menu after the first extract/decode.
 
+## IMPORTANT
+
+I made some changes to PersonaFlowReader myself, so it suits my workflow. If needed I provide these changes.
+
 ## Daily work
 
-You already finished setup. You are translating.
+The setup is already finished. You are translating.
 
 ### Event text (rooms)
 

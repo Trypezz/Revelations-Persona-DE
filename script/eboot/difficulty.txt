@@ -5,7 +5,7 @@
 
 # --- 0 ---
 ===== OFF 0x2d7968 | BYTES 128 =====
-(*0044*) Bevor das Spiel startet, bitte(*LINE_BREAK*)wähle die Schwierigkeit.
+(*0044*) Bevor das Spiel startet, bitte(*LINE_BREAK*)wähle die Schwierigkeit
 
 # --- 1 ---
 ===== OFF 0x2d79ea | BYTES 128 =====
@@ -17,7 +17,7 @@
 
 # --- 3 ---
 ===== OFF 0x2d7afa | BYTES 154 =====
-(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+(*CONTINUE*)(*0044*) Die Schwierigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
 
 # --- 4 ---
 ===== OFF 0x2d7b96 | BYTES 342 =====
@@ -33,7 +33,7 @@
 
 # --- 7 ---
 ===== OFF 0x2d7df6 | BYTES 158 =====
-(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+(*CONTINUE*)(*0044*) Die Schwierigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
 
 # --- 8 ---
 ===== OFF 0x2d7e96 | BYTES 222 =====
@@ -45,9 +45,9 @@
 
 # --- 10 ---
 ===== OFF 0x2d7ffe | BYTES 154 =====
-(*CONTINUE*)(*0044*) Die Schiwerigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
+(*CONTINUE*)(*0044*) Die Schwierigkeit ist nicht(*LINE_BREAK*)zu ändern, sobald das Spiel startet. Okay?
 
 # --- 11 ---
 ===== OFF 0x2d809a | BYTES 296 =====
-(*SHOW_OPTIONS,0*)(*FF01*)(*PAD,104*)(*0044*) Dann viel Spass in Revelatios: Persona.
+(*SHOW_OPTIONS,0*)(*FF01*)(*PAD,104*)(*0044*) Viel Spass mit Revelations: Persona.
 

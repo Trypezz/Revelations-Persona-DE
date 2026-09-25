@@ -30,7 +30,7 @@ Nein.
 Spielstart
 
 ===== ID 3 SLOT 1 | OFF 0x2c0fde | BYTES 22 =====
-Pruef coins
+Prüfe coins
 
 ===== ID 3 SLOT 2 | OFF 0x2c0ff6 | BYTES 32 =====
 See explanations

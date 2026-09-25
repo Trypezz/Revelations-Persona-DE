@@ -11,7 +11,7 @@
 "(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Also glauben sie, dass auch mit uns(*LINE_BREAK*) etwas sein könnte?(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Oh, nicht wie du denkst. Ich sehe euch an,(*LINE_BREAK*)dass ihr mental gesund seid.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Allerdings mache ich mir sorgen, dass ihr euch(*LINE_BREAK*)verletzt habt, als ihr zusammengebrochen(*LINE_BREAK*)seid, also bitte geht zum Doktor.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Yukino(*LINE_BREAK*)Also gibt es doch etwas,(*LINE_BREAK*)was Sie aus der Fassung bringen kann,(*LINE_BREAK*)Frau Saeko... Also gut, wir gehen.(*AWAITING_INPUT*)"
-"(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)Apropos Mikage Krankenhaus, ist nicht einer(*LINE_BREAK*)ihrer Studenten dort?(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Krankenschwester Natsumi(*LINE_BREAK*)Apropos Mikage Krankenhaus, ist nicht einer(*LINE_BREAK*)ihrer Studenten dort?(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Mark(*LINE_BREAK*)Sie meinen Maki, richtig...?(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Ja, das stimmt.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Ihr solltet sie besuchen, wenn ihr(*LINE_BREAK*)schon mal da seid.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Sie liegt dort schon seit fast(*LINE_BREAK*)einem Jahr... Ich bin mir sicher, dass sie sich(*LINE_BREAK*)Einsam fühlt.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Was habt ihr da eigentlich getrieben? Ich hab euch(*LINE_BREAK*)doch aufgetragen Dinge für das Sport(*LINE_BREAK*)Fest vorzubereiten.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Wir haben nur noch einen Monat und nichts(*LINE_BREAK*)ist fertig bis jetzt.(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Frau Saeko(*LINE_BREAK*)Sollen wir es dieses Jahr einfach absagen?!(*AWAITING_INPUT*)"
@@ -22,5 +22,5 @@
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Junge Seelen... Eure Anwesenheit ist willkommen.(*AWAITING_INPUT*)"
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Wollt ihr eure Geschichte in mich einritzen?(*AWAITING_INPUT*)(*SHOW_OPTIONS,0*)"	// Shows options: |"Yes"|"No"|
 "(*CHARACTER_NAME*)Agastya Tree(*LINE_BREAK*)Seid vorsichtig auf eurer Reise, junge Seelen...(*AWAITING_INPUT*)"
-"(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)Ich habe hier eine neue Pflanze hingestellt.(*LINE_BREAK*)Was denkst du? Macht den Raum lebendiger, oder?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Nurse Natsumi(*LINE_BREAK*)Es wird gesagt, wenn man mit ihnen spricht,(*LINE_BREAK*)leben sie länger. Versuch es doch mal, (*PLAYER_FIRST_NAME*).(*AWAITING_INPUT*)"
+"(*CHARACTER_NAME*)Krankenschwester Natsumi(*LINE_BREAK*)Ich habe hier eine neue Pflanze hingestellt.(*LINE_BREAK*)Was denkst du? Macht den Raum lebendiger, oder?(*AWAITING_INPUT*)(*CONTINUE*)(*CHARACTER_NAME*)Krankenschwester Natsumi(*LINE_BREAK*)Es wird gesagt, wenn man mit ihnen spricht,(*LINE_BREAK*)leben sie länger. Versuch es doch mal, (*PLAYER_FIRST_NAME*).(*AWAITING_INPUT*)"
 "(*WAIT,32*)Das ist wirklich... aussergewönlich.(*WAIT,128*)(*WAIT,80*)"
