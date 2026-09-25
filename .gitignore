@@ -20,7 +20,7 @@ OG/
 output/
 extracted/
 PersonaFlowReader/
-TEXTURES/
+TEXTURES/de
 
 # Editors / junk
 .DS_Store
@@ -29,5 +29,4 @@ TEXTURES/
 *~
 *.tmp
 __pycache__
-eboot_options.py
 test.txt
